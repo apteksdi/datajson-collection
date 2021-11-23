@@ -9,6 +9,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -50,6 +51,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pemberdayaan Masyarakat Dan Desa",
                 "hasEmail": "mailto:dpmdesa@jabarprov.go.id"
             },
@@ -93,6 +95,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Tanaman Pangan Dan Hortikultura",
                 "hasEmail": "mailto:distan@jabarprov.go.id"
             },
@@ -136,6 +139,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.idv"
             },
@@ -177,6 +181,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -218,6 +223,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -243,6 +249,7 @@
             "landingPage": "https://opendata.jabarprov.go.id/id/dataset/jumlah-kepala-sekolah-dan-guru-sekolah-menengah-atas-sma-berdasarkan-kelompok-umur-di-jawa-barat",
             "modified": "2021-09-11",
             "publisher": {
+                "@type": "vcard:Contact",
                 "@type": "org:Organization",
                 "name": "Dinas Pendidikan"
             },
@@ -258,6 +265,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -298,6 +306,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -339,6 +348,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "@type": "vcard:Contact",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
