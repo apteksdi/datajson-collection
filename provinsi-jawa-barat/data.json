@@ -9,7 +9,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -51,7 +51,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pemberdayaan Masyarakat Dan Desa",
                 "hasEmail": "mailto:dpmdesa@jabarprov.go.id"
             },
@@ -95,7 +95,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Tanaman Pangan Dan Hortikultura",
                 "hasEmail": "mailto:distan@jabarprov.go.id"
             },
@@ -139,7 +139,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.idv"
             },
@@ -181,7 +181,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -223,7 +223,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -265,7 +265,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -306,7 +306,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
@@ -348,7 +348,7 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "@type": "vcard:Contact",
+                "@type": "vcard:Organization",
                 "fn": "Dinas Pendidikan",
                 "hasEmail": "mailto:disdik@jabarprov.go.id"
             },
