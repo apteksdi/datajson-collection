@@ -1,0 +1,278 @@
+id,url,title,description,config,created,type,active,user_id,publisher_id,frequency,next_run
+51ebfbec-71e9-456f-9080-ada8f468a541,http://magetankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Magetan - Spasial,"","",2021-09-08 09:50:50.098913,csw,t,"","",MANUAL,2021-09-11 10:03:49.483718
+4932fd96-d193-41b9-8f4a-c5f63c62df8d,http://madiunkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Madiun - Spasial,"","",2021-09-08 09:47:54.219302,csw,t,"","",MANUAL,2021-09-11 10:03:49.526662
+dccca9f2-0aa4-4faa-8896-ec14400ccc0c,http://tanahdatarkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Tanah Datar - Spasial,"","",2021-09-08 11:21:47.628664,csw,t,"","",MANUAL,2021-09-11 11:34:05.140077
+52710e24-23ad-494a-9218-a3a799d292c0,https://tanahair.indonesia.go.id/sdi/,Kementerian Perhubungan - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-perhubungan""]
+}",2021-12-19 09:59:22.124711,ckan,t,"","",MANUAL,
+0923a3d3-ef7e-4110-b8be-a5013ce8ba1c,https://data.acehprov.go.id/,Pemerintah Provinsi Aceh - CKAN,"","",2021-09-08 16:26:17.914085,ckan,t,"","",MANUAL,2021-10-19 19:18:40.873392
+332a56cd-1caf-44b2-92c0-cb57156708e7,https://monitoringpk21.bkkbn.go.id/data.json,Badan Kependudukan dan Keluarga Berencana Nasional - DCAT,"","",2021-12-21 03:55:08.701848,dcat_json,t,"","",MANUAL,
+3638a125-6416-415f-ae8e-66997196d0f3,http://geoportal.mubakab.go.id/csw,Pemerintah Kabupaten Musi Banyuasin - Spasial,"","",2021-09-08 09:15:54.427716,csw,f,"","",DAILY,
+d71fba54-ee3e-4259-8a97-557f46dd517b,https://raw.githubusercontent.com/kangmoesss/datajson-collection/master/kementan.json,Kementerian Pertanian - DCAT,"","",2022-01-04 02:31:52.950214,dcat_json,t,"","",MANUAL,
+b40467b7-f001-479a-9c98-5e7a017f7496,http://lumajangkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Lumajang - Spasial,"","",2021-09-08 09:45:45.933217,csw,t,"","",MANUAL,2021-09-11 10:03:49.570101
+bc14fdf5-d0a8-41b7-8429-e59bed0b2228,http://pamekasankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Pamekasan - Spasial,"","",2021-09-08 10:03:12.070902,csw,t,"","",MANUAL,2021-09-11 10:18:52.594719
+67d04a8b-9e5c-4fa2-b339-2dd38229c659,http://pacitankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Pacitan - Spasial,"","",2021-09-08 09:58:18.305269,csw,t,"","",MANUAL,2021-09-11 10:18:52.640687
+37ff921a-340f-44ed-b6ad-dee3467328b6,http://admindata.depok.go.id/,Pemerintah Kota Depok - CKAN,"","",2021-09-16 12:52:55.269697,ckan,t,"","",MANUAL,
+f5bfc59c-aa7b-4c50-838b-5776d20a0467,http://solokkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Solok - Spasial,"","",2021-09-08 11:16:46.750342,csw,t,"","",MANUAL,2021-09-11 11:34:05.184087
+ad51f33d-36de-4a51-a2b6-fdb2c31a8ce4,http://sidoarjokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Sidoarjo - Spasial,"","",2021-09-08 10:12:52.7559,csw,t,"","",MANUAL,2021-09-11 10:33:55.898193
+31ff7803-da07-4946-a6e8-1e0e992affa4,http://probolinggokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Probolinggo - Spasial,"","",2021-09-08 10:10:13.871828,csw,t,"","",MANUAL,2021-09-11 10:18:52.504986
+7babea23-5147-46a3-a567-217c1f55ceba,http://103.170.104.189/data/DPR/data_DPR.json,Dewan Perwakilan Rakyat - DCAT,"","",2022-01-10 03:26:02.82759,dcat_json,f,"","",MANUAL,
+da50e6e6-4ffc-4f85-bb63-823b4bce8845,https://data.pu.go.id/data.json?page=0,Kementerian Pekerjaan Umum dan Perumahan Rakyat - DCAT,"","",2021-09-08 16:32:37.301323,dcat_json,t,"","",MANUAL,2021-09-29 17:00:09.1893
+65e8a180-d9ab-40d6-8600-ec549be91b9e,http://10.42.0.15/data/DKI/dki.json,Pemerintah Provinsi Daerah Khusus Ibukota Jakarta - DCAT,"","",2021-12-21 04:23:16.425927,dcat_json,f,"","",WEEKLY,2022-01-18 04:48:36.797233
+cce68396-4184-44a6-947b-3a89b1f449f9,https://tanahair.indonesia.go.id/sdi/,Kementerian Energi dan Sumber Daya Mineral - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-energi-dan-sumber-daya-mineral""]
+}",2021-12-19 10:00:59.488033,ckan,t,"","",MANUAL,
+15a29038-f05c-426d-acf6-4d9b4525c965,http://mojokertokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Mojokerto - Spasial,"","",2021-09-08 11:56:54.909262,csw,f,"","",DAILY,2021-09-09 11:57:24.909368
+f4854a9a-179d-40ba-86e3-f6f5ae1e0463,http://103.170.104.189/data/DPR/data_DPR.json,Dewan Perwakilan Rakyat - DCAT,"","",2022-01-10 03:33:23.417403,dcat_json,f,"","",MANUAL,
+0d26e97c-9305-4d46-b9bc-53e50faadc37,http://10.42.0.15/data/DPR/data_DPR.json,Dewan Perwakilan Rakyat - DCAT,"","",2022-01-10 03:59:50.193535,dcat_json,t,"","",MANUAL,
+d811d024-1d01-43b0-816f-c395db5b8983,https://data.sanggau.go.id/,Pemerintah Kabupaten Sanggau - CKAN,"","",2021-09-10 09:37:17.397042,ckan,t,"","",MANUAL,2021-10-19 12:32:20.685727
+65e5204b-72e5-45ab-a547-49e7fd14b587,http://kapuashulukab.ina-sdi.or.id/csw,Pemerintah Kabupaten Kapuas Hulu - Spasial,"","",2021-09-13 06:53:50.530165,csw,t,"","",DAILY,2022-02-15 20:12:47.981084
+bb885d2e-9b31-4cfe-aa50-fe7f344c48a2,https://ckan.data.bandaacehkota.go.id/,Pemerintah Kota Banda Aceh - CKAN,"","",2021-09-10 07:26:07.187335,ckan,t,"","",WEEKLY,2022-02-17 11:50:02.283956
+6844b05f-4376-45c4-a1fe-8e49d3de4fca,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sumatera Barat - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sumatera-barat""]
+}",2021-09-08 08:07:44.560906,ckan,t,"","",WEEKLY,2022-02-16 11:42:05.116893
+659835a0-99a4-48f7-a33d-f25850afcbf3,http://kotawaringinbaratkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Kotawaringin Barat - Spasial,"","",2021-09-13 04:32:31.511752,csw,t,"","",DAILY,2022-02-15 20:12:48.323481
+c1f46046-959b-423b-8aea-1a757ec96447,http://103.135.180.103/,Kabupaten Kulon Progo - CKAN,"","",2022-01-10 04:14:30.920253,ckan,t,"","",WEEKLY,2022-02-21 04:51:17.652418
+4bc53008-b409-4cf5-9d19-2a5a28cb4b2a,http://sorongkab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Sorong - Spasial,"","",2021-09-09 15:05:31.037007,csw,t,"","",DAILY,2022-02-15 20:12:51.454546
+192999a2-dc35-4d2f-94a6-85e32341a493,http://geoportal.sampangkab.go.id/csw,Pemerintah Kabupaten Sampang - Spasial,"","",2021-09-16 13:58:00.930279,csw,t,"","",DAILY,2022-02-15 20:12:46.363897
+22859a38-4314-4ca3-8bd3-bf053eebf6c8,https://data.kominfo.go.id/,Kementerian Komunikasi dan Informatika - CKAN,"","",2021-09-08 16:43:35.065856,ckan,t,"","",WEEKLY,2022-02-16 18:59:18.412666
+b039cf45-7407-4db5-ae2a-d8b18774fb0b,http://data.lan.go.id/,Lembaga Administrasi Negara - CKAN,"","",2021-09-08 16:46:16.160469,ckan,t,"","",WEEKLY,2022-02-16 18:59:18.336378
+4f0c81e1-bab5-4777-bcfb-b67325fda028,http://data.mojokertokota.go.id/,Pemerintah Kota Mojokerto - CKAN,"","",2021-09-10 09:46:19.912782,ckan,t,"","",WEEKLY,2022-02-17 13:05:26.004862
+cd950905-ebb5-481f-bb4b-f77ff0c312b4,http://tapselkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Tapanuli Selatan,"","",2021-09-17 03:56:35.96778,csw,t,"","",DAILY,2022-02-15 20:12:45.898561
+83fecc4e-e3b7-4eb9-b992-467d4f4dfc3a,http://purwakartakab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Purwakarta - Spasial,"","",2021-09-10 03:05:45.798139,csw,t,"","",DAILY,2022-02-15 20:12:51.109856
+5670c330-790e-4a9e-ac98-ae1eb89a55b8,http://lahatkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Lahat - Spasial,"","",2021-09-13 04:53:45.384963,csw,t,"","",DAILY,2022-02-15 20:12:48.149405
+f84aa627-90a4-4739-93b7-15bb98a96de4,http://jemberkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Jember - Spasial,"","",2021-09-17 03:41:34.206151,csw,t,"","",DAILY,2022-02-15 20:12:46.186423
+eeb647c0-71aa-45f4-92a6-0eef6c0d717e,http://cimahikota.ina-sdi.or.id/csw/,Pemerintah Kota Cimahi - Spasial,"","",2021-09-10 03:17:55.860995,csw,t,"","",DAILY,2022-02-15 20:12:50.945253
+8bdd54bd-d3ee-49c8-b975-ca98d9aecc61,http://180.250.158.197/,Pemerintah Kota Bontang - CKAN,"","",2022-01-11 04:42:17.563876,ckan,t,"","",MONTHLY,2022-03-01 05:12:13.442989
+70c549b6-4ab2-414c-9543-43f648d9dea7,http://majalengkakab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Majalengka - Spasial,"","",2021-09-09 15:40:33.47748,csw,t,"","",DAILY,2022-02-15 20:12:51.27327
+366bbe6e-3e58-440c-a392-d135dbcb8020,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Kalimantan Tengah - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-kalimantan-tengah""]
+}",2021-11-04 01:55:33.616256,ckan,t,"","",MANUAL,
+864b5706-d7db-4c20-9743-6c39a4acc87a,https://opendata.makassar.go.id/api/3/action/package_search,Pemerintah Kota Makassar - CKAN,"","",2021-09-10 12:54:44.836077,ckan,f,"","",DAILY,
+3b228488-c3b8-4039-be24-6044a664673a,http://appsrv1.deltadatamandiri.com/data/jabar.json,Pemerintah Provinsi Jawa Barat - Testing DCAT Json,"","",2021-09-14 03:33:06.545892,dcat_json,f,"","",MANUAL,
+fefe78d5-7025-46b3-aece-594f58a3f077,https://tanahair.indonesia.go.id/sdi/,"Badan Meteorologi, Klimatologi, dan Geofisika - Spasial","","{
+ ""organizations_filter_include"": [""badan-meteorologi-klimatologi-dan-geofisika""]
+}",2021-12-19 10:29:43.838778,ckan,t,"","",MANUAL,
+b8bbba87-0f4b-4d9d-80e2-07666a461af2,http://geoportal.kukarkab.go.id:8080/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&version=2.0.2,Pemerintah Kabupaten Kutai Timur - Spasial,"","",2021-09-13 02:33:43.402155,csw,f,"","",DAILY,2021-09-14 02:43:10.967116
+47556fed-f696-4632-9ed3-b3b94a387f1a,https://data.go.id/static-asset/csv/data.json,Badan Pusat Statistik - DCAT JSON,"","",2021-09-15 09:50:50.3302,dcat_json,f,"","",MANUAL,
+5fc0e5c3-de53-4227-8a1a-82fa656749c3,http://open.data.samarindakota.go.id/,Pemerintah Kota Samarinda - CKAN,"","",2021-09-16 04:25:13.695356,ckan,t,"","",MANUAL,2021-10-19 07:01:11.240009
+43e87b3f-f277-4587-8d02-8cea7aab8bb7,http://bandungbaratkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Bandung Barat - Spasial,"","",2021-09-16 13:08:46.77195,csw,f,"","",DAILY,
+e010ecbe-1cfe-40a4-99bb-bcd33a57febc,http://datahub.data.go.id/data/DKI/dki.json,Pemerintah Provinsi Daerah Khusus Ibukota Jakarta - DCAT,"","",2021-12-01 09:23:03.547095,dcat_json,f,"","",MANUAL,
+a89d3d1b-f35a-48b6-aebb-c256ad43d99c,http://appsrv1.deltadatamandiri.com/data/data_DPR.json,Dewan Perwakilan Rakyat,"","",2021-10-27 04:05:04.848107,dcat_json,f,"","",MANUAL,
+b1b03efd-75d8-4ea8-9e58-86f0e102c075,http://bangkalankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Bangkalan - Spasial,"","",2021-10-08 05:50:06.925173,csw,t,"","",MANUAL,
+4dcc18c1-aec6-4046-8a7e-a2e704e67a39,http://appsrv1.deltadatamandiri.com/data/jabar.json,Pemerintah Provinsi Jawa Barat - DCAT,"","",2021-10-28 01:08:27.697851,dcat_json,f,"","",MANUAL,
+dcc75430-acf6-4b47-abf4-279fb4d569e2,https://api-splpdev.layanan.go.id/bpsdcat/1.0/static-asset/csv/data.json,Badan Pusat Statistik - DCAT,"","",2021-10-30 01:01:36.689483,dcat_json,t,"","",MANUAL,
+2fd9d5d5-cada-43da-8c2f-3612cfc67351,http://trenggalekkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Trenggalek - Spasial,"","",2021-09-17 06:57:01.512509,csw,t,"","",MANUAL,
+dd598e11-596f-46e7-bafe-67233246c37c,http://tangsel.geoportal.bantenprov.go.id/csw,Pemerintah Kota Tangerang Selatan - Spasial,"","",2021-09-09 04:28:32.583112,csw,t,"","",DAILY,2022-02-15 20:12:52.343435
+27535710-e1f6-44eb-90c0-51f69c1fbfa1,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Bengkulu - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-bengkulu""]
+}",2021-09-09 02:41:45.583129,ckan,t,"","",DAILY,2022-02-15 20:12:52.700048
+614589f5-2b99-4d19-be12-5f019abdbf7b,http://sintangkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Sintang - Spasial,"","",2021-09-13 02:27:09.47044,csw,t,"","",DAILY,2022-02-15 20:12:48.506197
+96360467-cec0-425c-ba63-b84b9218858c,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Gorontalo - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-gorontalo""]
+}",2021-09-09 01:36:17.304074,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.952313
+cbce10c0-143f-40bc-b5a8-41cdc428fe6b,http://geoportal.kolakakab.go.id/catalogue/csw,Pemerintah Kabupaten Kolaka - Spasial,"","",2021-09-11 06:51:21.582482,csw,t,"","",DAILY,2022-02-15 20:12:48.871874
+c19b7458-41d5-467e-a7bb-372fa05ce819,http://geoportal.bukittinggikota.go.id/csw,Pemerintah Kota Bukittinggi - Spasial,"","",2021-09-08 11:24:40.170507,csw,t,"","",DAILY,2022-02-15 20:12:53.304907
+dc91cd30-f845-4c97-a7b5-650a6971ef6d,http://bondowosokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Bondowoso - Spasial,"","",2021-09-08 09:39:33.604401,csw,t,"","",DAILY,2022-02-15 20:12:53.638067
+11cbb53d-f120-4281-97a8-1ac1344a92df,https://opendata.blitarkab.go.id/,Pemerintah Kabupaten Blitar - CKAN,"","",2021-09-08 07:53:40.396063,ckan,t,"","",DAILY,2022-02-15 20:12:54.196532
+62dc2e63-8473-4b9e-8b41-f0d4ae68c974,http://blitarkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Blitar - Spasial,"","",2021-09-08 15:07:43.523489,csw,t,"","",DAILY,2022-02-15 20:12:52.904175
+47cf68b0-8421-4afb-a98b-0bcd1eee14bf,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Nusa Tenggara Timur - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-nusa-tenggara-timur""]
+}",2021-09-08 16:48:44.70072,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.118981
+099300c2-fa15-4240-bb34-f44fde6bb03d,http://geoportal.pasamanbaratkab.go.id/csw,Pemerintah Kabupaten Pasaman Barat,"","",2021-09-16 13:03:03.439934,csw,t,"","",DAILY,2022-02-15 20:12:46.713214
+16c9d0b4-ecbb-47cb-8986-7e2266d0ff76,http://geoportal.batangkab.go.id/csw,Pemerintah Kabupaten Batang - Spasial,"","",2021-09-13 07:05:03.746279,csw,t,"","",DAILY,2022-02-15 20:12:47.818046
+83148893-58f9-4eb9-a6ed-207de4a34417,https://data.belitung.go.id/,Pemerintah Kabupaten Belitung - CKAN,"","",2021-09-09 10:53:44.731151,ckan,t,"","",WEEKLY,2022-02-17 11:50:02.368467
+06ae73f8-6d54-41fd-b4f8-a9bba489f406,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Jambi - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-jambi""]
+}",2021-09-09 01:56:29.248774,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.776279
+894cc182-c304-4610-899a-a28ae46d44fa,http://10.42.0.15/data/DKI/dki.json,Pemerintah Provinsi DKI Jakarta - DCAT,"","",2022-01-11 04:53:27.986928,dcat_json,t,"","",WEEKLY,2022-02-15 15:41:03.4867
+0b3b694e-bca2-47f3-8902-ab0d905c0217,http://paserkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Paser - Spasial,"","",2021-09-16 12:46:48.745014,csw,t,"","",DAILY,2022-02-15 20:12:46.887763
+23e10ab3-ae8f-4826-b5f8-fbab308768cd,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Kalimantan Barat - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-kalimantan-barat""]
+}",2021-09-08 16:17:21.215485,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.200041
+a3dd6813-fd22-4270-96a7-cce9ab421488,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sulawesi Tenggara - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sulawesi-tenggara""]
+}",2021-09-08 15:02:51.699675,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.283383
+b0168872-e870-4c85-b045-6092289c0d98,http://geoportal.kebumenkab.go.id/csw,Pemerintah Kabupaten Kebumen - Spasial,"","",2021-09-13 02:14:29.134379,csw,t,"","",DAILY,2022-02-15 20:12:48.67633
+d3859482-9ea8-497a-9222-1e418b02130a,http://palangkarayakota.ina-sdi.or.id/csw,Pemerintah Kota Palangkaraya - Spasial,"","",2021-09-13 07:18:32.963497,csw,t,"","",DAILY,2022-02-15 20:12:47.644499
+0fc452b3-f713-48de-bcf4-0ea45df2fef1,https://data.pemkomedan.go.id/,Pemerintah Kota Medan - CKAN,"","",2021-09-09 14:43:46.403733,ckan,t,"","",DAILY,2022-02-15 20:12:51.61976
+472f1a60-28e9-4496-8593-a0c354951d66,http://appsrv1.deltadatamandiri.com/data/jabar.json,Pemerintah Provinsi Jawa Barat - DCAT,"","",2021-10-29 03:27:12.986543,dcat_json,f,"","",MANUAL,
+ff1c7a8f-fbef-4222-a9e4-e2d2970dfa28,http://geoportal.kukarkab.go.id:8080/geonetwork/srv/eng/csw?request=GetCapabilities&service=CSW&version=2.0.2,Pemerintah Kabupaten Kutai Kartanegara - Spasial,"","",2021-09-13 02:53:08.36385,csw,t,"","",MANUAL,2021-09-24 03:46:38.817746
+9984e823-e806-4da1-aa71-c3da01fbe6d9,https://tanahair.indonesia.go.id/csw,Badan Informasi Geospasial (CSW),"","",2021-10-06 14:43:44.358626,csw,f,"","",MANUAL,
+ee52c1fc-5eb8-44c1-9395-d075f013607d,http://appsrv1.deltadatamandiri.com/data/jabar.json,Pemerintah Provinsi Jawa Barat - DCAT,"","",2021-10-27 09:05:37.638026,dcat_json,f,"","",MANUAL,
+d034e436-c17c-47e9-853d-8b958f9d2030,http://appsrv1.deltadatamandiri.com/data/data_DPR.json,Dewan Perwakilan Rakyat - DCAT,"","",2021-10-29 03:58:26.37305,dcat_json,f,"","",MANUAL,
+f270dcb0-8abd-4238-b38e-76c1b779e12d,http://opendata.jatimprov.go.id/data.json,Pemerintah Provinsi Jawa Timur - DCAT,"","",2021-10-13 10:39:07.935211,dcat_json,t,"","",MANUAL,
+865457bd-cbf2-4db0-901f-a6cffcb36ffb,http://data.kutaitimurkab.go.id/,Pemerintah Kabupaten Kutai Timur - CKAN,"","",2021-09-22 04:45:15.280987,ckan,f,"","",DAILY,2021-09-23 04:48:27.947002
+a9eebd26-2102-432a-ab09-f33aece3702b,http://appsrv1.deltadatamandiri.com/data/jabar.json,Pemerintah Provinsi Jawa Barat - DCAT,"","",2021-10-29 06:38:26.976132,dcat_json,f,"","",MANUAL,
+f28fd22a-f9c0-466d-97a2-cf0bde4b2a44,http://appsrv1.deltadatamandiri.com/data/lipi.json,Lembaga Ilmu Pengetahuan Indonesia - DCAT,"","",2021-11-01 01:14:21.241045,dcat_json,f,"","",MANUAL,
+0da063e3-1c24-47f3-bc3a-1a08b80de5d4,http://datahub.data.go.id/data/DPR/data_DPR.json,Dewan Perwakilan Rakyat - DCAT,"","",2021-11-03 12:49:52.239202,dcat_json,f,"","",MANUAL,
+a6bf3c6a-97eb-4165-83b3-b934c7970676,http://palapa.big.go.id/sikambing/csw,Badan Informasi Geospasial - CSW,"","",2021-10-06 16:06:40.916831,csw,f,"","",MANUAL,
+b680da14-292c-4b38-887a-270a97997075,https://tanahair.indonesia.go.id/sdi/csw,BIG Test CSW,"","",2021-11-03 13:23:35.11344,csw,f,"","",MANUAL,
+44db7886-cc62-47d7-beb6-4210f01c2ed0,http://appsrv1.deltadatamandiri.com/data/lipi.json,Lembaga Ilmu Pengetahuan Indonesia - DCAT,"","",2021-11-05 11:28:38.16402,dcat_json,f,"","",MANUAL,
+71d11441-4fc7-4ba8-ad15-b1ff18899fc5,http://appsrv1.deltadatamandiri.com/data/lipi.json,Lembaga Ilmu Pengetahuan Indonesia - DCAT,"","",2021-11-03 13:04:42.068344,dcat_json,f,"","",MANUAL,
+0fc4b2f8-065a-4aaa-bb12-ac5a5f317e4a,https://datahub.data.go.id/data/jabar/jabar.json,Pemerintah Provinsi Jawa Barat - DCAT,"","",2021-10-29 08:41:16.316605,dcat_json,t,"","",MANUAL,
+d201d666-c682-4e9e-aa73-83dffb2142b4,http://appsrv1.deltadatamandiri.com/data/lipi.json,Lembaga Ilmu Pengetahuan Indonesia - DCAT,"","",2021-11-08 03:35:42.020658,dcat_json,f,"","",MANUAL,
+712819cf-7332-4181-9e1f-5f7eb8f3e36a,https://satudata.kemenag.go.id/,Kementerian Agama - CKAN,"","",2021-11-09 10:43:42.034523,ckan,t,"","",MANUAL,
+857ce80d-8407-429f-9def-7585edf984d1,https://datahub.data.go.id/data/LIPI/lipi.json,Lembaga Ilmu Pengetahuan Indonesia - DCAT,"","",2021-11-08 06:23:18.476001,dcat_json,t,"","",MANUAL,
+57e1a093-092b-4975-bc82-4ae7af8b3243,https://data.slemankab.go.id/data,Pemerintah Kabupaten Sleman - CKAN,"","",2021-09-09 14:34:40.181705,ckan,t,"","",DAILY,2022-02-15 20:12:51.804577
+6b589f48-d902-48b7-8e5c-e8c3f90c0515,http://satudatapalapa.mojokertokab.go.id/,Pemerintah Kabupaten Mojokerto - CKAN,"","",2021-12-16 03:43:09.98601,ckan,t,"","",WEEKLY,2022-02-17 05:03:01.471102
+dd5edaf6-d3b7-4399-b49a-3d47d18bbfd9,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Nusa Tenggara Barat - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-nusa-tenggara-barat""]
+}",2021-09-08 16:52:13.711715,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.034446
+7426ed69-d65b-4e54-b1b5-99ffc59184f7,http://merantikab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Meranti - Spasial,"","",2021-09-09 06:44:32.297699,csw,t,"","",DAILY,2022-02-15 20:12:51.972009
+d5496f79-7efe-4d7d-85b2-329aa9bb83be,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Kepulauan Bangka Belitung - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-kepulauan-bangka-belitung""]
+}",2021-09-08 12:07:11.962412,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.456984
+94a2474b-571a-4463-bafb-3a19b4b32ec4,http://gresikkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Gresik - Spasial,"","",2021-09-08 09:41:25.146634,csw,t,"","",DAILY,2022-02-15 20:12:53.558736
+e9a84462-3d33-4758-a6b7-e236dce255bd,http://siakkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Siak - Spasial,"","",2021-09-08 09:23:45.077054,csw,t,"","",DAILY,2022-02-15 20:12:53.886765
+8fe6c263-601f-438b-a4d4-6e510f80208b,http://sikkakab.ina-sdi.or.id/csw,Pemerintah Kabupaten Sikka - Spasial,"","",2021-09-08 09:03:16.573927,csw,t,"","",DAILY,2022-02-15 20:12:54.051068
+4b03ad0d-5637-48c9-a234-4ca522440461,http://data.kalbarprov.go.id/,Pemerintah Provinsi Kalimantan Barat - CKAN,"","",2021-09-08 15:09:48.272591,ckan,t,"","",WEEKLY,2022-02-17 11:50:02.530206
+58a36592-aa24-4be7-be24-86f3e26d5d63,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sulawesi Barat - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sulawesi-barat""]
+}",2021-09-08 14:59:04.682246,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.375407
+8e76a072-7dfe-416b-9999-88a6f7db84d2,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Bali - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-bali""]
+}",2021-09-08 11:44:48.504324,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.533114
+fde4c945-5e15-42b0-9226-0b6230d9fff3,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Maluku Utara - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-maluku-utara""]
+}",2021-09-08 08:38:07.313106,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.612284
+4436ac5e-a303-4ad6-aec5-4c9a2c9232f7,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Maluku - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-maluku""]
+}",2021-09-08 08:34:42.781834,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.778156
+b6324837-4f72-4f0c-b55c-929ae83bb645,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Papua - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-papua""]
+}",2021-09-08 08:28:29.901969,ckan,t,"","",WEEKLY,2022-02-16 11:42:04.883704
+47a6414b-70bf-4469-af71-ab27df6d01a1,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sumatera Selatan - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sumatera-selatan""]
+}",2021-09-08 08:13:04.473241,ckan,t,"","",WEEKLY,2022-02-16 11:42:05.033066
+f7d73342-426c-47fa-b008-0b0af8572a09,http://indragirihulukab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Indragiri Hulu - Spasial,"","",2021-09-09 06:36:37.620824,csw,t,"","",DAILY,2022-02-15 20:12:52.15432
+04457baf-6b02-4771-9d8c-01653bdf9f8c,http://tubankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Tuban - Spasial,"","",2021-09-17 07:14:32.386115,csw,t,"","",DAILY,2022-02-15 20:12:45.630579
+082e4f3d-13e7-49f4-bbbf-672465ab5802,http://ponorogokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Ponorogo - Spasial,"","",2021-09-08 10:05:35.141126,csw,t,"","",DAILY,2022-02-15 20:12:53.389766
+a0ca296a-4cb1-4ca1-9383-6e10cdcbd471,http://singkawangkota.ina-sdi.or.id/csw,Pemerintah Kota Singkawang - Spasial,"","",2021-09-13 04:46:02.332054,csw,t,"","",DAILY,2022-02-15 20:12:48.235415
+44aa7177-86bc-4740-adf7-eff9102b665c,http://oganilirkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Ogan Ilir - Spasial,"","",2021-09-09 04:07:33.007199,csw,t,"","",DAILY,2022-02-15 20:12:52.5235
+8f891faf-e0ff-401a-b328-66359e5a28a3,http://lampungbaratkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Lampung Barat - Spasial,"","",2021-09-16 12:58:29.335549,csw,t,"","",DAILY,2022-02-15 20:12:46.805193
+c0b25f5a-666d-4200-9e53-16345dd38cfb,https://satudata.go.id/data/,Pemerintah Provinsi Daerah Khusus Ibukota Jakarta - DCAT,"","{
+ ""organizations_filter_include"": [""pemerintah-provinsi-dki-jakarta""]
+}",2021-12-02 08:55:32.027405,ckan,f,"","",MANUAL,
+b5a13fc4-b831-4cce-b741-d69b10df4d15,https://datahub.data.go.id/data/DKI/dki.json,Pemerintah Daerah Khusus Ibukota Jakarta - DCAT,"","",2021-12-05 12:29:09.725679,dcat_json,f,"","",DAILY,2021-12-21 12:22:19.750815
+c913059c-838f-493b-b218-0b904fe0a7da,http://34.101.76.81:2512/csw,big csw,"","",2021-11-22 02:37:04.488072,csw,f,"","",MANUAL,
+1fee78b1-f97f-4d7a-89e5-d07aa2f9301a,https://datahub.data.go.id/data/Kugi/kugi.json,Badan Informasi Geospasial - KUGI - DCAT,"","",2021-12-15 06:01:56.576538,dcat_json,f,"","",MANUAL,
+f360d1c2-23ba-44c2-949b-aaa7b09bcc98,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Daerah Khusus Ibukota Jakarta - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-daerah-khusus-ibukota-jakarta""]
+}",2021-12-01 10:41:09.498667,ckan,t,"","",MANUAL,
+81bdc2a2-b5d9-4968-a82f-221a1ea797f8,https://tanahair.indonesia.go.id/sdi/,Badan Nasional Penanggulangan Bencana - Spasial,"","{
+ ""organizations_filter_include"": [""badan-nasional-penanggulangan-bencana""]
+}",2021-11-04 02:18:21.107753,ckan,t,"","",MANUAL,
+db2738c6-31ec-4bd8-a811-17cab86db442,https://tanahair.indonesia.go.id/sdi/,Kementerian Lingkungan Hidup dan Kehutanan - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-lingkungan-hidup-dan-kehutanan""]
+}",2021-11-18 10:33:01.41224,ckan,t,"","",MANUAL,
+5ee67b5a-9cb9-4e68-8c4a-95ca2d29510d,https://tanahair.indonesia.go.id/sdi/,Kementerian PPN Bappenas - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-perencanaan-pembangunan-nasional-badan-perencanaan-pembangunan-nasional""]
+}",2021-11-18 10:35:30.867832,ckan,t,"","",MANUAL,
+1f3eefde-73b8-4f63-8ce0-946b84e7fcae,https://tanahair.indonesia.go.id/sdi/,Kementerian Dalam Negeri - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-dalam-negeri""]
+}",2021-11-18 10:36:50.342469,ckan,t,"","",MANUAL,
+ecac2bcc-f11d-4d89-8046-6ba5dff23667,https://tanahair.indonesia.go.id/sdi/,Kementerian Pertanian  - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-pertanian""]
+}",2021-11-18 10:39:03.354937,ckan,t,"","",MANUAL,
+4ecd5c8d-c392-495d-aa2b-35a163a6e13d,https://tanahair.indonesia.go.id/sdi/,Kementerian Pekerjaan Umum dan Perumahan Rakyat - Spasial,"","{
+ ""organizations_filter_include"": [""kementerian-pekerjaan-umum-dan-perumahan-rakyat""]
+}",2021-11-18 10:40:47.788878,ckan,t,"","",MANUAL,
+919bea91-6ed9-4018-b027-a23cfad79b3a,http://palapa.big.go.id/sikambing/csw,Badan Informasi Geospasial - CSW,"","",2021-12-01 10:21:36.231697,csw,t,"","",MANUAL,
+740279fe-8342-47f2-b11a-d789a2321181,https://data.kaltimprov.go.id/,Pemerintah Provinsi Kalimantan Timur - CKAN,"","",2021-09-08 16:22:05.823309,ckan,t,"","",DAILY,2022-02-15 20:12:52.816847
+1d3f2209-af9b-4a65-b9b5-84f2238f4b87,http://bandungkota.ina-sdi.or.id/csw/,Pemerintah Kota Bandung - Spasial,"","",2021-09-08 15:05:56.195375,csw,t,"","",DAILY,2022-02-15 20:12:52.982815
+14e0875d-f644-409f-b123-eb2515524cdc,http://geoportal.lebongkab.go.id/csw,Pemerintah Kabupaten Lebong - Spasial,"","",2021-09-08 11:38:04.207668,csw,t,"","",DAILY,2022-02-15 20:12:53.065414
+451a8048-a19e-4c6c-a48e-65ea648e5847,http://payakumbuhkota.ina-sdi.or.id/csw,Pemerintah Kota Payakumbuh - Spasial,"","",2021-09-08 11:33:33.838653,csw,t,"","",DAILY,2022-02-15 20:12:53.145862
+e362568a-ad4c-4c2f-8194-3b08753b3a17,http://malangkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Malang - Spasial,"","",2021-09-08 09:55:40.451846,csw,t,"","",DAILY,2022-02-15 20:12:53.476015
+e9773815-d3be-4f46-a0f7-d069fa2e2d0e,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Lampung - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-lampung""]
+}",2021-12-01 09:01:34.468592,ckan,t,"","",WEEKLY,2022-02-16 09:56:31.270028
+6056600f-43bc-43a3-868d-9e7dffe294ab,http://jayapurakab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Jayapura - Spasial,"","",2021-09-08 09:37:17.142973,csw,t,"","",DAILY,2022-02-15 20:12:53.721832
+bdf891b7-21ed-470f-b8a2-8a236ff93288,http://mempawahkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Mempawah - Spasial,"","",2021-09-08 09:30:59.388917,csw,t,"","",DAILY,2022-02-15 20:12:53.806434
+42b3037e-28f2-451a-885d-fd3e82f69251,http://banyuwangikab.ina-sdi.or.id/csw,Pemerintah Kabupaten Banyuwangi - Spasial,"","",2021-09-08 09:12:49.824496,csw,t,"","",DAILY,2022-02-15 20:12:53.967606
+29422f93-62b4-4e6f-a3f1-05100625b8af,http://data.bandung.go.id/,Pemerintah Kota Bandung - CKAN,"","",2021-09-08 08:44:39.472018,ckan,t,"","",DAILY,2022-02-15 20:12:54.104455
+e94d8b83-1ed6-485d-a411-1c38d4c68739,http://banjarkota.ina-sdi.or.id/csw,Pemerintah Kota Banjar - Spasial,"","",2021-09-17 07:24:54.903695,csw,t,"","",DAILY,2022-02-15 20:12:45.26586
+b2e6ddc7-e1e2-4c3e-af09-be4886879dc2,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sulawesi Utara - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sulawesi-utara""]
+}",2021-12-01 10:11:08.907311,ckan,t,"","",WEEKLY,2022-02-16 11:11:53.731729
+4c48c03a-61c0-4507-b076-4d1a5ff2c4d0,http://kuningankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Kuningan - Spasial,"","",2021-09-17 07:22:31.239004,csw,t,"","",DAILY,2022-02-15 20:12:45.350919
+c2607374-c334-4cae-9d4f-2cd80c397d70,http://mimikakab.ina-sdi.or.id/csw,Pemerintah Kabupaten Mimika,"","",2021-09-17 07:19:20.507096,csw,t,"","",DAILY,2022-02-15 20:12:45.449131
+617b6c58-2ef9-4fbc-b7d8-1495d3c96d34,http://indramayukab.ina-sdi.or.id/csw,Pemerintah Kabupaten Indramayu - Spasial,"","",2021-09-17 03:51:32.510063,csw,t,"","",DAILY,2022-02-15 20:12:45.995327
+e5a19768-b336-490a-a568-de0a3e0e64e1,http://garutkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Garut - Spasial,"","",2021-09-17 03:44:32.653298,csw,t,"","",DAILY,2022-02-15 20:12:46.09078
+de49a9f6-bebe-4f88-94fd-89cf34a21dbe,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Jawa Barat - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-jawa-barat""]
+}",2021-12-01 07:15:21.871754,ckan,t,"","",WEEKLY,2022-02-16 08:10:59.549978
+f5c1a45d-9f4a-4a0d-9b5c-8613a6db5742,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Jawa Tengah - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-jawa-tengah""]
+}",2021-09-17 13:51:56.993496,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.443123
+00b6d23b-d01e-4da1-b627-103e13d61df0,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sumatera Utara - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sumatera-utara""]
+}",2021-09-09 02:37:05.640569,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.526856
+486d1662-a71e-45da-b409-6fe0addf44e5,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Riau - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-riau""]
+}",2021-09-09 02:05:49.699587,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.692665
+9dab6905-d288-463f-87e4-ada56e6021e6,http://geoportal.natunakab.go.id/csw,Pemerintah Kabupaten Natuna - Spasial,"","",2021-09-16 14:02:41.278312,csw,t,"","",DAILY,2022-02-15 20:12:46.281434
+160548bc-3286-4855-8190-9bdd8aac37be,http://ngawikab.ina-sdi.or.id/csw,Pemerintah Kabupaten Ngawi - Spasial,"","",2021-09-13 06:50:25.728519,csw,t,"","",DAILY,2022-02-15 20:12:48.061058
+6dfafb1c-af28-4abf-8b7c-06ccfe19f462,http://pariamankota.ina-sdi.or.id/csw,Pemerintah Kota Pariaman - Spasial,"","",2021-09-08 11:27:39.197953,csw,t,"","",DAILY,2022-02-15 20:12:53.222872
+8b1821c2-4172-4805-a838-919aa7f0e40f,http://geoportal.kulonprogokab.go.id/catalogue/csw,Pemerintah Kabupten Kulon Progo - Spasial,"","",2021-09-10 03:48:13.529833,csw,t,"","",DAILY,2022-02-15 20:12:50.861322
+e8f9866a-c605-47b0-9f4e-9bd03c3e598d,http://bekasikota.ina-sdi.or.id/csw/,Pemerintah Kota Bekasi - Spasial,"","",2021-09-10 03:11:00.378258,csw,t,"","",DAILY,2022-02-15 20:12:51.025128
+d469e887-8283-4030-812f-c0541bf8ca41,http://jigd.pangandarankab.go.id/csw,Pemerintah Kabupaten Pangandaran - Spasial,"","",2021-09-10 02:54:03.395681,csw,t,"","",DAILY,2022-02-15 20:12:51.187171
+3c70cc5c-10b5-479f-acf2-58ed5ddfabdd,http://sukabumikota.ina-sdi.or.id/csw/,Pemerintah Kota Sukabumi - Spasial,"","",2021-09-09 15:09:13.018787,csw,t,"","",DAILY,2022-02-15 20:12:51.369805
+f1a68525-38d3-45c7-a9bd-c4b229676f20,http://sorongkota.ina-sdi.or.id/csw,Pemerintah Kota Sorong - Spasial,"","",2021-09-09 15:00:04.767138,csw,t,"","",DAILY,2022-02-15 20:12:51.537077
+6044e65e-dace-4d5b-93d1-c9277a16d6cc,https://portaldata.batukota.go.id/,Pemerintah Kota Batu - CKAN,"","",2021-09-09 14:41:09.370589,ckan,t,"","",DAILY,2022-02-15 20:12:51.706926
+3d735dc6-bb07-47d8-a260-c62c0d910109,http://rajaampatkab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Raja Ampat - Spasial,"","",2021-09-09 08:46:16.020022,csw,t,"","",DAILY,2022-02-15 20:12:51.885572
+cb25d5ca-2e23-4692-b7d5-368999e55a0f,http://kamparkab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Kampar - Spasial,"","",2021-09-09 06:40:20.319371,csw,t,"","",DAILY,2022-02-15 20:12:52.059993
+9ee95eb2-de91-43aa-bfd5-408581a1eb11,http://bengkaliskab.ina-sdi.or.id/csw,Pemerintah Kabupaten Bengkalis - Spasial,"","",2021-09-09 04:43:22.259483,csw,t,"","",DAILY,2022-02-15 20:12:52.251493
+b60cc964-e0bb-43dd-83fc-0ea859ba9c69,http://anambaskab.ina-sdi.or.id/csw/,Pemerintah Kabupaten Anambas - Spasial,"","",2021-09-09 04:21:11.792664,csw,t,"","",DAILY,2022-02-15 20:12:52.432738
+0bf8029f-5e43-4d93-9c13-f3e653e5e0d7,http://mojokertokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Mojokerto - Spasial,"","",2021-09-09 04:01:35.858967,csw,t,"","",DAILY,2022-02-15 20:12:52.607474
+c5685b75-a77a-4284-8ddd-1a738d7c9b6b,https://data.sabangkota.go.id/,Pemerintah Kota Sabang - CKAN,"","",2021-09-10 09:43:24.398456,ckan,t,"","",WEEKLY,2022-02-21 16:26:36.134342
+db64a19a-d549-46e2-9aae-2b6d9d70285b,http://musirawasutarakab.ina-sdi.or.id/csw,Pemerintah Kabupaten Musi Rawas Utara - Spasial,"","",2021-09-17 07:30:17.951754,csw,t,"","",DAILY,2022-02-15 20:12:45.167696
+2f07f4b5-666f-4e48-97f5-5e4e20cc8e28,http://subangkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Subang - Spasial,"","",2021-09-17 07:02:26.549289,csw,t,"","",DAILY,2022-02-15 20:12:45.724362
+be7320f8-a0c2-4cea-93cc-58d20f045a17,http://kotatanjungpinang.ina-sdi.or.id/csw,Pemerintah Kota Tanjung Pinang - Spasial,"","",2021-09-16 09:55:03.794256,csw,t,"","",DAILY,2022-02-15 20:12:47.179825
+4b9b285b-aa23-462b-a241-28be80b7cfe5,http://sawahluntokota.ina-sdi.or.id/csw,Pemerintah Kota Sawahlunto - Spasial,"","",2021-09-14 06:12:18.554918,csw,t,"","",DAILY,2022-02-15 20:12:47.358843
+4ebbb527-6b87-4c23-8f7c-e6866402bf37,http://demakkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Demak - Spasial,"","",2021-09-13 07:27:01.630985,csw,t,"","",DAILY,2022-02-15 20:12:47.557067
+c5666366-8786-4aee-9c00-b5542e2d89d0,http://sukabumikab.ina-sdi.or.id/csw,Pemerintah Kabupaten Sukabumi - Spasial,"","",2021-09-13 07:14:08.508749,csw,t,"","",DAILY,2022-02-15 20:12:47.729811
+c668a2a8-25be-4fe7-82d0-4512336b3404,https://balisatudata.baliprov.go.id/opendata.json,Pemerintah Provinsi Bali - DCAT,"","",2021-12-07 01:39:02.690765,dcat_json,t,"","",DAILY,2022-02-15 19:42:34.906567
+8494918e-70cf-413b-ae55-590cbfffc6d4,https://satudata.probolinggokota.go.id/,Pemerintah Kota Probolinggo - CKAN,"","",2021-09-13 03:02:51.961681,ckan,t,"","",DAILY,2022-02-15 20:12:48.409717
+20bf07b8-ad39-44e1-819f-2ab4126ed3e3,http://pontianakkota.ina-sdi.or.id/csw,Pemerintah Kota Pontianak - Spasial,"","",2021-09-13 02:23:58.284033,csw,t,"","",DAILY,2022-02-15 20:12:48.593254
+0724379d-fe38-48e9-9953-93bc13278d16,http://landakkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Landak - Spasial,"","",2021-09-11 06:36:38.640461,csw,t,"","",DAILY,2022-02-15 20:12:48.961253
+1886c966-5729-45cb-8c32-d597d860b3a6,http://geoportal.okutimurkab.go.id/csw,Pemerintah Kabupaten Ogan Komering Ulu Timur - Spasial,"","",2021-09-11 06:29:58.458334,csw,t,"","",DAILY,2022-02-15 20:12:49.056748
+f0858459-c3c3-4333-86c8-80f630e1044f,http://serambigeoportal.padangpanjang.go.id/csw,Pemerintah Kota Padang Panjang - Spasial,"","",2021-09-11 06:25:34.119878,csw,t,"","",DAILY,2022-02-15 20:12:49.15168
+ccd72e6b-7e31-4031-b5a1-899fdb3d4bac,http://geoportal.manadokota.go.id/catalogue/csw,Pemerintah Kota Manado - Spasial,"","",2021-09-11 06:04:39.188822,csw,t,"","",DAILY,2022-02-15 20:12:49.245256
+57b80869-41cf-4dbc-81ba-59a997dd29e1,http://musirawaskab.ina-sdi.or.id/csw,Pemerintah Kabupaten Musi Rawas - Spasial,"","",2021-09-13 06:58:46.054056,csw,t,"","",DAILY,2022-02-15 20:12:47.900453
+dbf8f6b5-163d-4dfa-9b1d-bbc49128578b,http://tarakankota.ina-sdi.or.id/csw,Pemerintah Kota Tarakan - Spasial,"","",2021-09-11 05:52:42.413856,csw,t,"","",DAILY,2022-02-15 20:12:49.334208
+d1647511-8f06-443a-85c9-1ca298c74b7c,http://geoportal.pemkomedan.go.id/csw,Pemerintah Kota Medan - Spasial,"","",2021-09-11 05:49:30.865562,csw,t,"","",DAILY,2022-02-15 20:12:49.424965
+73b1f905-d506-4aad-bac5-a7522e481ba5,http://ogankomeringulukab.ina-sdi.or.id/csw,Pemerintah Kabupaten Ogan Komering Ulu - Spasial,"","",2021-09-11 02:36:46.096024,csw,t,"","",DAILY,2022-02-15 20:12:49.46586
+79371934-7eb4-416a-bc70-78a4aa4df1b1,http://geoportal.bantulkab.go.id/csw,Pemerintah Kabupaten Bantul - Spasial,"","",2021-09-11 02:16:56.428696,csw,t,"","",DAILY,2022-02-15 20:12:49.634768
+9468e550-9a25-4458-af19-7b9200b351c6,http://geoportal.palembang.go.id/csw,Pemerintah Kota Palembang - CSW,"","",2021-09-11 02:03:32.019823,csw,t,"","",DAILY,2022-02-15 20:12:49.734844
+f9129fd8-817f-4366-a36b-97f33e94efd0,http://geoportal.slemankab.go.id/catalogue/csw,Pemerintah Kabupaten Sleman - Spasial,"","",2021-09-11 01:49:40.058067,csw,t,"","",DAILY,2022-02-15 20:12:49.86836
+7a1d35d4-a622-4a59-b599-783a5313c616,http://www.opendata.bogorkab.go.id/,Pemerintah Kabupaten Bogor - CKAN,"","",2021-09-10 15:08:02.61483,ckan,t,"","",DAILY,2022-02-15 20:12:49.966394
+b5a30f8e-959b-40f0-b29e-e12c9c3b912c,http://data.gresikkab.go.id/,Pemerintah Kabupaten Gresik - CKAN,"","",2021-09-10 13:08:13.955699,ckan,t,"","",DAILY,2022-02-15 20:12:50.100567
+c21c9947-dd7e-41cf-b3a5-19ff04dfb8c6,https://data.lampungprov.go.id/,Pemerintah Provinsi Lampung - CKAN,"","",2021-09-10 13:03:46.530625,ckan,t,"","",DAILY,2022-02-15 20:12:50.129992
+747b3d25-bd60-4c67-ac3d-19d67ff31096,https://opendata.dumaikota.go.id/,Pemerintah Kota Dumai - CKAN,"","",2021-09-10 12:58:19.660089,ckan,t,"","",DAILY,2022-02-15 20:12:50.235557
+15074dd5-7b07-4723-9cb1-3d3423d43356,https://data.bantulkab.go.id/,Pemerintah Kabupaten Bantul - CKAN,"","",2021-09-10 09:30:26.053393,ckan,t,"","",DAILY,2022-02-15 20:12:50.280984
+af1146cc-ca10-4656-b65b-c8dd74a5b3bd,http://data.jambikota.go.id/,Pemerintah Kota Jambi - CKAN,"","",2021-09-10 09:25:54.715287,ckan,t,"","",DAILY,2022-02-15 20:12:50.516658
+0509f8b8-f84f-4b9f-9fc3-d24511659109,http://geoportal.pakpakbharatkab.go.id/csw,Pemerintah Kabupaten Pakpak Bharat - Spasial,"","",2021-09-10 04:06:39.52952,csw,t,"","",DAILY,2022-02-15 20:12:50.600868
+6ce318aa-9b19-4ca4-96b6-d6b72de42e2c,http://geoportal.pesisirselatankab.go.id/csw,Pemerintah Kabupaten Pesisir Selatan - Spasial,"","",2021-09-10 03:59:43.476634,csw,t,"","",DAILY,2022-02-15 20:12:50.685543
+0e9a712d-ddfd-46f1-858e-e0ced2a6a96e,http://geoportal.tulungagung.go.id/csw,Pemerintah Kabupaten Tulungagung - Spasial,"","",2021-09-10 03:52:28.911835,csw,t,"","",DAILY,2022-02-15 20:12:50.776321
+d2b16232-1a62-411c-9a32-d41d52080909,http://geoportal.beraukab.go.id/catalogue/csw,Pemerintah Kabupaten Berau - Spasial,"","",2021-09-13 02:05:42.110006,csw,t,"","",DAILY,2022-02-15 20:12:48.787279
+00b1aa91-7b02-4fc8-ab64-a0cf2d152d3d,https://data.kalselprov.go.id/data.json,Pemerintah Provinsi Kalimantan Selatan - DCAT,"","",2022-01-21 07:55:53.114904,dcat_json,t,"","",MANUAL,
+b7cd5165-8bc4-490f-b97b-e62743b6a5ad,http://labuhanbatukab.ina-sdi.or.id/csw,Pemerintah Kabupaten Labuhan Batu - Spasial,"","",2021-09-17 06:55:00.623282,csw,t,"","",DAILY,2022-02-15 20:12:45.814426
+763124de-0f7a-47ea-a1d6-f35edfa177dd,http://ciamiskab.ina-sdi.or.id/csw,Pemerintah Kabupaten Ciamis - Spasial,"","",2021-09-16 13:23:27.163624,csw,t,"","",DAILY,2022-02-15 20:12:46.454562
+0c54fc80-56b9-4190-9d9e-f4e695de1045,http://manokwarikab.ina-sdi.or.id/csw,Pemerintah Kabupaten Manokwari,"","",2021-09-16 13:19:51.320752,csw,t,"","",DAILY,2022-02-15 20:12:46.548964
+fbb75b9f-2257-49b5-b5f9-0ca807abe73a,https://data.acehtamiangkab.go.id/,Pemerintah Kabupaten Aceh Tamiang - CKAN,"","",2021-09-10 09:20:39.005309,ckan,t,"","",WEEKLY,2022-02-15 17:11:30.240328
+db95aeb6-b51f-4375-a3e2-b9e5d00c8ba4,http://geoportal.temanggungkab.go.id/csw,Pemerintah Kabupaten Temanggung - Spasial,"","",2021-09-16 13:14:40.417534,csw,t,"","",DAILY,2022-02-15 20:12:46.62804
+5e456647-f5c5-44c5-aa15-f69b047055ce,http://padangpariamankab.ina-sdi.or.id/csw,Pemerintah Kabupaten Padang Pariaman - Spasial,"","",2021-09-16 12:39:58.388643,csw,t,"","",DAILY,2022-02-15 20:12:46.997057
+cc15aeb6-3cf0-4588-924d-c117f2d4cafb,http://agamkab.ina-sdi.or.id/csw,Pemerintah Kabupaten Agam - Spasial,"","",2021-09-16 12:37:53.127146,csw,t,"","",DAILY,2022-02-15 20:12:47.087326
+18b660bf-b3ef-4773-bd39-5e89fbd9dd75,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Jawa Timur - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-jawa-timur""]
+}",2021-12-01 07:16:51.686089,ckan,t,"","",WEEKLY,2022-02-16 08:10:59.465361
+3b360867-fdbd-4eda-82fb-2fec4ae8487b,http://data.kutaitimurkab.go.id/,Pemerintah Kabupaten Kutai Timur - CKAN,"","",2021-09-22 09:20:25.22337,ckan,t,"","",WEEKLY,2022-02-16 11:11:53.835458
+4521fac0-870d-41d3-8eeb-0b3982e8f28b,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Kalimantan Utara - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-kalimantan-utara""]
+}",2021-09-09 02:28:01.400735,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.609054
+075d7c62-a6dd-4f53-b4c6-8c274908548b,https://tanahair.indonesia.go.id/sdi/,Pemerintah Provinsi Sulawesi Tengah - Spasial,"","{
+ ""organizations_filter_include"": [""provinsi-sulawesi-tengah""]
+}",2021-09-09 01:46:40.282038,ckan,t,"","",WEEKLY,2022-02-16 11:42:03.871849
+53b69067-bdfb-4144-9775-9c8ebe714faa,http://bekasikab.ina-sdi.or.id/csw,Pemerintah Kabupaten Bekasi - Spasial,"","",2021-09-14 06:17:44.368878,csw,t,"","",DAILY,2022-02-15 20:12:47.271991
+2e41364d-6349-470e-b9c7-66745f55f9b6,http://situbondokab.ina-sdi.or.id/csw,Pemerintah Kabupaten Situbondo - Spasial,"","",2021-09-13 08:58:19.446024,csw,t,"","",DAILY,2022-02-15 20:12:47.441903
