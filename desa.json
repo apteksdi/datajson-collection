@@ -1,0 +1,237 @@
+{
+    "status": true,
+    "message": "Success",
+    "data": {
+        "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+        "@id": "https://api.bappenas.go.id",
+        "@type": "dcat:Catalog",
+        "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+        "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+        "dataset": [
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d3IndeksDesa/Indeks-Dimensi-Ekonomi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Dimensi-Ekonomi"
+                },
+                "identifier": "176ad7aa9305742718c5a31f3a0bfaca",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:12.183316",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Dimensi Ekonomi",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/indeksDesa/Indeks-Desa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Desa"
+                },
+                "identifier": "8229188417dce01c7a70069d776a8e69",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:16.175298",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Desa",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d4IndeksDesa/Indeks-Dimensi-Sosial",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Dimensi-Sosial"
+                },
+                "identifier": "bc8e6ff897c4aff03c4c0f4944041083",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:10.835742",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Dimensi Sosial",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d5IndeksDesa/Indeks-Dimensi-Lingkungan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Dimensi-Lingkungan"
+                },
+                "identifier": "6ed9ecf85cda723a84c11a10f93f3baf",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:10.210379",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Dimensi Lingkungan",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/klasifikasiDesa/Klasifikasi-Desa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Klasifikasi-Desa"
+                },
+                "identifier": "715fdcc824c1ff6e97a94d04216c2d7a",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:15.411958",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Klasifikasi Desa",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d1IndeksDesa/Indeks-Dimensi-Sarana-Prasarana",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Dimensi-Sarana-Prasarana"
+                },
+                "identifier": "bd345c667ae36983b2d9461770ce976c",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:14.418273",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Dimensi Sarana Prasarana",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d2IndeksDesa/Indeks-Dimensi-Pelayanan-Dasar",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Dimensi-Pelayanan-Dasar"
+                },
+                "identifier": "687ffd0be83a2d4fdbd52bf4b7a828ed",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:26:12.728014",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Dimensi Pelayanan Dasar",
+                "description": null,
+                "keyword": [
+                ]
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                    "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+                },
+                "distribution": {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d6IndeksDesa/Indeks-Dimensi-Pemerintahan-Desa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks-Dimensi-Pemerintahan-Desa"
+                },
+                "identifier": "652753da86478060c44a83bad73711d8",
+                "issued": "2022-07-01",
+                "landingPage": "",
+                "modified": "2022-06-30 12:23:53.148569",
+                "accrualPeriodicity": "Tahunan",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Direktorat Pembangunan Daerah"
+                },
+                "title": "Indeks Dimensi Pemerintahan Desa",
+                "description": null,
+                "keyword": [
+                ]
+            }
+        ]
+    }
+}
