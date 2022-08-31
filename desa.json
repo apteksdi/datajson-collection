@@ -18,7 +18,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d3IndeksDesa/Indeks-Dimensi-Ekonomi",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Indeks Dimensi Ekonomi"
             }
         ],
@@ -32,7 +32,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Dimensi Ekonomi",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -49,7 +49,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/indeksDesa/Indeks-Desa",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Indeks Desa"
         
             }
@@ -64,7 +64,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Desa",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -81,7 +81,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d4IndeksDesa/Indeks-Dimensi-Sosial",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Indeks Dimensi Sosial"
             }
         ],
@@ -95,7 +95,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Dimensi Sosial",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -112,7 +112,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d5IndeksDesa/Indeks-Dimensi-Lingkungan",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Indeks Dimensi Lingkungan"
             }
         ],
@@ -126,7 +126,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Dimensi Lingkungan",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -143,7 +143,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/klasifikasiDesa/Klasifikasi-Desa",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Klasifikasi Desa"
             }
         ],
@@ -157,7 +157,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Klasifikasi Desa",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -188,7 +188,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Dimensi Sarana Prasarana",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -205,7 +205,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d2IndeksDesa/Indeks-Dimensi-Pelayanan-Dasar",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Indeks Dimensi Pelayanan Dasar"
             }
         ],
@@ -219,7 +219,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Dimensi Pelayanan Dasar",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     },
@@ -236,7 +236,7 @@
                 "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d6IndeksDesa/Indeks-Dimensi-Pemerintahan-Desa",
                 "mediaType": "text/csv",
                 "format": "csv",
-                "description": "Resource ini berisi data...",
+                "description": null,
                 "title": "Indeks Dimensi Pemerintahan Desa"
             }
         ],
@@ -250,7 +250,7 @@
             "name": "Direktorat Pembangunan Daerah"
         },
         "title": "Indeks Dimensi Pemerintahan Desa",
-        "description": "Dataset ini berisi data...",
+        "description": null,
         "keyword": [
         ]
     }
