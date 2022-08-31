@@ -1,0 +1,78 @@
+{
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@id": "https://siga.kemenpppa.go.id/data.json",
+  "@type": "dcat:Catalog",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "KEMENPPPA",
+        "hasEmail": "mailto:birodatin@kemenpppa.go.id"
+      },
+      "description": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=691&tahuns=2020&provs=1&kabs=0&kecs=0&typees=&month=",
+          "mediaType": "text/xlsx",
+          "format": "xlsx",
+          "description": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin (2020)",
+          "title": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin"
+        }
+      ],
+      "identifier": "PK21_KEMENPPPA001",
+      "issued": "2021-12-20",
+      "keyword": [
+        "Angka Partisipasi Sekolah"
+      ],
+      "landingPage": "https://siga.kemenpppa.go.id/pencarian?topik=aW5kaWthdG9yfHwzOHx8UEVSRU1QVUFO",
+      "modified": "2021-12-20",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+      },
+      "theme": [
+        "Perempuan"
+      ],
+      "title": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin"
+    },
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "KEMENPPPA",
+        "hasEmail": "mailto:birodatin@kemenpppa.go.id"
+      },
+      "description": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=809&tahuns=2020&provs=all&kabs=&kecs=&typees=0&month=",
+          "mediaType": "text/xlsx",
+          "format": "xlsx",
+          "description": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)",
+          "title": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)"
+        }
+      ],
+      "identifier": "PK21_KEMENPPPA002",
+      "issued": "2021-12-20",
+      "keyword": [
+        "kepemilikan akta kelahiran"
+      ],
+      "landingPage": "https://siga.kemenpppa.go.id/pencarian?topik=aW5kaWthdG9yfHwzN3x8QU5BSw==",
+      "modified": "2021-12-20",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+      },
+      "theme": [
+        "Anak"
+      ],
+      "title": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)"
+    }
+  ]
+}
+
