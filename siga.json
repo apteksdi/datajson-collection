@@ -17,7 +17,7 @@
         {
           "@type": "dcat:Distribution",
           "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=691&tahuns=2020&provs=1&kabs=0&kecs=0&typees=&month=",
-          "mediaType": "text/xlsx",
+          "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
           "format": "xlsx",
           "description": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin (2020)",
           "title": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin"
@@ -51,7 +51,7 @@
         {
           "@type": "dcat:Distribution",
           "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=809&tahuns=2020&provs=all&kabs=&kecs=&typees=0&month=",
-          "mediaType": "text/xlsx",
+          "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
           "format": "xlsx",
           "description": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)",
           "title": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)"
@@ -75,4 +75,3 @@
     }
   ]
 }
-
