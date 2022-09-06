@@ -1,629 +1,303 @@
 {
-"@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
-"@id": "https://api.bappenas.go.id",
-"@type": "dcat:Catalog",
-"conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-"describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
-"dataset": [
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://api.bappenas.go.id",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/klasifikasiDesa/Klasifikasi-Desa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Klasifikasi-Desa"
+                }
+            ],
+            "identifier": "715fdcc824c1ff6e97a94d04216c2d7a",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/klasifikasiDesa",
+            "modified": "2022-09-01 14:20:32.155254",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Klasifikasi Desa",
+            "description": null,
+            "keyword": []
         },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d3IndeksDesa/Indeks-Dimensi-Ekonomi",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Indeks Dimensi Ekonomi"
-            }
-        ],
-        "identifier": "176ad7aa9305742718c5a31f3a0bfaca",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:12.183316",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d1IndeksDesa/Indeks-Dimensi-Sarana-Prasarana",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Dimensi-Sarana-Prasarana"
+                }
+            ],
+            "identifier": "bd345c667ae36983b2d9461770ce976c",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/d1IndeksDesa",
+            "modified": "2022-09-01 14:20:32.003129",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Dimensi Sarana Prasarana",
+            "description": null,
+            "keyword": []
         },
-        "title": "Indeks Dimensi Ekonomi",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status-desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d5IndeksDesa/Indeks-Dimensi-Lingkungan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Dimensi-Lingkungan"
+                }
+            ],
+            "identifier": "6ed9ecf85cda723a84c11a10f93f3baf",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/d5IndeksDesa",
+            "modified": "2022-09-01 14:21:09.845341",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Dimensi Lingkungan",
+            "description": null,
+            "keyword": []
         },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/indeksDesa/Indeks-Desa",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Indeks Desa"
-        
-            }
-        ],
-        "identifier": "8229188417dce01c7a70069d776a8e69",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:16.175298",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d2IndeksDesa/Indeks-Dimensi-Pelayanan-Dasar",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Dimensi-Pelayanan-Dasar"
+                }
+            ],
+            "identifier": "687ffd0be83a2d4fdbd52bf4b7a828ed",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/d2IndeksDesa",
+            "modified": "2022-09-01 14:20:31.989302",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Dimensi Pelayanan Dasar",
+            "description": null,
+            "keyword": []
         },
-        "title": "Indeks Desa",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status-desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d4IndeksDesa/Indeks-Dimensi-Sosial",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Dimensi-Sosial"
+                }
+            ],
+            "identifier": "bc8e6ff897c4aff03c4c0f4944041083",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/d4IndeksDesa",
+            "modified": "2022-09-01 14:21:11.178087",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Dimensi Sosial",
+            "description": null,
+            "keyword": []
         },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d4IndeksDesa/Indeks-Dimensi-Sosial",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Indeks Dimensi Sosial"
-            }
-        ],
-        "identifier": "bc8e6ff897c4aff03c4c0f4944041083",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:10.835742",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d3IndeksDesa/Indeks-Dimensi-Ekonomi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Dimensi-Ekonomi"
+                }
+            ],
+            "identifier": "176ad7aa9305742718c5a31f3a0bfaca",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/d3IndeksDesa",
+            "modified": "2022-09-01 14:21:11.850971",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Dimensi Ekonomi",
+            "description": null,
+            "keyword": []
         },
-        "title": "Indeks Dimensi Sosial",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status-desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d6IndeksDesa/Indeks-Dimensi-Pemerintahan-Desa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Dimensi-Pemerintahan-Desa"
+                }
+            ],
+            "identifier": "652753da86478060c44a83bad73711d8",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/d6IndeksDesa",
+            "modified": "2022-09-01 14:20:30.792293",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Dimensi Pemerintahan Desa",
+            "description": null,
+            "keyword": []
         },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d5IndeksDesa/Indeks-Dimensi-Lingkungan",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Indeks Dimensi Lingkungan"
-            }
-        ],
-        "identifier": "6ed9ecf85cda723a84c11a10f93f3baf",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:10.210379",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
-        },
-        "title": "Indeks Dimensi Lingkungan",
-        "description": null,
-        "keyword": [
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
-        },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/klasifikasiDesa/Klasifikasi-Desa",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Klasifikasi Desa"
-            }
-        ],
-        "identifier": "715fdcc824c1ff6e97a94d04216c2d7a",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:15.411958",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
-        },
-        "title": "Klasifikasi Desa",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status-desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
-        },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d1IndeksDesa/Indeks-Dimensi-Sarana-Prasarana",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": "Resource ini berisi data...",
-                "title": "Indeks Dimensi Sarana Prasarana"
-            }
-        ],
-        "identifier": "bd345c667ae36983b2d9461770ce976c",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:14.418273",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
-        },
-        "title": "Indeks Dimensi Sarana Prasarana",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
-        },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d2IndeksDesa/Indeks-Dimensi-Pelayanan-Dasar",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Indeks Dimensi Pelayanan Dasar"
-            }
-        ],
-        "identifier": "687ffd0be83a2d4fdbd52bf4b7a828ed",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:26:12.728014",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
-        },
-        "title": "Indeks Dimensi Pelayanan Dasar",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    },
-    {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-            "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-            "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
-        },
-        "distribution": [
-            {
-                "@type": "dcat:Distribution",
-                "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d6IndeksDesa/Indeks-Dimensi-Pemerintahan-Desa",
-                "mediaType": "text/csv",
-                "format": "csv",
-                "description": null,
-                "title": "Indeks Dimensi Pemerintahan Desa"
-            }
-        ],
-        "identifier": "652753da86478060c44a83bad73711d8",
-        "issued": "2022-07-01",
-        "landingPage": "https://datarenbang.bappenas.go.id",
-        "modified": "2022-06-30 12:23:53.148569",
-        "accrualPeriodicity": "Tahunan",
-        "publisher": {
-            "@type": "org:Organization",
-            "name": "Direktorat Pembangunan Daerah"
-        },
-        "title": "Indeks Dimensi Pemerintahan Desa",
-        "description": null,
-        "keyword": [
-            "indeks desa",
-            "klasifikasi status-desa",
-            "dimensi sarana prasarana",
-            "dimensi pelayanan dasar",
-            "dimensi ekonomi",
-            "dimensi sosial",
-            "dimensi lingkungan",
-            "dimensi pemerintahan desa",
-            "desa sangat tertinggal",
-            "desa tertinggal",
-            "desa berkembang",
-            "desa maju",
-            "desa mandiri",
-            "kewenangan desa",
-            "potensi desa",
-            "pembangunan kewilayahan",
-            "pembangunan kawasan atau daerah tertinggal",
-            "bappenas",
-            "direktorat pembangunan daerah",
-            "status desa",
-            "sumber air untuk mandi cuci",
-            "bahan bakar memasak",
-            "waktu tempuh per kilometer ke kantor camat",
-            "persentase keluarga di rumah kumuh",
-            "akses tk paud",
-            "akses sd sederajat",
-            "akses smp sederajat",
-            "akses sma smk sederajat",
-            "akses poskesdes polindes",
-            "posyandu yang aktif bulanan",
-            "keberadaan pasar desa",
-            "akses ke bank",
-            "keberadaan umkm",
-            "keberadaan kantor pos perusahaan ekspedisi",
-            "keberadaan kud bumdes",
-            "akses listrik",
-            "keberadaan angkutan umum",
-            "layanan telekomunikasi",
-            "kegiatan warga menjaga keamanan lingkungan",
-            "keberadaan fasilitas olahraga dan ruang publik terbuka",
-            "taman bacaan masyarakat",
-            "musyawarah desa",
-            "konflik sosial perkelahian masal di desa",
-            "kegiatan gotong royong",
-            "sistem pembuangan sampah",
-            "pengolahan daur ulang sampah limbah",
-            "fasilitas buang air besar",
-            "usaha mitigasi bencana",
-            "kelengkapan pemerintah desa",
-            "aset desa",
-            "fasilitas pendukung kantor desa",
-            "keberadaan peta desa",
-            "indikator rkp"
-        ]
-    }
-]
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
+                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/indeksDesa/Indeks-Desa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "",
+                    "title": "Indeks-Desa"
+                }
+            ],
+            "identifier": "8229188417dce01c7a70069d776a8e69",
+            "issued": "2022-07-01",
+            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/indeksDesa",
+            "modified": "2022-09-01 14:21:14.030134",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Pembangunan Daerah"
+            },
+            "title": "Indeks Desa",
+            "description": null,
+            "keyword": [
+                "indeks desa",
+                "klasifikasi status desa",
+                "dimensi sarana prasarana",
+                "dimensi pelayanan dasar",
+                "dimensi ekonomi",
+                "dimensi sosial",
+                "dimensi lingkungan",
+                "dimensi pemerintahan desa",
+                "desa sangat tertinggal",
+                "desa tertinggal",
+                "desa berkembang",
+                "desa maju",
+                "desa mandiri",
+                "kewenangan desa",
+                "potensi desa",
+                "pembangunan kewilayahan",
+                "pembangunan kawasan atau daerah tertinggal",
+                "bappenas",
+                "direktorat pembangunan daerah",
+                "status desa",
+                "sumber air untuk mandi-cuci",
+                "bahan bakar memasak",
+                "waktu tempuh per kilometer ke kantor camat",
+                "persentase keluarga di rumah kumuh",
+                "akses tk-paud",
+                "akses sd-sederajat",
+                "akses smp-sederajat",
+                "akses sma-smk-sederajat",
+                "akses poskesdes polindes",
+                "posyandu yang aktif bulanan",
+                "keberadaan pasar desa",
+                "akses ke bank",
+                "keberadaan umkm",
+                "keberadaan kantor pos-perusahaan ekspedisi",
+                "keberadaan kud-bumdes",
+                "akses listrik",
+                "keberadaan angkutan umum",
+                "layanan telekomunikasi",
+                "kegiatan warga menjaga keamanan lingkungan",
+                "keberadaan fasilitas olahraga dan ruang publik terbuka",
+                "taman bacaan masyarakat",
+                "musyawarah desa",
+                "konflik sosial-perkelahian masal di desa",
+                "kegiatan gotong royong",
+                "sistem pembuangan sampah",
+                "pengolahan-daur ulang sampah-limbah",
+                "fasilitas buang air besar",
+                "usaha mitigasi bencana",
+                "kelengkapan pemerintah desa",
+                "aset desa",
+                "fasilitas pendukung kantor desa",
+                "keberadaan peta desa",
+                "indikator rkp"
+            ]
+        }
+    ]
 }
