@@ -1,77 +1,112 @@
+
 {
-  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
-  "@id": "https://siga.kemenpppa.go.id/data.json",
-  "@type": "dcat:Catalog",
-  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
-  "dataset": [
-    {
-      "@type": "dcat:Dataset",
-      "accessLevel": "public",
-      "contactPoint": {
-        "fn": "KEMENPPPA",
-        "hasEmail": "mailto:birodatin@kemenpppa.go.id"
-      },
-      "description": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=691&tahuns=2020&provs=1&kabs=0&kecs=0&typees=&month=",
-          "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-          "format": "xlsx",
-          "description": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin (2020)",
-          "title": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin"
-        }
-      ],
-      "identifier": "PK21_KEMENPPPA001",
-      "issued": "2021-12-20",
-      "keyword": [
-        "Angka Partisipasi Sekolah"
-      ],
-      "landingPage": "https://siga.kemenpppa.go.id/pencarian?topik=aW5kaWthdG9yfHwzOHx8UEVSRU1QVUFO",
-      "modified": "2021-12-20",
-      "publisher": {
-        "@type": "org:Organization",
-        "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
-      },
-      "theme": [
-        "Perempuan"
-      ],
-      "title": "Angka Partisipasi Sekolah (APS) Usia 19-24 tahun Menurut Provinsi dan Jenis Kelamin"
-    },
-    {
-      "@type": "dcat:Dataset",
-      "accessLevel": "public",
-      "contactPoint": {
-        "fn": "KEMENPPPA",
-        "hasEmail": "mailto:birodatin@kemenpppa.go.id"
-      },
-      "description": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)",
-      "distribution": [
-        {
-          "@type": "dcat:Distribution",
-          "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=809&tahuns=2020&provs=all&kabs=&kecs=&typees=0&month=",
-          "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-          "format": "xlsx",
-          "description": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)",
-          "title": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)"
-        }
-      ],
-      "identifier": "PK21_KEMENPPPA002",
-      "issued": "2021-12-20",
-      "keyword": [
-        "kepemilikan akta kelahiran"
-      ],
-      "landingPage": "https://siga.kemenpppa.go.id/pencarian?topik=aW5kaWthdG9yfHwzN3x8QU5BSw==",
-      "modified": "2021-12-20",
-      "publisher": {
-        "@type": "org:Organization",
-        "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
-      },
-      "theme": [
-        "Anak"
-      ],
-      "title": "Persentase penduduk usia 0-17 Tahun berdasarkan kepemilikan akta kelahiran dari Kantor Catatan Sipil menurut provinsi (2020)"
-    }
-  ]
+        "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+        "@id": "http://localhost/indikator_siga/dcat_json",
+        "@type": "dcat:Catalog",
+        "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+        "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+        "dataset": [
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "KEMENPPPA",
+                    "hasEmail": "mailto:birodatin@kemenpppa.go.id"
+                },
+                "description": null,
+                "distribution": [
+                    {
+                        "@type": "dcat:Distribution",
+                        "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=6f63756a306d4e7062562f2f616850517a6a6c636c413d3d&tahuns=2020&provs=all&kabs=0&kecs=0&typees=0&month=&status=dcat",
+                        "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "format": "xlsx",
+                        "description": null,
+                        "title": "[1b] - Persentase penduduk menurut wilayah dan jenis kelamin  (2020)"
+                    }
+                ],
+                "identifier": "17700001be5c42336f64c163e013f919",
+                "issued": "2022-01-14",
+                "keyword": [
+                    "Angka Partisipasi Sekolah"
+                ],
+                "landingPage": "https://siga.kemenpppa.go.id/pencarian/detail?element_id=6f63756a306d4e7062562f2f616850517a6a6c636c413d3d&entry_id=42334d706f3331586132455069775736506a587a2b773d3d&tahun=2020&prov=all&kab=0&kec=0&typee=0&month=",
+                "modified": "2022-01-14",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+                },
+                "theme": [
+                    "Demografi"
+                ],
+                "title": "[1b] - Persentase penduduk menurut wilayah dan jenis kelamin  (2020)"
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "KEMENPPPA",
+                    "hasEmail": "mailto:birodatin@kemenpppa.go.id"
+                },
+                "description": null,
+                "distribution": [
+                    {
+                        "@type": "dcat:Distribution",
+                        "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=6f63756a306d4e7062562f2f616850517a6a6c636c413d3d&tahuns=2020&provs=1&kabs=0&kecs=0&typees=0&month=&status=dcat",
+                        "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "format": "xlsx",
+                        "description": null,
+                        "title": "[1b] - Persentase penduduk menurut wilayah dan jenis kelamin  (2020)"
+                    }
+                ],
+                "identifier": "f47f021c2fa70d14711b1586d75b6944",
+                "issued": "2022-01-14",
+                "keyword": [
+                    "Angka Partisipasi Sekolah"
+                ],
+                "landingPage": "https://siga.kemenpppa.go.id/pencarian/detail?element_id=6f63756a306d4e7062562f2f616850517a6a6c636c413d3d&entry_id=4876783964346947324f426e61516c46675a525175673d3d&tahun=2020&prov=1&kab=0&kec=0&typee=0&month=",
+                "modified": "2022-01-14",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+                },
+                "theme": [
+                    "Demografi"
+                ],
+                "title": "[1b] - Persentase penduduk menurut wilayah dan jenis kelamin  (2020)"
+            },
+            {
+                "@type": "dcat:Dataset",
+                "accessLevel": "public",
+                "contactPoint": {
+                    "fn": "KEMENPPPA",
+                    "hasEmail": "mailto:birodatin@kemenpppa.go.id"
+                },
+                "description": "perbaiki",
+                "distribution": [
+                    {
+                        "@type": "dcat:Distribution",
+                        "downloadURL": "https://siga.kemenpppa.go.id/pencarian/export_excel?element_ids=5375336555654a5a785567676f55514c416d375a65773d3d&tahuns=2020&provs=all&kabs=0&kecs=0&typees=0&month=&status=dcat",
+                        "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                        "format": "xlsx",
+                        "description": "perbaiki",
+                        "title": "[2a] - Persentase penduduk menurut wilayah dan kelompok usia (2020)"
+                    }
+                ],
+                "identifier": "0c9ea3ea98c0eea8f8b167052638c1c7",
+                "issued": "2022-01-25",
+                "keyword": [
+                    "Angka Partisipasi Sekolah"
+                ],
+                "landingPage": "https://siga.kemenpppa.go.id/pencarian/detail?element_id=5375336555654a5a785567676f55514c416d375a65773d3d&entry_id=586b36566255696757326e3942557776666737312b673d3d&tahun=2020&prov=all&kab=0&kec=0&typee=0&month=",
+                "modified": "2022-01-25",
+                "publisher": {
+                    "@type": "org:Organization",
+                    "name": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
+                },
+                "theme": [
+                    "Demografi"
+                ],
+                "title": "[2a] - Persentase penduduk menurut wilayah dan kelompok usia (2020)"
+            }
+        ]
 }
