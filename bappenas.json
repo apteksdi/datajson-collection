@@ -15,36 +15,6 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/klasifikasiDesa/Klasifikasi-Desa",
-                    "mediaType": "text/csv",
-                    "format": "csv",
-                    "description": "",
-                    "title": "Klasifikasi-Desa"
-                }
-            ],
-            "identifier": "715fdcc824c1ff6e97a94d04216c2d7a",
-            "issued": "2022-07-01",
-            "landingPage": "https://datarenbang.bappenas.go.id/publikasi/tabulasi/detail/klasifikasiDesa",
-            "modified": "2022-09-01 14:20:32.155254",
-            "accrualPeriodicity": "Tahunan",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Direktorat Pembangunan Daerah"
-            },
-            "title": "Klasifikasi Desa",
-            "description": null,
-            "keyword": []
-        },
-        {
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "contactPoint": {
-                "fn": "Pusat Data dan Informasi Perencanaan Pembangunan ",
-                "hasEmail": "mailto:pusdatinrenbang@bappenas.go.id"
-            },
-            "distribution": [
-                {
-                    "@type": "dcat:Distribution",
                     "downloadURL": "https://datarenbang.bappenas.go.id/datasets/download/d1IndeksDesa/Indeks-Dimensi-Sarana-Prasarana",
                     "mediaType": "text/csv",
                     "format": "csv",
