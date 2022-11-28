@@ -1,9 +1,9 @@
 {
-    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonid",
     "@id": "https://satudata.batam.go.id/data/dcat.json",
     "@type": "dcat:Catalog",
-    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema/",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonid",
     "dataset": [
         {
             "@type": "dcat:Dataset",
@@ -15,14 +15,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)"
@@ -51,14 +51,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha"
@@ -87,14 +87,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021"
@@ -123,14 +123,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam"
@@ -159,14 +159,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Koperasi Primer Menurut Kelompok Koperasi Simpan Pinjam"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Koperasi Primer Menurut Kelompok Koperasi Simpan Pinjam"
@@ -195,14 +195,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk Menurut Agama dan Jenis Kelamin di Kota Batam"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk Menurut Agama dan Jenis Kelamin di Kota Batam"
@@ -231,14 +231,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk Bercerai Menurut Kepemilikan Akta Cerai dan Kecamatan"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk Bercerai Menurut Kepemilikan Akta Cerai dan Kecamatan"
@@ -267,14 +267,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Jumlah Penduduk Menikah Menurut Kepemilikan Akta Nikah dan Kecamatan"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
+                    "downloadUrl": "https://satudata.batam.go.id/json/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Jumlah Penduduk Menikah Menurut Kepemilikan Akta Nikah dan Kecamatan"
@@ -303,14 +303,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Jumlah Penduduk Menurut Kepemilikan Akta Lahir dan Kecamatan"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
+                    "downloadUrl": "https://satudata.batam.go.id/json/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Jumlah Penduduk Menurut Kepemilikan Akta Lahir dan Kecamatan"
@@ -339,14 +339,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk Disabilitas Menurut Jenis Disabilitas dan Jenis Kelamin"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk Disabilitas Menurut Jenis Disabilitas dan Jenis Kelamin"
@@ -375,14 +375,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk Menurut Golongan Darah dan Jenis Kelamin"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk Menurut Golongan Darah dan Jenis Kelamin"
@@ -411,14 +411,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk Menurut Jenis Kelamin dan Kecamatan di Kota Batam"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk Menurut Jenis Kelamin dan Kecamatan di Kota Batam"
@@ -447,14 +447,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Batam"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Batam"
@@ -483,14 +483,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "Statistik Jumlah Kepala Keluarga Menurut Jenis Kelamin dan Kecamatan"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "Statistik Jumlah Kepala Keluarga Menurut Jenis Kelamin dan Kecamatan"
@@ -519,14 +519,14 @@
             "distribution": [
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/csv/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
                     "mediaType": "text/csv",
                     "format": "csv",
                     "title": "statistik jumlah anak menurut kepemilikan KIA"
                 },
                 {
                     "@type": "dcat:Distribution",
-                    "downloadURL": "https://satudata.batam.go.id/json/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
                     "mediaType": "text/json",
                     "format": "json",
                     "title": "statistik jumlah anak menurut kepemilikan KIA"
