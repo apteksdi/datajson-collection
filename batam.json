@@ -1,0 +1,553 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonid",
+    "@id": "https://satudata.batam.go.id/data/dcat.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema/",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonid",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)"
+                }
+            ],
+            "identifier": "0d73c9c4-9a6e-4c44-bdc7-e4359a327cd8",
+            "issued": "2022-07-04",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+            "modified": "2022-07-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Komunikasi dan Informatika Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Di Kota Batam Per Kecamatan (2020 - 2021)",
+            "description": "Statistik Jumlah Penduduk Di Kota Batam Per Kecamatan (2020 - 2021)",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha"
+                }
+            ],
+            "identifier": "064c84df-7300-4998-a0ff-0ba261f62712",
+            "issued": "2022-08-08",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+            "modified": "2022-08-08",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Koperasi dan Usaha Mikro"
+            },
+            "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha di Kota Batam",
+            "description": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021"
+                }
+            ],
+            "identifier": "7a2dd02c-5740-4e74-a604-f81be6ced26c",
+            "issued": "2022-08-08",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+            "modified": "2022-10-05",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pengendalian Penduduk dan Keluarga Berencana"
+            },
+            "title": "Statistik Jumlah Perempuan Dan Anak Korban Kekerasan Yang Mendapatkan Dan  Membutuhkan Pelayanan Pemulangan Dan Reintegrasi Sosial, 2020-2021 di Kota Batam",
+            "description": "Statistik Jumlah Perempuan Dan Anak Korban Kekerasan Yang Mendapatkan Dan  Membutuhkan Pelayanan Pemulangan Dan Reintegrasi Sosial, 2020-2021 di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam"
+                }
+            ],
+            "identifier": "375a27f2-fed8-48ec-a3b2-8a6594fa1d2f",
+            "issued": "2022-08-08",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+            "modified": "2022-08-08",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Komunikasi dan Informatika Kota Batam"
+            },
+            "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam di Kota Batam",
+            "description": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Koperasi Primer Menurut Kelompok Koperasi Simpan Pinjam"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Koperasi Primer Menurut Kelompok Koperasi Simpan Pinjam"
+                }
+            ],
+            "identifier": "4aad7616-0d67-46f4-a664-bce25e617248",
+            "issued": "2022-08-08",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-koperasi-primer-menurut-kelompok-koperasi-simpan-pinjam-ac9pl5",
+            "modified": "2022-08-12",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Komunikasi dan Informatika Kota Batam"
+            },
+            "title": "Statistik Jumlah Koperasi Primer Menurut Kelompok Koperasi Simpan Pinjam di Kota Batam",
+            "description": "Statistik Jumlah Koperasi Primer Menurut Kelompok Koperasi Simpan Pinjam di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk Menurut Agama dan Jenis Kelamin di Kota Batam"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk Menurut Agama dan Jenis Kelamin di Kota Batam"
+                }
+            ],
+            "identifier": "7fed033e-40eb-4b94-a904-9a2d8203533e",
+            "issued": "2022-08-15",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-menurut-agama-dan-jenis-kelamin-di-kota-batam-3dgats",
+            "modified": "2022-08-16",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Menurut Agama Dan Jenis Kelamin Di Kota Batam di Kota Batam",
+            "description": "Statistik Jumlah Penduduk Menurut Agama Dan Jenis Kelamin Di Kota Batam di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk Bercerai Menurut Kepemilikan Akta Cerai dan Kecamatan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk Bercerai Menurut Kepemilikan Akta Cerai dan Kecamatan"
+                }
+            ],
+            "identifier": "ec202c0f-3fe1-4ee0-9df0-333a9e7b697a",
+            "issued": "2022-08-15",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-bercerai-menurut-kepemilikan-akta-cerai-dan-kecamatan-u7ejbs",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Bercerai Menurut Kepemilikan Akta Cerai Dan Kecamatan di Kota Batam",
+            "description": "Statistik Jumlah Penduduk Bercerai Menurut Kepemilikan Akta Cerai Dan Kecamatan di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Penduduk Menikah Menurut Kepemilikan Akta Nikah dan Kecamatan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Jumlah Penduduk Menikah Menurut Kepemilikan Akta Nikah dan Kecamatan"
+                }
+            ],
+            "identifier": "65f9070d-e6db-47c2-b9c7-79445bf8d565",
+            "issued": "2022-08-15",
+            "landingPage": "https://satudata.batam.go.id/detail/jumlah-penduduk-menikah-menurut-kepemilikan-akta-nikah-dan-kecamatan-y68gjn",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Jumlah Penduduk Menikah Menurut Kepemilikan Akta Nikah Dan Kecamatan di Kota Batam",
+            "description": "Jumlah Penduduk Menikah Menurut Kepemilikan Akta Nikah Dan Kecamatan di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Penduduk Menurut Kepemilikan Akta Lahir dan Kecamatan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Jumlah Penduduk Menurut Kepemilikan Akta Lahir dan Kecamatan"
+                }
+            ],
+            "identifier": "99b87eb0-9ce1-47ea-a8d3-1ae73403a211",
+            "issued": "2022-08-16",
+            "landingPage": "https://satudata.batam.go.id/detail/jumlah-penduduk-menurut-kepemilikan-akta-lahir-dan-kecamatan-rliabc",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Jumlah Penduduk Menurut Kepemilikan Akta Lahir Dan Kecamatan di Kota Batam",
+            "description": "Jumlah Penduduk Menurut Kepemilikan Akta Lahir Dan Kecamatan di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk Disabilitas Menurut Jenis Disabilitas dan Jenis Kelamin"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk Disabilitas Menurut Jenis Disabilitas dan Jenis Kelamin"
+                }
+            ],
+            "identifier": "155592bd-6993-414c-ab6c-605390f56267",
+            "issued": "2022-08-26",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-disabilitas-menurut-jenis-disabilitas-dan-jenis-kelamin-qc0ids",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Disabilitas Menurut Jenis Disabilitas Dan Jenis Kelamin di Kota Batam",
+            "description": "Statistik Jumlah Penduduk Disabilitas Menurut Jenis Disabilitas Dan Jenis Kelamin di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk Menurut Golongan Darah dan Jenis Kelamin"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk Menurut Golongan Darah dan Jenis Kelamin"
+                }
+            ],
+            "identifier": "b153efd8-b79b-4f7e-a922-3f0291176855",
+            "issued": "2022-09-02",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-menurut-golongan-darah-dan-jenis-kelamin-bpyijg",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Menurut Golongan Darah Dan Jenis Kelamin di Kota Batam",
+            "description": "Statistik Jumlah Penduduk Menurut Golongan Darah Dan Jenis Kelamin di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk Menurut Jenis Kelamin dan Kecamatan di Kota Batam"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk Menurut Jenis Kelamin dan Kecamatan di Kota Batam"
+                }
+            ],
+            "identifier": "77d0f53e-be3a-4de9-bb4d-9afcfc351017",
+            "issued": "2022-09-05",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-menurut-jenis-kelamin-dan-kecamatan-di-kota-batam-6wbsi2",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Menurut Jenis Kelamin Dan Kecamatan Di Kota Batam di Kota Batam",
+            "description": "Statistik Jumlah Penduduk Menurut Jenis Kelamin Dan Kecamatan Di Kota Batam di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Batam"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Penduduk Menurut Kelompok Umur dan Jenis Kelamin di Kota Batam"
+                }
+            ],
+            "identifier": "cfb5ca21-046c-407a-bf82-78afede4f15d",
+            "issued": "2022-09-13",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-penduduk-menurut-kategori-umur-dan-jenis-kelamin-di-kota-batam-zwgxzo",
+            "modified": "2022-09-13",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Penduduk Menurut Kelompok Umur Dan Jenis Kelamin Di Kota Batam di Kota Batam",
+            "description": "Statistik Jumlah Penduduk Menurut Kelompok Umur Dan Jenis Kelamin Di Kota Batam di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Statistik Jumlah Kepala Keluarga Menurut Jenis Kelamin dan Kecamatan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "Statistik Jumlah Kepala Keluarga Menurut Jenis Kelamin dan Kecamatan"
+                }
+            ],
+            "identifier": "33b36c5a-251a-4371-96cb-03f9f23f9184",
+            "issued": "2022-09-13",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-kepala-keluarga-menurut-jenis-kelamin-dan-kecamatan-x2q4mb",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Kepala Keluarga Menurut Jenis Kelamin Dan Kecamatan di Kota Batam",
+            "description": "Statistik Jumlah Kepala Keluarga Menurut Jenis Kelamin Dan Kecamatan di Kota Batam",
+            "keywords": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+                "hasEmail": "mailto:satudata@batam.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/csv/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "statistik jumlah anak menurut kepemilikan KIA"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadUrl": "https://satudata.batam.go.id/json/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
+                    "mediaType": "text/json",
+                    "format": "json",
+                    "title": "statistik jumlah anak menurut kepemilikan KIA"
+                }
+            ],
+            "identifier": "6411d15c-0fe5-4833-b1ae-ef5947e17e08",
+            "issued": "2022-09-14",
+            "landingPage": "https://satudata.batam.go.id/detail/statistik-jumlah-anak-menurut-kepemilikan-kia-vdstwo",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil Kota Batam"
+            },
+            "title": "Statistik Jumlah Anak Menurut Kepemilikan KIA di Kota Batam",
+            "description": "Data Statistik jumlah anak berdasarkan kepemilikan Kartu Identitas Anak (KIA) di Kota Batam pada Tahun 2021",
+            "keywords": [
+                "anak",
+                "KIA",
+                "2021"
+            ]
+        }
+    ]
+}
