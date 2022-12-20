@@ -1,0 +1,240 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.pertanian.go.id/data.json",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Pemotongan_Ternak_Tercatat_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Pemotongan ternak tercatat"
+                }
+            ],
+            "identifier": "15C0913E-998E-4211-880B-2EA4AD8CC956",
+            "issued": "2022-12-08 15:39:17",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Pemotongan ternak tercatat",
+            "description": "Pemotongan ternak yang dilakukan di Rumah Potong Hewan Ruminansia (RPH-R), Rumah Potong Hewan Babi (RPH-B), dan Rumah Potong Unggas (RPH-U) baik milik pemerintah maupun swasta, serta tempat pemotongan hewan selain RPH yang dilaporkan kepada dinas atau dicatat oleh dinas yang membidangi fungsi peternakan dan kesehatan hewan setempat",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Pemotongan_Ternak_Tidak_Tercatat_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Pemotongan ternak tidak tercatat"
+                }
+            ],
+            "identifier": "78006128-0F65-4511-9A7B-F87701A56AD1",
+            "issued": "2022-12-08 15:39:29",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Pemotongan ternak tidak tercatat",
+            "description": "Pemotongan yang dilakukan oleh orang perorangan yang tidak dilaporkan kepada dinas atau tidak dicatat oleh dinas yang membidangi fungsi peternakan dan kesehatan hewan setempat",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Produksi_Daging_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Produksi daging (karkas)"
+                }
+            ],
+            "identifier": "D721C99E-9220-4DFB-AB64-70846DB13FA1",
+            "issued": "2022-12-08 15:39:42",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Produksi daging (karkas)",
+            "description": "Jumlah produksi daging (karkas) adalah jumlah karkas hasil pemotongan ternak di wilayah tersebut ditambah dengan bagian yang dapat dimakan (edible portion) selama waktu tertentu. Bagian yang dapat dimakan (edible portion) adalah organ-organ dan bagian selain karkas yang dapat dikonsumsi, meliputi jeroan (edible offal) dan daging variasi (fancy meat).",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Produksi_Telur_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Produksi telur"
+                }
+            ],
+            "identifier": "A7C7072B-21BD-4E4E-941F-1AB6B41E4222",
+            "issued": "2022-12-08 15:40:01",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Produksi telur",
+            "description": "Jumlah telur yang dihasilkan dari unggas (ayam buras, puyuh, itik, dan itik manila), tidak termasuk ayam ras petelur selama setahun, termasuk yang ditetaskan, rusak, diperdagangkan, dikonsumsi, dan diberikan kepada orang lain.",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Produksi_Susu_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Produksi Susu Sapi"
+                }
+            ],
+            "identifier": "957C604F-8AF9-4D3C-9E6B-5F17DE5D83BB",
+            "issued": "2022-12-08 15:40:16",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Produksi Susu Sapi",
+            "description": "Jumlah air susu yang keluar dari sapi betina selama satu tahun, termasuk yang diberikan kepada pedet/anak sapi, rusak, diperdagangkan, dikonsumsi, dan diberikan kepada orang lain",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Pengeluaran_Ternak_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Pengeluaran Ternak dan Hasil Ternak"
+                }
+            ],
+            "identifier": "3EB48391-274B-4D13-9016-DF2AD7D35964",
+            "issued": "2022-12-08 15:40:27",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Pengeluaran Ternak dan Hasil Ternak",
+            "description": "Kegiatan mengirimkan hasil ternak (penjualan dan/atau pengurangan lain), baik yang keluar kabupaten/kota, provinsi, atau luar negeri",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Pemasukan_Ternak_2020_sd_2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Pemasukan ternak dan hasil ternak"
+                }
+            ],
+            "identifier": "408413CC-78F5-4634-87A1-E1535C229E1A",
+            "issued": "2022-12-08 15:41:00",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-08",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Pemasukan ternak dan hasil ternak",
+            "description": "Kegiatan mendatangkan hasil ternak (pembelian dan/atau penambahan lain misalnya bantuan ternak), baik yang berasal dari luar kabupaten/kota, provinsi, atau luar negeri",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "Public",
+            "contactPoint": {
+                "fn": "Pusdatin Kementerian Pertanian",
+                "hasEmail": "mailto:layanan.data@pertanian.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.pertanian.go.id/Populasi_Ternak_Tahun_2020-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Populasi ternak"
+                }
+            ],
+            "identifier": "20751477-685D-4144-B667-E7D937E5513A",
+            "issued": "2022-12-08 15:41:13",
+            "landingPage": "https://satudata.pertanian.go.id/",
+            "modified": "2022-12-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIAT DIREKTORAT JENDERAL PETERNAKAN DAN KESEHATAN HEWAN"
+            },
+            "title": "Populasi ternak",
+            "description": "Jumlah ternak yang hidup pada wilayah dan waktu tertentu, kecuali ayam ras pedaging dan ayam ras petelur",
+            "keyword": []
+        }
+    ]
+}
