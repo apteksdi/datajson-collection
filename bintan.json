@@ -12,13 +12,15 @@
                 "fn": "Dinas Kependudukan dan Pencatatan Sipil",
                 "hasEmail": ""
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat : Distribution",
                 "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1670861772.xlsx",
                 "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "format": "xlsx",
                 "title": "form1670861772.xlsx"
-            },
+                }
+            ],
             "identifier": "",
             "issued": "2022-12-12",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mw--",
