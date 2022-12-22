@@ -1,6 +1,7 @@
 {
     "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
     "@id": "https://satudata.pertanian.go.id/data.json",
+    "@type": "dcat:Catalog",
     "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
     "dataset": [
@@ -20,7 +21,7 @@
                     "title": "Pemotongan ternak tercatat"
                 }
             ],
-            "identifier": "15C0913E-998E-4211-880B-2EA4AD8CC956",
+            "identifier": "F4433B16-285E-4221-A477-031C4FE48F31",
             "issued": "2022-12-08 15:39:17",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
@@ -49,7 +50,7 @@
                     "title": "Pemotongan ternak tidak tercatat"
                 }
             ],
-            "identifier": "78006128-0F65-4511-9A7B-F87701A56AD1",
+            "identifier": "B1ED0012-E8BB-4968-92F3-D4175F267168",
             "issued": "2022-12-08 15:39:29",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
@@ -78,7 +79,7 @@
                     "title": "Produksi daging (karkas)"
                 }
             ],
-            "identifier": "D721C99E-9220-4DFB-AB64-70846DB13FA1",
+            "identifier": "5FA3A3FC-093F-44CC-B317-0190719AF7EB",
             "issued": "2022-12-08 15:39:42",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
@@ -107,7 +108,7 @@
                     "title": "Produksi telur"
                 }
             ],
-            "identifier": "A7C7072B-21BD-4E4E-941F-1AB6B41E4222",
+            "identifier": "075AFD16-3906-4CAF-B4EF-D729AA2B869F",
             "issued": "2022-12-08 15:40:01",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
@@ -136,7 +137,7 @@
                     "title": "Produksi Susu Sapi"
                 }
             ],
-            "identifier": "957C604F-8AF9-4D3C-9E6B-5F17DE5D83BB",
+            "identifier": "C199E593-F906-4DC5-83B1-459BFD59351E",
             "issued": "2022-12-08 15:40:16",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
@@ -165,7 +166,7 @@
                     "title": "Pengeluaran Ternak dan Hasil Ternak"
                 }
             ],
-            "identifier": "3EB48391-274B-4D13-9016-DF2AD7D35964",
+            "identifier": "91B16019-60F7-45DF-8BB0-F2796593E3E5",
             "issued": "2022-12-08 15:40:27",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
@@ -194,7 +195,7 @@
                     "title": "Pemasukan ternak dan hasil ternak"
                 }
             ],
-            "identifier": "408413CC-78F5-4634-87A1-E1535C229E1A",
+            "identifier": "B1C7017E-C9F5-424B-92EB-BA56ADDBE353",
             "issued": "2022-12-08 15:41:00",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-08",
@@ -223,7 +224,7 @@
                     "title": "Populasi ternak"
                 }
             ],
-            "identifier": "20751477-685D-4144-B667-E7D937E5513A",
+            "identifier": "2B5ACD37-C252-46CE-A37B-D2E331001A13",
             "issued": "2022-12-08 15:41:13",
             "landingPage": "https://satudata.pertanian.go.id/",
             "modified": "2022-12-09",
