@@ -41,13 +41,15 @@
                 "fn": "Sekretariat Daerah",
                 "hasEmail": "email@email.com"
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat : Distribution",
                 "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670862176.xlsx",
                 "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "format": "xlsx",
                 "title": "form1670862176.xlsx"
-            },
+                }
+            ],
             "identifier": "",
             "issued": "2022-12-12",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NA--",
@@ -71,13 +73,15 @@
                 "fn": "Sekretariat Daerah",
                 "hasEmail": "email@email.com"
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat : Distribution",
                 "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670863027.xlsx",
                 "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "format": "xlsx",
                 "title": "form1670863027.xlsx"
-            },
+                }
+            ],
             "identifier": "",
             "issued": "2022-12-16",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NQ--",
@@ -101,13 +105,15 @@
                 "fn": "Sekretariat DPRD",
                 "hasEmail": ""
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat : Distribution",
                 "downloadURL": "https://satudata.bintankab.go.id/uploads/9/Pemerintah & Desa/form1671450835.xlsx",
                 "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "format": "xlsx",
                 "title": "form1671450835.xlsx"
-            },
+                }
+            ],
             "identifier": "",
             "issued": "2022-12-19",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Ng--",
@@ -129,13 +135,15 @@
                 "fn": "Dinas Pendidikan",
                 "hasEmail": ""
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat : Distribution",
                 "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1670865226.xlsx",
                 "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "format": "xlsx",
                 "title": "form1670865226.xlsx"
-            },
+                }
+            ],
             "identifier": "",
             "issued": "2022-12-13",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Nw--",
@@ -158,13 +166,15 @@
                 "fn": "Dinas Kesehatan",
                 "hasEmail": ""
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat : Distribution",
                 "downloadURL": "https://satudata.bintankab.go.id/uploads/2/Kesehatan/form1670865364.xlsx",
                 "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                 "format": "xlsx",
                 "title": "form1670865364.xlsx"
-            },
+                }
+            ],
             "identifier": "",
             "issued": "2022-12-13",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/OA--",
