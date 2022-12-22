@@ -1,0 +1,184 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.bintankab.go.id/",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kependudukan dan Pencatatan Sipil",
+                "hasEmail": ""
+            },
+            "distribution": {
+                "@type": "dcat : Distribution",
+                "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1670861772.xlsx",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "form1670861772.xlsx"
+            },
+            "identifier": "",
+            "issued": "2022-12-12",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mw--",
+            "modified": "1970-01-01",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Jumlah data penduduk Kabupaten Bintan Per-Tahun",
+            "keyword": [
+                "penduduk",
+                "bintan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sekretariat Daerah",
+                "hasEmail": "email@email.com"
+            },
+            "distribution": {
+                "@type": "dcat : Distribution",
+                "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670862176.xlsx",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "form1670862176.xlsx"
+            },
+            "identifier": "",
+            "issued": "2022-12-12",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NA--",
+            "modified": "2022-12-12",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Daerah"
+            },
+            "title": "Jumlah RW dan RT pada Masing-Masing Kecamatan di Kabupaten Bintan",
+            "keyword": [
+                "penduduk",
+                "rt",
+                "rw"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sekretariat Daerah",
+                "hasEmail": "email@email.com"
+            },
+            "distribution": {
+                "@type": "dcat : Distribution",
+                "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670863027.xlsx",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "form1670863027.xlsx"
+            },
+            "identifier": "",
+            "issued": "2022-12-16",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NQ--",
+            "modified": "2022-12-16",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Daerah"
+            },
+            "title": "Jumlah Desa dan Kelurahan Per-Tahun",
+            "keyword": [
+                "desa",
+                "kelurahan",
+                "bintan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sekretariat DPRD",
+                "hasEmail": ""
+            },
+            "distribution": {
+                "@type": "dcat : Distribution",
+                "downloadURL": "https://satudata.bintankab.go.id/uploads/9/Pemerintah & Desa/form1671450835.xlsx",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "form1671450835.xlsx"
+            },
+            "identifier": "",
+            "issued": "2022-12-19",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Ng--",
+            "modified": "2022-12-19",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat DPRD"
+            },
+            "title": "Jumlah Anggota DPRD berdasarkan  Partai Politik dan Jenis Kelamin",
+            "keyword": [
+                "dprd"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": {
+                "@type": "dcat : Distribution",
+                "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1670865226.xlsx",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "form1670865226.xlsx"
+            },
+            "identifier": "",
+            "issued": "2022-12-13",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Nw--",
+            "modified": "2022-12-13",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Guru Sekolah Dasar di bawah Kementerian Pendidikan dan Kebudayaan Pada Masing-Masing Kecamatan 2020/2021",
+            "keyword": [
+                "pendidikan",
+                "sekolah"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kesehatan",
+                "hasEmail": ""
+            },
+            "distribution": {
+                "@type": "dcat : Distribution",
+                "downloadURL": "https://satudata.bintankab.go.id/uploads/2/Kesehatan/form1670865364.xlsx",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "form1670865364.xlsx"
+            },
+            "identifier": "",
+            "issued": "2022-12-13",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/OA--",
+            "modified": "2022-12-13",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "title": "Jumlah Sarana Kesehatan Di Kecamatan Kabupaten Bintan Tahun 2020",
+            "keyword": [
+                "kesehatan",
+                "rumah sakit"
+            ]
+        }
+    ]
+}
