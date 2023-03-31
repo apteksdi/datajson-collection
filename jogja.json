@@ -1,0 +1,126 @@
+{
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@id": "https://data.pu.go.id/data.json",
+  "@type": "dcat:Catalog",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public", 
+	  "id": "1.01",
+	  "title": "Pendidikan",
+      "description": "<p>Pendidikan</p>\n",
+      "contactpoint" : {
+      "fn" : "Bappeda BPPSD DIY",
+      "hasemail" : "mailto:bappeda@jogjaprov.go.id"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "id": "001",
+          "title": "Rasio Guru dan Murid DIY",
+          "downloadURL": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/export_excel/472-rasio-guru-dengan-murid",
+          
+          "mediaType": "text/xslx",
+          "format": "xslx",
+          "description": "<p>Rasio Guru dan Murid DIY</p>\n"		     
+        },
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/export_excel/473-angka-partisipasi-sekolah-aps",
+          "mediaType": "text/xslx",
+          "format": "xslx",
+          "description": "<p>Angka Partisipasi sekolah di DIY</p>\n",
+          "id": "002",
+		  "title": "Angka Partisipasi sekolah di DIY"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/export_excel/475-jumlah-perguruan-tinggi-agama-pta",
+          "mediaType": "text/xslx",
+          "format": "xslx",
+          "description": "<p>Jumlah Perguruan Tinggi Agama</p>\n",
+          "id": "003",
+		  "title": "Jumlah Perguruan Tinggi Agama"
+        }
+      ],
+      "identifier": "04fd057d-bf20-41dd-863c-c10f9309880e", 
+      "issued": "2022-12-02",
+      "keyword": [
+        "Pendidikan",
+        "Data Pendidikan",
+        "Informasi Pendidikan"
+      ],
+      "landingPage": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/index/14-pendidikan?bidang_urusan=1",
+      "modified": "2023-12-02", 
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Pendidikan DIY"
+      },
+      "theme": [
+        "Pendidikan"
+      ],
+      "title": "Pendidikan"
+    	           
+	},
+	 {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public", 
+	  "id": "1.02",
+	  "title": "Kesehatan",
+      "description": "<p>Kesehatan</p>\n",
+      "contactpoint" : {
+        "fn" : "Bappeda BPPSD DIY",
+        "hasemail" : "mailto:bappeda@jogjaprov.go.id"
+        },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/export_excel/241-sarana-kesehatan",
+          "mediaType": "text/xslx",
+          "format": "xslx",
+          "description": "<p>Sarana Kesehatan</p>\n",
+		  "id": "001",
+          "title": "Sarana Kesehatan"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/export_excel/242-jumlah-sarana-industri-dan-industri-farmasi",
+          "mediaType": "text/xslx",
+          "format": "xslx",
+          "description": "<p>Jumlah Sarana Industri dan Industri Farmasi</p>\n",
+          "id": "002",
+		  "title": "Jumlah Sarana Industri dan Industri Farmasi"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/export_excel/244-kesehatan-masyarakat",
+          "mediaType": "text/xslx",
+          "format": "xslx",
+          "description": "<p>Kesehatan Masyarakat</p>\n",
+          "id": "003",
+		      "title": "Kesehatan Masyarakat"
+        }
+      ],
+      "identifier": "04fd057d-bf20-41dd-863c-c10f9309120e", 
+      "issued": "2023-12-02", 
+      "keyword": [
+        "Kesehatan",
+        "Data Kesehatan",
+        "Informasi Kesehatan" 
+      ],
+      "landingPage": "http://bappeda.jogjaprov.go.id/dataku/data_dasar/index/14-pendidikan?bidang_urusan=2",
+      "modified": "2023-12-02", 
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Kesehatan DIY"
+      },
+      "theme": [
+        "Kesehatan"
+      ],
+      "title": "Kesehatan"
+	           
+	}
+  ]
+}
