@@ -9,22 +9,314 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "fn": "Dinas Komunikasi Dan Informatika",
+                "hasEmail": "kominfo@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/1/Infrastruktur/form1678337339.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1678337339.xlsx"
+                }
+            ],
+            "identifier": "73eb3655-d025-418c-b773-48f42e2eb6e1",
+            "issued": "2023-03-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTA-",
+            "modified": "2023-03-09",
+            "accrualPeriodicity": "Tahun",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Komunikasi Dan Informatika"
+            },
+            "title": "Jumlah Persebaran Tower BTS di Kecamatan Bintan Utara",
+            "keyword": [
+                "tower",
+                " bts",
+                " infrastruktur",
+                " komunikasi",
+                " telekomunikasi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi Dan Informatika",
+                "hasEmail": "kominfo@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/1/Infrastruktur/form1675827601.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1675827601.xlsx"
+                }
+            ],
+            "identifier": "bfebd753-81b6-4bc9-9700-f7ad3ecbdb6b",
+            "issued": "2023-02-08",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTE-",
+            "modified": "2023-02-08",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Komunikasi Dan Informatika"
+            },
+            "title": "Jumlah Tower BTS di Kecamatan Kabupaten Bintan",
+            "keyword": [
+                "tower",
+                " bts",
+                " komunikasi",
+                " internet"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Perumahan dan Kawasan Permukiman",
+                "hasEmail": "perkim@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/11/Infrastruktur/form1675836328.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1675836328.xlsx"
+                }
+            ],
+            "identifier": "1a68dc6e-7dea-4289-bcbb-8f85f07392f3",
+            "issued": "2023-02-08",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTM-",
+            "modified": "2023-02-08",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Perumahan dan Kawasan Permukiman"
+            },
+            "title": "Jumlah Rumah Layak Huni Kecamatan Kabupaten Bintan",
+            "keyword": [
+                "rumah",
+                " layak",
+                " penduduk"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Ketahanan Pangan dan Pertanian",
+                "hasEmail": "dkpp@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/27/Ekonomi/form1677033334.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677033334.xlsx"
+                }
+            ],
+            "identifier": "7d15d4a4-7afe-4228-b4e0-33be914f3ec0",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MzI-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Ketahanan Pangan dan Pertanian"
+            },
+            "title": "Jumlah Area Holtikultura Tahun 2021",
+            "keyword": [
+                "pertanian",
+                " area",
+                " holtikultura",
+                " lahan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Ketahanan Pangan dan Pertanian",
+                "hasEmail": "dkpp@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/27/Ekonomi/form1677033566.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677033566.xlsx"
+                }
+            ],
+            "identifier": "479caf6d-f94b-4bec-b762-5c1fbb032b5a",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MzM-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Ketahanan Pangan dan Pertanian"
+            },
+            "title": "Jumlah Populasi Hewan Ternak Tahun 2021",
+            "keyword": [
+                "ternak",
+                " peternakan",
+                " hewan",
+                " populasi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Ketahanan Pangan dan Pertanian",
+                "hasEmail": "dkpp@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/27/Ekonomi/form1677033808.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677033808.xlsx"
+                }
+            ],
+            "identifier": "c4b9d436-3f33-45bc-b52e-4721528d5d2a",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MzQ-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Ketahanan Pangan dan Pertanian"
+            },
+            "title": "Jumlah Populasi Ternak Unggas Tahun 2021",
+            "keyword": [
+                "peternakan",
+                " unggas",
+                " area"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Tenaga Kerja",
+                "hasEmail": "disnaker@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/29/Ekonomi/form1677047001.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677047001.xlsx"
+                }
+            ],
+            "identifier": "0856a0f1-7a1a-47b5-9ccd-311c12653f33",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mzk-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Tenaga Kerja"
+            },
+            "title": "Jumlah Tenaga Kerja Menurut Jenis Kelamin Tahun 2021",
+            "keyword": [
+                "tenaga kerja",
+                " penduduk"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Tenaga Kerja",
+                "hasEmail": "disnaker@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/29/Ekonomi/form1677047496.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677047496.xlsx"
+                }
+            ],
+            "identifier": "2240ec64-eabe-4d47-861a-f2cfd84b6ce2",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NDA-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Tenaga Kerja"
+            },
+            "title": "Data Tenaga Kerja Berdasarkan Bidang Tahun 2021",
+            "keyword": [
+                "tenaga kerja",
+                " penduduk",
+                " bidang"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Sosial",
+                "hasEmail": "dinsos@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/23/Kemiskinan/form1677046680.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677046680.xlsx"
+                }
+            ],
+            "identifier": "1ee7164c-786e-4b5b-83c1-e149ab7a54af",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mzg-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "title": "Data Penduduk Berdasarkan Penduduk dan KK  Miskin Tahun 2021",
+            "keyword": [
+                "penduduk",
+                " miskin",
+                " kk"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
                 "fn": "Dinas Kependudukan dan Pencatatan Sipil",
                 "hasEmail": ""
             },
             "distribution": [
                 {
-                "@type": "dcat : Distribution",
-                "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1670861772.xlsx",
-                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                "format": "xlsx",
-                "title": "form1670861772.xlsx"
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1670861772.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1670861772.xlsx"
                 }
             ],
-            "identifier": "",
+            "identifier": "6d3acda9-b43d-494d-a306-085e6a71b075",
             "issued": "2022-12-12",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mw--",
-            "modified": "1970-01-01",
+            "modified": "2022-12-12",
             "accrualPeriodicity": "Tahunan",
             "publisher": {
                 "@type": "org:Organization",
@@ -40,19 +332,378 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "fn": "Dinas Kependudukan dan Pencatatan Sipil",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1676520089.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676520089.xlsx"
+                }
+            ],
+            "identifier": "ecc8570a-42c2-43b0-aa8b-b6b872775a1c",
+            "issued": "2023-02-16",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mjk-",
+            "modified": "2023-02-16",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Jumlah Penduduk Menurut Tingkat Pendidikan Tahun 2021 Kabupaten Bintan",
+            "keyword": [
+                "penduduk",
+                " pendidikan",
+                " lulus"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kependudukan dan Pencatatan Sipil",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1676869844.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676869844.xlsx"
+                }
+            ],
+            "identifier": "06472751-cfa7-47a4-86ed-4e579100f279",
+            "issued": "2023-02-20",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MzE-",
+            "modified": "2023-02-20",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Jumlah Penduduk Berdasarkan Jenis Kelamin Tahun 2021",
+            "keyword": [
+                "penduduk",
+                " laki-laki",
+                " perempuan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kependudukan dan Pencatatan Sipil",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1677034958.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677034958.xlsx"
+                }
+            ],
+            "identifier": "f2185f7f-431b-4d39-b5bf-fc546b0619d4",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MzU-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Jumlah Kependudukan Berdasarkan Kepemilikan Akta Kelahiran Tahun 2021",
+            "keyword": [
+                "penduduk",
+                " akta",
+                " kelahiran"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kependudukan dan Pencatatan Sipil",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1677035224.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677035224.xlsx"
+                }
+            ],
+            "identifier": "cdf36684-b225-4483-b8f2-3092cdc962df",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MzY-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Jumlah Penduduk Berdasarkan Pencatatan SIpil 2021",
+            "keyword": [
+                "penduduk",
+                " pencatatan sipil",
+                " akta nikah",
+                " akta cerai"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kependudukan dan Pencatatan Sipil",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/7/Kependudukan/form1677035496.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677035496.xlsx"
+                }
+            ],
+            "identifier": "bd1b43cb-7740-4e9e-a4cf-db284ecc3c82",
+            "issued": "2023-02-22",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mzc-",
+            "modified": "2023-02-22",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Data Status Perkawinan Penduduk Tahun 2021",
+            "keyword": [
+                "penduduk",
+                " nikah",
+                " belum nikah",
+                " cerai"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kesehatan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/2/Kesehatan/form1670865364.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1670865364.xlsx"
+                }
+            ],
+            "identifier": "5a48ddea-572b-4243-aa31-9beacec87da5",
+            "issued": "2022-12-13",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/OA--",
+            "modified": "2022-12-13",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "title": "Jumlah Sarana Kesehatan Di Kecamatan Kabupaten Bintan Tahun 2020",
+            "keyword": [
+                "kesehatan",
+                "rumah sakit"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kesehatan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/2/Kesehatan/form1675918926.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1675918926.xlsx"
+                }
+            ],
+            "identifier": "2cc55a32-7c73-4756-8812-2b7e19550b92",
+            "issued": "2023-02-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTQ-",
+            "modified": "2023-02-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "title": "Jumlah Tenaga Kesehatan Tahun 2023 di Kecamatan Kabupaten Bintan",
+            "keyword": [
+                "tanaga",
+                " kesehatan",
+                " medis",
+                " gizi",
+                " bidan",
+                " farmasi",
+                " dokter"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Kesehatan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/2/Kesehatan/form1675919279.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1675919279.xlsx"
+                }
+            ],
+            "identifier": "3c465956-3cef-40d3-a54d-8aa95bbc5d6a",
+            "issued": "2023-02-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTU-",
+            "modified": "2023-02-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "title": "Jumlah Bayi Lahir, Bayi Lahir Berat Kurang dan Gizi Kurang Tahun 2022 Kabupaten BIntan",
+            "keyword": [
+                "bayi",
+                " sehat",
+                " kesehatan",
+                " gizi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pengendalian Penduduk dan KB",
+                "hasEmail": "dp3kb@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/25/Kesehatan/form1676356570.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676356570.xlsx"
+                }
+            ],
+            "identifier": "135bc717-6040-4b86-b746-892f809518f1",
+            "issued": "2023-02-14",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTc-",
+            "modified": "2023-02-14",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pengendalian Penduduk dan KB"
+            },
+            "title": "Jumlah Peserta KB Tahun 2022 per Kecamatan Kabupaten Bintan",
+            "keyword": [
+                "kesehatan",
+                " keluarga",
+                " berencana",
+                " kb"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pengendalian Penduduk dan KB",
+                "hasEmail": "dp3kb@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/25/Kesehatan/form1676358213.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676358213.xlsx"
+                }
+            ],
+            "identifier": "0fee2782-8034-45ac-9cbc-36cb18d9a2ca",
+            "issued": "2023-02-14",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTg-",
+            "modified": "2023-02-14",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pemberdayaan Perempuan, Perlindungan Anak, Pengendalian Penduduk dan KB"
+            },
+            "title": "Jumlah Remaja Usia 15-24 Tahun yang Mendapat Penyuluhan Tahun 2022",
+            "keyword": [
+                "ramaja",
+                " kesehatan",
+                " penyuluhan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pariwisata dan Kebudayaan",
+                "hasEmail": "disparbud@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/10/Pariwisata & Kebudayaan/form1675754198.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1675754198.xlsx"
+                }
+            ],
+            "identifier": "ab7c93d8-3942-43e7-a19e-f93a9175bbda",
+            "issued": "2023-02-07",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/OQ--",
+            "modified": "2023-02-07",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pariwisata dan Kebudayaan"
+            },
+            "title": "Jumlah Restoran dan Rumah Makan di Kabupaten Bintan Per Kecamatan",
+            "keyword": [
+                "pariwisata",
+                " rumah_makan",
+                " restoran"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
                 "fn": "Sekretariat Daerah",
                 "hasEmail": "email@email.com"
             },
             "distribution": [
                 {
-                "@type": "dcat : Distribution",
-                "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670862176.xlsx",
-                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                "format": "xlsx",
-                "title": "form1670862176.xlsx"
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670862176.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1670862176.xlsx"
                 }
             ],
-            "identifier": "",
+            "identifier": "48eca648-66da-4f82-a134-7e3698c03d01",
             "issued": "2022-12-12",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NA--",
             "modified": "2022-12-12",
@@ -77,14 +728,14 @@
             },
             "distribution": [
                 {
-                "@type": "dcat : Distribution",
-                "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670863027.xlsx",
-                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                "format": "xlsx",
-                "title": "form1670863027.xlsx"
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Pemerintah & Desa/form1670863027.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1670863027.xlsx"
                 }
             ],
-            "identifier": "",
+            "identifier": "ddb263a8-cfe5-4d46-88cf-c49e78f6da0a",
             "issued": "2022-12-16",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NQ--",
             "modified": "2022-12-16",
@@ -109,14 +760,14 @@
             },
             "distribution": [
                 {
-                "@type": "dcat : Distribution",
-                "downloadURL": "https://satudata.bintankab.go.id/uploads/9/Pemerintah & Desa/form1671450835.xlsx",
-                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                "format": "xlsx",
-                "title": "form1671450835.xlsx"
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/9/Pemerintah & Desa/form1671450835.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1671450835.xlsx"
                 }
             ],
-            "identifier": "",
+            "identifier": "3ea7c950-c348-448f-ad2d-0cb05978e5be",
             "issued": "2022-12-19",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Ng--",
             "modified": "2022-12-19",
@@ -134,19 +785,288 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676434430.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676434430.xlsx"
+                }
+            ],
+            "identifier": "90e7a02a-0ee1-4025-b452-02055614631d",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTk-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Jabatan dan Jenis Kelamin Tahun 2020",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Jabatan",
+                ""
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676434782.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676434782.xlsx"
+                }
+            ],
+            "identifier": "4291e906-ce26-4d7b-aa63-573228a8f985",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MjA-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Jabatan dan Jenis Kelamin Tahun 2021",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Jabatan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676435071.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676435071.xlsx"
+                }
+            ],
+            "identifier": "a1237300-0dda-4116-8b18-0bb372ead891",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MjE-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Pangkat dan Golongan Ruang Tahun 2020",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Pangkat",
+                " Golongan Ruang"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676435348.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676435348.xlsx"
+                }
+            ],
+            "identifier": "1aaf4ae4-bc7f-4e2c-a11a-845d59125131",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MjI-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Pangkat dan Golongan Ruang Tahun 2021",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Pangkat",
+                " Golongan Ruang"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676435593.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676435593.xlsx"
+                }
+            ],
+            "identifier": "2336a3f6-de2b-4d18-91cb-7f01d865907b",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MjM-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Pendidikan dan Jenis Kelamin Tahun 2020",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Pendidikan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676435813.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676435813.xlsx"
+                }
+            ],
+            "identifier": "58f11c1e-8067-465a-85ce-bbb2e43b26e3",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MjQ-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Pendidikan dan Jenis Kelamin Tahun 2021",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Pendidikan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676436049.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676436049.xlsx"
+                }
+            ],
+            "identifier": "0434e9a2-e855-469d-915c-586e65a45bf4",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MjU-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Perangkat Daerah dan Jenis Kelamin Tahun 2020",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Perangkat Daerah",
+                " OPD"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia",
+                "hasEmail": "bkpsd@bintankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/5/Pemerintah & Desa/form1676436369.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676436369.xlsx"
+                }
+            ],
+            "identifier": "9f42739a-6efa-4e89-baad-d4062533a48d",
+            "issued": "2023-02-15",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Mjc-",
+            "modified": "2023-02-15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kepegawaian dan Pengembangan Sumber Daya Manusia"
+            },
+            "title": "Jumlah PNS Menurut Perangkat Daerah dan Jenis Kelamin Tahun 2021",
+            "keyword": [
+                "pegawai",
+                " PNS",
+                " ASN",
+                " Perangkat Daerah",
+                " OPD"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
                 "fn": "Dinas Pendidikan",
                 "hasEmail": ""
             },
             "distribution": [
                 {
-                "@type": "dcat : Distribution",
-                "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1670865226.xlsx",
-                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                "format": "xlsx",
-                "title": "form1670865226.xlsx"
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1670865226.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1670865226.xlsx"
                 }
             ],
-            "identifier": "",
+            "identifier": "9d805122-d06a-4d5b-8dec-34f88a67357a",
             "issued": "2022-12-13",
             "landingPage": "https://satudata.bintankab.go.id/dataset/detail/Nw--",
             "modified": "2022-12-13",
@@ -165,31 +1085,599 @@
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
-                "fn": "Dinas Kesehatan",
+                "fn": "Dinas Pendidikan",
                 "hasEmail": ""
             },
             "distribution": [
                 {
-                "@type": "dcat : Distribution",
-                "downloadURL": "https://satudata.bintankab.go.id/uploads/2/Kesehatan/form1670865364.xlsx",
-                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                "format": "xlsx",
-                "title": "form1670865364.xlsx"
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677470816.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677470816.xlsx"
                 }
             ],
-            "identifier": "",
-            "issued": "2022-12-13",
-            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/OA--",
-            "modified": "2022-12-13",
+            "identifier": "4f671755-c021-47ce-95d4-6859362cad8e",
+            "issued": "2023-02-27",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NDM-",
+            "modified": "2023-02-27",
             "accrualPeriodicity": "Tahunan",
             "publisher": {
                 "@type": "org:Organization",
-                "name": "Dinas Kesehatan"
+                "name": "Dinas Pendidikan"
             },
-            "title": "Jumlah Sarana Kesehatan Di Kecamatan Kabupaten Bintan Tahun 2020",
+            "title": "Jumlah Gedung Sekolah Dasar per Kecamatan Tahun 2020",
             "keyword": [
-                "kesehatan",
-                "rumah sakit"
+                "Pendidikan",
+                " Sekolah Dasar",
+                " SD Negeri",
+                " SD Swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677473791.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677473791.xlsx"
+                }
+            ],
+            "identifier": "8db470f9-b078-490c-8ecc-04e60b0df981",
+            "issued": "2023-02-27",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NDU-",
+            "modified": "2023-02-27",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Murid Sekolah Dasar per Kecamatan Tahun 2020",
+            "keyword": [
+                "pendidikan",
+                " sekolah dasar",
+                " murid",
+                " SD Negeri",
+                " SD Swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677555761.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677555761.xlsx"
+                }
+            ],
+            "identifier": "90063fda-dc49-4713-9738-d984ccd30552",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NDY-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Madrasah Aliyah per Kecamatan Tahun 2021",
+            "keyword": [
+                "pendidikan",
+                " madrasah aliyah",
+                " MA Negeri",
+                " MA Swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677556866.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677556866.xlsx"
+                }
+            ],
+            "identifier": "e9904d8d-3e9a-4d72-9b39-4f6bc0ef3a53",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTA-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Madrasah Ibtidaiyah per Kecamatan Tahun 2021",
+            "keyword": [
+                "pendidikan",
+                " madrasah ibtidaiyah",
+                " mi negeri",
+                " mi swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677557301.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677557301.xlsx"
+                }
+            ],
+            "identifier": "0a9103bf-87ad-4055-bf62-555812d2d021",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTE-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Madrasah Tsanawiyah per Kecamatan Tahun 2021",
+            "keyword": [
+                "pendidikan",
+                " madrasah tsanawiyah",
+                " mts negeri",
+                " mts swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677558474.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677558474.xlsx"
+                }
+            ],
+            "identifier": "b9d495db-070f-4606-a437-a0b290a9b5dc",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTI-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Sekolah Dasar per Kecamatan Tahun 2020",
+            "keyword": [
+                "pendidikan",
+                " sekolah dasar",
+                " sd",
+                " sd negeri",
+                " sd swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677559162.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677559162.xlsx"
+                }
+            ],
+            "identifier": "983b46d4-1ac6-434d-9bd2-dec898d61793",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTQ-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Sekolah Dasar per Kecamatan Tahun 2021",
+            "keyword": [
+                "pendidikan",
+                " sekolah dasar",
+                " sd negeri",
+                " sd swasta",
+                " guru"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677559577.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677559577.xlsx"
+                }
+            ],
+            "identifier": "24b8c73a-16c8-4276-a1e3-09d313a22786",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTU-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Sekolah Menengah Atas per Kecamatan Tahun 2020",
+            "keyword": [
+                "pendidikan",
+                " guru",
+                " sekolah menengah atas",
+                " sma negeri",
+                " sma swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677560084.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677560084.xlsx"
+                }
+            ],
+            "identifier": "62e6ecc2-c4c4-427b-aaa2-c611b41f1f07",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTY-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Sekolah Menengah Atas per Kecamatan Tahun 2021",
+            "keyword": [
+                "pendidikan",
+                " guru",
+                " sekolah menengah atas",
+                " sma negeri",
+                " sma swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677560645.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677560645.xlsx"
+                }
+            ],
+            "identifier": "21239794-3530-4392-b687-50f7cd2ec47f",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTc-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Sekolah Menengah Pertama Atas per Kecamatan Tahun 2020",
+            "keyword": [
+                "pendidikan",
+                " guru",
+                " sekolah menengah atas",
+                " smp negeri",
+                " smp swasta",
+                " smp"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1677561016.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1677561016.xlsx"
+                }
+            ],
+            "identifier": "281ad067-0271-4c73-975f-b00e2fbb946b",
+            "issued": "2023-02-28",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTg-",
+            "modified": "2023-02-28",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Data Guru Sekolah Menengah Pertama Atas per Kecamatan Tahun 2021",
+            "keyword": [
+                "pendidikan",
+                " sekolah menengah pertama",
+                " smp",
+                " smp negeri",
+                " smp swasta",
+                " guru"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1678329736.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1678329736.xlsx"
+                }
+            ],
+            "identifier": "e27fa5a3-5874-4fab-9513-82ba88adc649",
+            "issued": "2023-03-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NTk-",
+            "modified": "2023-03-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Guru Madrasah Ibtidaiyah Kabupaten Bintan tahun 2020",
+            "keyword": [
+                "guru",
+                " madrasah ibtidaiyah",
+                " mi negeri",
+                " mi swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1678330474.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1678330474.xlsx"
+                }
+            ],
+            "identifier": "cca43c19-dad7-4267-99f5-ab9047b71310",
+            "issued": "2023-03-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NjA-",
+            "modified": "2023-03-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Guru Madrasah Aliyah Kabupaten Bintan Tahun 2020",
+            "keyword": [
+                "guru",
+                " madrasah aliyah",
+                " ma negeri",
+                " ma swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1678331195.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1678331195.xlsx"
+                }
+            ],
+            "identifier": "39502a2c-397d-4b46-89cd-1d9c19fc197e",
+            "issued": "2023-03-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NjE-",
+            "modified": "2023-03-09",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Guru Madrasah Tsanawiyah Kabupaten Bintan Tahun 2020",
+            "keyword": [
+                "guru",
+                " madrasah tsanawiyah",
+                " mts negeri",
+                " mts swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1678331372.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1678331372.xlsx"
+                }
+            ],
+            "identifier": "3948b12d-9354-4111-bb62-1cedb9da16b7",
+            "issued": "2023-03-09",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NjI-",
+            "modified": "2023-03-09",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Guru Sekolah Menengah Kejuruan Kabupaten Bintan Tahun 2020",
+            "keyword": [
+                "guru",
+                " smk",
+                " smk negeri",
+                " smk swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Pendidikan",
+                "hasEmail": ""
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/8/Pendidikan/form1678331606.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1678331606.xlsx"
+                }
+            ],
+            "identifier": "ab2871df-b42e-4e27-a043-477435222dec",
+            "issued": "2023-03-17",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/NjM-",
+            "modified": "2023-03-17",
+            "accrualPeriodicity": "tahunana",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "title": "Jumlah Guru Sekolah Menengah Kejuruan Kabupaten Bintan Tahun 2021",
+            "keyword": [
+                "guru smk",
+                " smk negeri",
+                " smk swasta"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sekretariat Daerah",
+                "hasEmail": "email@email.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Sosial/form1675832906.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1675832906.xlsx"
+                }
+            ],
+            "identifier": "3b8dab20-0b27-4b2e-8619-a21221f12e41",
+            "issued": "2023-02-08",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTI-",
+            "modified": "2023-02-08",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Daerah"
+            },
+            "title": "Jumlah Pemeluk Agama di Kecamatan Kabupaten Bintan",
+            "keyword": [
+                "agama",
+                " penduduk"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sekretariat Daerah",
+                "hasEmail": "email@email.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bintankab.go.id/uploads/4/Sosial/form1676355203.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "form1676355203.xlsx"
+                }
+            ],
+            "identifier": "7e9dba0e-088d-43fa-bc0f-0507cba53683",
+            "issued": "2023-02-14",
+            "landingPage": "https://satudata.bintankab.go.id/dataset/detail/MTY-",
+            "modified": "2023-02-14",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Sekretariat Daerah"
+            },
+            "title": "Jumlah Rumah Ibadah Tahun 2022 di Kabupaten Bintan",
+            "keyword": [
+                "agama",
+                " rumah ibadah",
+                ""
             ]
         }
     ]
