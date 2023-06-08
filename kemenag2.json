@@ -1,0 +1,149 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "http://satudata.kemenag.go.id/api/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "title": "Wilayah Administrasi Pemerintahan",
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Bagian Data",
+                "hasEmail": "walidata@kemenag.go.id"
+            },
+            "description": "<p>Data ini berisi mengenai Wilayah Administrasi Pemerintahan, dengan penjelasan variabel data:&nbsp;</p><ol><li>kode_wilayah : Kode Wilayah Provinsi</li><li>provinsi : Nama Provinsi</li><li>kabupaten : Jumlah Kabupaten per Provinsi</li><li>kota : Jumlah Kota per Provinsi</li><li>kecamatan : Jumlah Kecamatan per Provinsi</li><li>kelurahan : Jumlah Kelurahan per Provinsi</li><li>desa : Jumlah Desa per Provinsi</li><li>luas_wilayah : Jumlah Luas Wilayah per Provinsi</li><li>tahun : Tahun Data Per Provinsi</li></ol><p><strong>Sumber Data : Dukcapil</strong></p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://satudata.kemenag.go.id/api/dataset/wilayah-administrasi-pemerintahan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Data ini berisi mengenai Wilayah Administrasi Pemerintahan, dengan penjelasan variabel data:&nbsp;</p><ol><li>kode_wilayah : Kode Wilayah Provinsi</li><li>provinsi : Nama Provinsi</li><li>kabupaten : Jumlah Kabupaten per Provinsi</li><li>kota : Jumlah Kota per Provinsi</li><li>kecamatan : Jumlah Kecamatan per Provinsi</li><li>kelurahan : Jumlah Kelurahan per Provinsi</li><li>desa : Jumlah Desa per Provinsi</li><li>luas_wilayah : Jumlah Luas Wilayah per Provinsi</li><li>tahun : Tahun Data Per Provinsi</li></ol><p><strong>Sumber Data : Dukcapil</strong></p>",
+                    "title": "Wilayah Administrasi Pemerintahan"
+                }
+            ],
+            "identifier": "ca65ae64-62bd-4773-ab47-9b0c64f86a34",
+            "issued": "2022-08-24",
+            "keyword": [
+                "wilayah"
+            ],
+            "landingPage": "https://satudata.kemenag.go.id/",
+            "modified": "2022-09-08 22:31:34",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Biro Hubungan Masyarakat. Data Dan Informasi"
+            },
+            "theme": [
+                "Tata Kelola Pemerintahan"
+            ]
+        },
+        {
+            "title": "Jumlah Unit Kerja Daerah Kementerian Agama",
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Bagian Data",
+                "hasEmail": "walidata@kemenag.go.id"
+            },
+            "description": "<p>Data ini berisi mengenai Jumlah Unit Kerja Daerah Kementerian Agama, dengan penjelasan variabel data:&nbsp;</p><ol><li>kode_wilayah : Kode Wilayah Provinsi</li><li>provinsi : Nama Provinsi</li><li>kanwil : Jumlah Kantor Wilayah per Provinsi</li><li>kankemenag_kabupaten : Jumlah Kantor Kementerian Agama Kabupaten per Provinsi</li><li>kankemenag_kota : Jumlah Kantor Kementerian Agama Kota per Provinsi</li><li>balitbang : Jumlah Badan Litbang per Provinsi</li><li>badiklat : Jumlah Badan Diklat per Provinsi</li><li>kua : Jumlah Kantor Urusan Agama per Provinsi</li><li>lpmq : Jumlah Lajnah Pentashihan Mushaf Al-Qur'an per Provinsi</li><li>upq : Jumlah Unit Percetakan Al-Qur'an per Provinsi</li><li>upt_asramahaji : Jumlah Unit Pengelola Teknis (UPT) Asrama Haji per Provinsi</li></ol>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://satudata.kemenag.go.id/api/dataset/jumlah-unit-kerja-daerah-kementerian-agama",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Data ini berisi mengenai Jumlah Unit Kerja Daerah Kementerian Agama, dengan penjelasan variabel data:&nbsp;</p><ol><li>kode_wilayah : Kode Wilayah Provinsi</li><li>provinsi : Nama Provinsi</li><li>kanwil : Jumlah Kantor Wilayah per Provinsi</li><li>kankemenag_kabupaten : Jumlah Kantor Kementerian Agama Kabupaten per Provinsi</li><li>kankemenag_kota : Jumlah Kantor Kementerian Agama Kota per Provinsi</li><li>balitbang : Jumlah Badan Litbang per Provinsi</li><li>badiklat : Jumlah Badan Diklat per Provinsi</li><li>kua : Jumlah Kantor Urusan Agama per Provinsi</li><li>lpmq : Jumlah Lajnah Pentashihan Mushaf Al-Qur'an per Provinsi</li><li>upq : Jumlah Unit Percetakan Al-Qur'an per Provinsi</li><li>upt_asramahaji : Jumlah Unit Pengelola Teknis (UPT) Asrama Haji per Provinsi</li></ol>",
+                    "title": "Jumlah Unit Kerja Daerah Kementerian Agama"
+                }
+            ],
+            "identifier": "9218cab3-7ab0-41c1-86bf-b1b27756add7",
+            "issued": "2022-08-24",
+            "keyword": [
+                "wilayah",
+                "unit kerja",
+                "daerah"
+            ],
+            "landingPage": "https://satudata.kemenag.go.id/",
+            "modified": "2022-08-29 07:20:33",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Biro Hubungan Masyarakat. Data Dan Informasi"
+            },
+            "theme": [
+                "Tata Kelola Pemerintahan"
+            ]
+        },
+        {
+            "title": "Jumlah Satuan Pendidikan Kementerian Agama",
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Bagian Dataq",
+                "hasEmail": "walidata@kemenag.go.id"
+            },
+            "description": "<p>Data ini berisi mengenai Jumlah Satuan Pendidikan Kementerian Agama, dengan penjelasan variabel data:&nbsp;</p><ol><li>kode_wilayah : Kode Wilayah Provinsi</li><li>provinsi : Nama Provinsi</li><li>min : Jumlah Madrasah Ibtidaiyaha Negeri (MIN) Per Provinsi</li><li>mtsn : Jumlah Madrasah Tsanawiyah Negeri (MTsN) Per Provinsi</li><li>man : Jumlah Madrasah Aliyah Negeri (MAN) Per Provinsi</li><li>smakn : Jumlah Sekolah Menengah Agama Kristen Negeri (SMKAN) Per Provinsi</li><li>smtkn : Jumlah Sekolah Menengah Teologi Kristen Negeri (SMTKN) Per Provinsi</li><li>uin : Jumlah Universitas Islam Negeri (UIN) Per Provinsi</li><li>uiii : Jumlah Universitas Islam Internasional Indonesia (UIII) Per Provinsi</li><li>uhn : Jumlah Universitas Hindu Negeri (UHN) Per Provinsi</li><li>iain : Jumlah Institut Agama Islam Negeri (IAIN) Per Provinsi</li><li>ihkn : Jumlah Institut Agama Kristen Negeri (IAKN) Per Provinsi</li><li>iahn : Jumlah Institut Agama Hindu Negeri (IAHN) Per Provinsi</li><li>stain : Jumlah Sekolah Tinggi Agama Islam Negeri (STAIN) Per Provinsi</li><li>stakn : Jumlah Sekolah Tinggi Agama Kristen Negeri (STAKN) Per Provinsi</li><li>stakatn : Jumlah Sekolah Tinggi Agama Katolik Negeri (STAKatN) Per Provinsi</li><li>stahn : Jumlah Sekolah Tinggi Agama Hindu Negeri (STAHN) Per Provinsi</li><li>stabn : Jumlah Sekolah Tinggi Agama Buddha Negeri (STABN) Per Provinsi</li><li>jumlah : Jumlah Satuan Pendidikan Negeri per Provinsi 20. tahun : Tahun Data</li></ol>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://satudata.kemenag.go.id/api/dataset/jumlah-satuan-pendidikan-kementerian-agama",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Data ini berisi mengenai Jumlah Satuan Pendidikan Kementerian Agama, dengan penjelasan variabel data:&nbsp;</p><ol><li>kode_wilayah : Kode Wilayah Provinsi</li><li>provinsi : Nama Provinsi</li><li>min : Jumlah Madrasah Ibtidaiyaha Negeri (MIN) Per Provinsi</li><li>mtsn : Jumlah Madrasah Tsanawiyah Negeri (MTsN) Per Provinsi</li><li>man : Jumlah Madrasah Aliyah Negeri (MAN) Per Provinsi</li><li>smakn : Jumlah Sekolah Menengah Agama Kristen Negeri (SMKAN) Per Provinsi</li><li>smtkn : Jumlah Sekolah Menengah Teologi Kristen Negeri (SMTKN) Per Provinsi</li><li>uin : Jumlah Universitas Islam Negeri (UIN) Per Provinsi</li><li>uiii : Jumlah Universitas Islam Internasional Indonesia (UIII) Per Provinsi</li><li>uhn : Jumlah Universitas Hindu Negeri (UHN) Per Provinsi</li><li>iain : Jumlah Institut Agama Islam Negeri (IAIN) Per Provinsi</li><li>ihkn : Jumlah Institut Agama Kristen Negeri (IAKN) Per Provinsi</li><li>iahn : Jumlah Institut Agama Hindu Negeri (IAHN) Per Provinsi</li><li>stain : Jumlah Sekolah Tinggi Agama Islam Negeri (STAIN) Per Provinsi</li><li>stakn : Jumlah Sekolah Tinggi Agama Kristen Negeri (STAKN) Per Provinsi</li><li>stakatn : Jumlah Sekolah Tinggi Agama Katolik Negeri (STAKatN) Per Provinsi</li><li>stahn : Jumlah Sekolah Tinggi Agama Hindu Negeri (STAHN) Per Provinsi</li><li>stabn : Jumlah Sekolah Tinggi Agama Buddha Negeri (STABN) Per Provinsi</li><li>jumlah : Jumlah Satuan Pendidikan Negeri per Provinsi 20. tahun : Tahun Data</li></ol>",
+                    "title": "Jumlah Satuan Pendidikan Kementerian Agama"
+                }
+            ],
+            "identifier": "ddf150d4-4377-44c2-addb-58e5094a723d",
+            "issued": "2022-08-24",
+            "keyword": [
+                "satuan pendidikan"
+            ],
+            "landingPage": "https://satudata.kemenag.go.id/",
+            "modified": "2022-08-29 07:21:40",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Biro Hubungan Masyarakat. Data Dan Informasi"
+            },
+            "theme": [
+                "Tata Kelola Pemerintahan"
+            ]
+        },
+        {
+            "title": "Perkembangan Jumlah PNS Kementerian Agama",
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Bagian Data",
+                "hasEmail": "walidata@kemenag.go.id"
+            },
+            "description": "<p>Data ini berisi mengenai Jumlah Pegawai Negeri Sipil (PNS) Kementerian Agama, dengan penjelasan variabel data:&nbsp;</p><ol><li>unit_kerja : Unit Kerja</li><li>jumlah : Jumlah Data per Unit Kerja</li><li>tahun : Tahun Data</li></ol>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "http://satudata.kemenag.go.id/api/dataset/perkembangan-jumlah-pns-kementerian-agama",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Data ini berisi mengenai Jumlah Pegawai Negeri Sipil (PNS) Kementerian Agama, dengan penjelasan variabel data:&nbsp;</p><ol><li>unit_kerja : Unit Kerja</li><li>jumlah : Jumlah Data per Unit Kerja</li><li>tahun : Tahun Data</li></ol>",
+                    "title": "Perkembangan Jumlah PNS Kementerian Agama"
+                }
+            ],
+            "identifier": "412d8d62c-7205-4108-878b-6c43a37ff991",
+            "issued": "2022-08-24",
+            "keyword": [
+                "pegawai",
+                "asn",
+                "pns"
+            ],
+            "landingPage": "https://satudata.kemenag.go.id/",
+            "modified": "2022-08-29 07:22:41",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Biro Hubungan Masyarakat. Data Dan Informasi"
+            },
+            "theme": [
+                "Tata Kelola Pemerintahan"
+            ]
+        }   
+    ]
+}
