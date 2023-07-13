@@ -14,13 +14,16 @@
                 "hasEmail": "satudata@pom.go.id"
             },
             "description": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir",
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat:Distribution",
                 "accessURL": "https://satudata.pom.go.id/datasets/1-jumlah-nomor-izin-edar-obat-selama-3-tahun-terakhir",
                 "format": "html",
+                "mediaType": "text/html",
                 "description": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir",
                 "title": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir"
-            },
+                }
+            ],
             "identifier": "260875a5-1ee5-11ee-871f-005056011308",
             "issued": "2021-10-04 04:21:39",
             "keyword": [
@@ -42,13 +45,16 @@
                 "hasEmail": "satudata@pom.go.id"
             },
             "description": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir",
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat:Distribution",
                 "accessURL": "https://satudata.pom.go.id/datasets/4-jumlah-nomor-izin-edar-suplemen-kesehatan-selama-3-tahun-terakhir",
                 "format": "html",
+                "mediaType": "text/html",
                 "description": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir",
                 "title": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir"
-            },
+                }
+            ],
             "identifier": "2608776e-1ee5-11ee-871f-005056011308",
             "issued": "2021-12-21 23:41:07",
             "keyword": [
@@ -70,13 +76,16 @@
                 "hasEmail": "satudata@pom.go.id"
             },
             "description": "Persentase produk pangan lokal dan impor",
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat:Distribution",
                 "accessURL": "https://satudata.pom.go.id/datasets/16-persentase-produk-pangan-lokal-dan-impor",
                 "format": "html",
+                "mediaType": "text/html",
                 "description": "Persentase produk pangan lokal dan impor",
                 "title": "Persentase produk pangan lokal dan impor"
-            },
+                }
+            ],
             "identifier": "26087b63-1ee5-11ee-871f-005056011308",
             "issued": "2021-12-22 14:26:13",
             "keyword": [
