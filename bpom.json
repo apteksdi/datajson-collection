@@ -31,6 +31,8 @@
             ],
             "landingPage": "https://satudata.pom.go.id/datasets/1-jumlah-nomor-izin-edar-obat-selama-3-tahun-terakhir?tabs=tabs2",
             "private": "true",
+            "kategori": "Kesehatan",
+            "prioritas_tahun": "2022",
             "modified": "2023-06-15 08:43:31",
             "publisher": {
                 "@type": "org:Organization",
@@ -63,6 +65,8 @@
             ],
             "landingPage": "https://satudata.pom.go.id/datasets/4-jumlah-nomor-izin-edar-suplemen-kesehatan-selama-3-tahun-terakhir?tabs=tabs2",
             "private": "true",
+            "kategori": "Kesehatan",
+            "prioritas_tahun": "2022",
             "modified": "2023-06-15 08:51:18",
             "publisher": {
                 "@type": "org:Organization",
@@ -95,6 +99,8 @@
             ],
             "landingPage": "https://satudata.pom.go.id/datasets/16-persentase-produk-pangan-lokal-dan-impor?tabs=tabs2",
             "private": "true",
+            "kategori": "Kesehatan",
+            "prioritas_tahun": "2022",
             "modified": "2023-06-15 08:52:35",
             "publisher": {
                 "@type": "org:Organization",
