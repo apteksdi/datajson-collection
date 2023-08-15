@@ -1,0 +1,106 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.jakarta.go.id/open-data",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi, Informatika dan Statistik Provinsi DKI Jakarta",
+                "hasEmail": "mailto:satudataindonesia@jakarta.go.id"
+            },
+            "identifier": "3f0f6a02-bf73-47f9-a67c-215463f70705",
+            "title": "Jumlah RPTRA",
+            "distribution": [
+                {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://satudata.jakarta.go.id/backend/restapi/v1/export-dataset/filedata_org21_67e48f8744fa14e88effb11cdc69477f?secret_key=sdibKbc83EIJG4dRy7Bgi520MWkE7rxwQZgsKJjyJNJXmLq1alaFLWwYtfExADae",
+                "mediaType": "application/vnd.ms-excel",
+                "format": "xlsx",
+                "title": "Jumlah RPTRA"
+                }
+            ],
+            "issued": "2023-06-23",
+            "landingPage": "https://satudata.jakarta.go.id/open-data/detail/jumlah-rptra",
+            "modified": "2023-07-26",
+            "accrualPeriodicity": "1 Tahun Sekali",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pemberdayaan, Perlindungan Anak, dan Pengendalian Penduduk"
+            },
+            "description": "Berisi data nama dan jumlah Ruang Publik Terpadu Ramah Anak (RPTRA)",
+            "keyword": [
+                "RPTRA",
+                "DPPAPP"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi, Informatika dan Statistik Provinsi DKI Jakarta",
+                "hasEmail": "mailto:satudataindonesia@jakarta.go.id"
+            },
+            "identifier": "aa07d841-7ff6-4898-96d5-da230913ad99",
+            "title": "Persentase Penguatan Kegiatan Promosi Penanaman Modal DKI Jakarta",
+            "distribution": [
+                {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://satudata.jakarta.go.id/backend/restapi/v1/export-dataset/filedata_org39_226888728cc1e3d3982440d53fed697c?secret_key=sdibKbc83EIJG4dRy7Bgi520MWkE7rxwQZgsKJjyJNJXmLq1alaFLWwYtfExADae",
+                "mediaType": "application/vnd.ms-excel",
+                "format": "xlsx",
+                "title": "Persentase Penguatan Kegiatan Promosi Penanaman Modal DKI Jakarta"
+                }
+            ],
+            "issued": "2023-06-19",
+            "landingPage": "https://satudata.jakarta.go.id/open-data/detail/persentase-penguatan-kegiatan-promosi-penanaman-modal-dki-jakarta",
+            "modified": "2023-07-13",
+            "accrualPeriodicity": "3 Bulan Sekali",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu"
+            },
+            "description": "Penguatan kegiatan promosi penanaman modal DKI Jakarta adalah: \r\nTindak lanjut fasilitasi peminatan calon investor yang ingin berinvestasi di DKI Jakarta. \r\nMetode Pengukuran: Pembobotan terhadap tindak lanjut fasilitasi calon investor yang ingin berinvestasi di DKI Jakarta dibagi kedalam 4 tahap, yakni: \r\na. Korespondensi penawaran kerjasama dari calon investor: (Total Penawaran Kerjasama ÷ Total Korespondensi Penawaran) x 33,33% \r\nb. Fasilitasi BtoB dengan pemilik proyek potensial: (Total Korespondensi Penawaran ÷ Total Fasilitasi BtoB dengan pemilik proyek potensial) x 33,33% \r\nc. Letter of Intent, Non Disclosure Agreement, proposal kerjasama investasi dan/atau negosiasi kerjasama dari calon investor: (Total Fasilitasi BtoB dengan pemilik proyek potensial ÷ Total Letter of Intent, Non Disclosure Agreement, proposal kerjasama investasi dan/atau negosiasi kerjasama dari calon investor) x 33,34%",
+            "keyword": [
+                "Penguatan kegiatan promosi",
+                "penanaman modal"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi, Informatika dan Statistik Provinsi DKI Jakarta",
+                "hasEmail": "mailto:satudataindonesia@jakarta.go.id"
+            },
+            "identifier": "2c9a54da-add3-4c28-8d7b-a439733a8f65",
+            "title": "Lembaga Kemasyarakatan yang Aktif dalam Pemberdayaan Masyarakat",
+            "distribution": [
+                {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://satudata.jakarta.go.id/backend/restapi/v1/export-dataset/filedata_org21_75f66372637181ab45fd5d6bba714b26?secret_key=sdibKbc83EIJG4dRy7Bgi520MWkE7rxwQZgsKJjyJNJXmLq1alaFLWwYtfExADae",
+                "mediaType": "application/vnd.ms-excel",
+                "format": "xlsx",
+                "title": "Lembaga Kemasyarakatan yang Aktif dalam Pemberdayaan Masyarakat"
+                }
+            ],
+            "issued": "2023-06-05",
+            "landingPage": "https://satudata.jakarta.go.id/open-data/detail/lembaga-kemasyarakatan-yang-aktif-dalam-pemberdayaan-masyarakat",
+            "modified": "2023-07-28",
+            "accrualPeriodicity": "1 Tahun Sekali",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pemberdayaan, Perlindungan Anak, dan Pengendalian Penduduk"
+            },
+            "description": "Definisi : Lembaga kemasyarakatan yang dimaksud adalah Posyantek yang berkedudukan dikelurahan berdasarkan pergub 78 tahun 2021 yang memberikan pelayanan, informasi dalam pemanfaatan dan pengembangan teknologi tepat guna dalam bentuk amati, tiru, modifikasi dan lembaga PKK ditingkat RT (kelompok PKK RT) berdasarkan pergub nomor 60 tahun 2017 dan pergub 22 tahun 2019 yang memberikan penyuluhan, membimbing, menggerakkan, memfasilitasi 10 program pokok PKK.\r\n\r\nKeterangan : Jumlah lembaga Posyantek (berdasarkan SK Posyantek) dan PKK (PKK tingkat Provinsi, Kota/Kabupaten, Kecamatan, Kelurahan, RW, RT dan Dasawisma berdasarkan laporan tahunan PKK)",
+            "keyword": [
+                "DPPAPP",
+                "Lembaga Kemasyarakatan"
+            ]
+        }
+        
+    ]
+}
