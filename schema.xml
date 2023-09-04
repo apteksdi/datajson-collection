@@ -113,7 +113,7 @@ schema. In this case the version should be set to the next CKAN version number.
     <field name="theme_es" type="string" docValues="true" indexed="true" stored="true" multiValued="true"/> \
     <field name="resource_relation" type="string" docValues="true" indexed="true" stored="true" multiValued="true"/> \
     <field name="metadata_profile" type="string" docValues="true" indexed="true" stored="true" multiValued="true"/> \
-    <field name="prioritas_tahun" type="int" indexed="true" stored="true" /> \
+    <field name="prioritas_tahun" type="string" docValues="true" indexed="true" stored="true" multiValued="true"/>
     <field name="kedalaman_data" type="string" indexed="true" stored="true" /> \
     <field name="kategori" type="string" docValues="true" indexed="true" stored="true" multiValued="true"/>
 
