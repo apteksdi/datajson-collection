@@ -40,40 +40,6 @@
             }
         },
         {
-            "title": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir",
-            "@type": "dcat:Dataset",
-            "accessLevel": "public",
-            "contactPoint": {
-                "fn": "Tata Kelola Data dan Informasi",
-                "hasEmail": "satudata@pom.go.id"
-            },
-            "description": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir",
-            "distribution": [
-                {
-                "@type": "dcat:Distribution",
-                "accessURL": "https://satudata.pom.go.id/datasets/4-jumlah-nomor-izin-edar-suplemen-kesehatan-selama-3-tahun-terakhir",
-                "format": "html",
-                "mediaType": "text/html",
-                "description": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir",
-                "title": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir"
-                }
-            ],
-            "identifier": "2908776e-1ee5-11ee-871f-005056011308",
-            "issued": "2021-12-21 23:41:07",
-            "keyword": [
-                "Suplemen Kesehatan"
-            ],
-            "landingPage": "https://satudata.pom.go.id/datasets/4-jumlah-nomor-izin-edar-suplemen-kesehatan-selama-3-tahun-terakhir?tabs=tabs2",
-            "private": "true",
-            "kategori": "Kesehatan",
-            "prioritas_tahun": "2022",
-            "modified": "2023-06-15 08:51:18",
-            "publisher": {
-                "@type": "org:Organization",
-                "name": "Pusat Data dan Informasi Obat dan Makanan"
-            }
-        },
-        {
             "title": "Persentase produk pangan lokal dan impor",
             "@type": "dcat:Dataset",
             "accessLevel": "public",
