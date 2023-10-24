@@ -6,25 +6,25 @@
     "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
     "dataset": [
         {
-            "title": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir",
+            "title": "Jumlah Nomor Izin Edar Obat Selama 5 Tahun Terakhir",
             "@type": "dcat:Dataset",
             "accessLevel": "public",
             "contactPoint": {
                 "fn": "Tata Kelola Data dan Informasi",
                 "hasEmail": "satudata@pom.go.id"
             },
-            "description": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir",
+            "description": "Jumlah Nomor Izin Edar Obat Selama 5 Tahun Terakhir",
             "distribution": [
                 {
                 "@type": "dcat:Distribution",
                 "accessURL": "https://satudata.pom.go.id/datasets/1-jumlah-nomor-izin-edar-obat-selama-3-tahun-terakhir",
                 "format": "html",
                 "mediaType": "text/html",
-                "description": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir",
-                "title": "Jumlah Nomor Izin Edar Obat Selama 3 Tahun Terakhir"
+                "description": "Jumlah Nomor Izin Edar Obat Selama 5 Tahun Terakhir",
+                "title": "Jumlah Nomor Izin Edar Obat Selama 5 Tahun Terakhir"
                 }
             ],
-            "identifier": "260875a5-1ee5-11ee-871f-005056011308",
+            "identifier": "260575a5-1ee5-11ee-871f-005056011308",
             "issued": "2021-10-04 04:21:39",
             "keyword": [
                 "Obat"
@@ -58,7 +58,7 @@
                 "title": "Jumlah Nomor Izin Edar Suplemen Kesehatan Selama 3 Tahun Terakhir"
                 }
             ],
-            "identifier": "2608776e-1ee5-11ee-871f-005056011308",
+            "identifier": "2908776e-1ee5-11ee-871f-005056011308",
             "issued": "2021-12-21 23:41:07",
             "keyword": [
                 "Suplemen Kesehatan"
@@ -92,7 +92,7 @@
                 "title": "Persentase produk pangan lokal dan impor"
                 }
             ],
-            "identifier": "26087b63-1ee5-11ee-871f-005056011308",
+            "identifier": "26087b63-1ee5-11ee-871f-005256011308",
             "issued": "2021-12-22 14:26:13",
             "keyword": [
                 "Pangan Olahan"
@@ -100,7 +100,7 @@
             "landingPage": "https://satudata.pom.go.id/datasets/16-persentase-produk-pangan-lokal-dan-impor?tabs=tabs2",
             "private": "true",
             "kategori": "Kesehatan",
-            "prioritas_tahun": "2022",
+            "prioritas_tahun": "2023",
             "modified": "2023-06-15 08:52:35",
             "publisher": {
                 "@type": "org:Organization",
