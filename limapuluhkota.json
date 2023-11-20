@@ -1,70 +1,113 @@
 {
-    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
-    "@id": "https://opendata.limapuluhkotakab.go.id/api/datalimapuluhkotakab",
-    "@type": "dcat:Catalog",
-    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
-    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
-    "dataset": [
-      {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-          "fn": "-",
-          "hasEmail": "mailto:noemailprovided@usa.gov"
-        },
-        "description": "-",
-        "distribution": [
-          {
-            "@type": "dcat:Distribution",
-            "downloadURL": "https://opendata.limapuluhkotakab.go.id/download/4a5be5607fee49ada3a7680d4e0d4131.csv",
-            "mediaType": "text/csv",
-            "format": "csv",
-            "description": "",
-            "title": "Jumlah kawasan lindung sempadan sungai di Kabupaten Lima Puluh Kota"
-          }
-        ],
-        "identifier": "752ca70a-d23e-4518-a78d-1f23f988b114",
-        "issued": "2023-06-19",
-        "keyword": [],
-        "landingPage": "https://opendata.limapuluhkotakab.go.id/dataset/jumlah-kawasan-lindung-sempadan-sungai-di-kabupaten-lima-puluh-kota",
-        "modified": "2023-11-16",
-        "publisher": {
-          "@type": "org:Organization",
-          "name": "Dinas Lingkungan Hidup Perumahan Rakyat dan Permukiman"
-        },
-        "theme": null,
-        "title": "Jumlah kawasan lindung sempadan sungai di Kabupaten Lima Puluh Kota"
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@id": "https://opendata.limapuluhkotakab.go.id/api/datalimapuluhkotakab",
+  "@type": "dcat:Catalog",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "-",
+        "hasEmail": "mailto:kominfo@limapuluhkotakab.go.id"
       },
-      {
-        "@type": "dcat:Dataset",
-        "accessLevel": "public",
-        "contactPoint": {
-          "fn": "-",
-          "hasEmail": "mailto:noemailprovided@usa.gov"
-        },
-        "description": "Data jumlah murid negeri SD tahun ajaran 2019/2020 dan 2020/2021",
-        "distribution": [
-          {
-            "@type": "dcat:Distribution",
-            "downloadURL": "https://opendata.limapuluhkotakab.go.id/download/bb5f009608cc4f168618dd0d2549b5cc.csv",
-            "mediaType": "text/csv",
-            "format": "csv",
-            "description": "<p>Data Tentang jumlah murid negeri SD  tahun ajaran 2019/2020 dan 2020/2021</p>\r\n\r\n<p>Data yang menjelaskan berapa jumlah murid negeri SD</p>\r\n\r\n<p>Data di himpun dari database Manajemen Dapodik yang di entri oleh operator sekolah/lembaga sesuai dengan kondisi disekolah/ lembaga</p>\r\n",
-            "title": "Jumlah Murid Sekolah Dasar (SD) Negeri di Bawah Kementerian Pendidikan dan Kebudayaan di Kabupaten Lima Puluh Kota "
-          }
-        ],
-        "identifier": "b2365118-fb72-4696-b4a3-1dd13e7d9e02",
-        "issued": "2023-07-27",
-        "keyword": [],
-        "landingPage": "https://opendata.limapuluhkotakab.go.id/dataset/jumlah-murid-sekolah-dasar-sd-negeri-di-bawah-kementerian-pendidikan-dan-kebudayaan-di-kabupaten-lima-puluh-kota",
-        "modified": "2023-11-14",
-        "publisher": {
-          "@type": "org:Organization",
-          "name": "Dinas Pendidikan dan Kebudayaan "
-        },
-        "theme": null,
-        "title": "Jumlah Murid Sekolah Dasar (SD) Negeri di Bawah Kementerian Pendidikan dan Kebudayaan di Kabupaten Lima Puluh Kota "
-      }
-    ]
+      "description": "-",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "https://opendata.limapuluhkotakab.go.id/download/4a5be5607fee49ada3a7680d4e0d4131.csv",
+          "mediaType": "text/csv",
+          "format": "csv",
+          "description": "-",
+          "title": "Jumlah kawasan lindung sempadan sungai di Kabupaten Lima Puluh Kota"
+        }
+      ],
+      "identifier": "752ca70a-d23e-4518-a78d-1f23f988b114",
+      "issued": "2023-06-19",
+      "keyword": [
+        "Infrastruktur"
+      ],
+      "landingPage": "https://opendata.limapuluhkotakab.go.id/dataset/jumlah-kawasan-lindung-sempadan-sungai-di-kabupaten-lima-puluh-kota",
+      "modified": "2023-11-16",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Lingkungan Hidup Perumahan Rakyat dan Permukiman"
+      },
+      "theme": [
+        "Infrastruktur"
+      ],
+      "title": "Jumlah kawasan lindung sempadan sungai di Kabupaten Lima Puluh Kota"
+    },
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "-",
+        "hasEmail": "mailto:kominfo@limapuluhkotakab.go.id"
+      },
+      "description": "Data jumlah murid negeri SD tahun ajaran 2019/2020 dan 2020/2021",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "https://opendata.limapuluhkotakab.go.id/download/bb5f009608cc4f168618dd0d2549b5cc.csv",
+          "mediaType": "text/csv",
+          "format": "csv",
+          "description": "<p>Data Tentang jumlah murid negeri SD  tahun ajaran 2019/2020 dan 2020/2021</p>\r\n\r\n<p>Data yang menjelaskan berapa jumlah murid negeri SD</p>\r\n\r\n<p>Data di himpun dari database Manajemen Dapodik yang di entri oleh operator sekolah/lembaga sesuai dengan kondisi disekolah/ lembaga</p>\r\n",
+          "title": "Jumlah Murid Sekolah Dasar (SD) Negeri di Bawah Kementerian Pendidikan dan Kebudayaan di Kabupaten Lima Puluh Kota "
+        }
+      ],
+      "identifier": "b2365118-fb72-4696-b4a3-1dd13e7d9e02",
+      "issued": "2023-07-27",
+      "keyword": [
+        "Pendidikan",
+        "Kebudayaan"
+      ],
+      "landingPage": "https://opendata.limapuluhkotakab.go.id/dataset/jumlah-murid-sekolah-dasar-sd-negeri-di-bawah-kementerian-pendidikan-dan-kebudayaan-di-kabupaten-lima-puluh-kota",
+      "modified": "2023-11-14",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Pendidikan dan Kebudayaan "
+      },
+      "theme": [
+        "Pendidikan Kebudayaan"
+      ],
+      "title": "Jumlah Murid Sekolah Dasar (SD) Negeri di Bawah Kementerian Pendidikan dan Kebudayaan di Kabupaten Lima Puluh Kota "
+    },
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "-",
+        "hasEmail": "mailto:kominfo@limapuluhkotakab.go.id"
+      },
+      "description": "-",
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "downloadURL": "https://opendata.limapuluhkotakab.go.id/download/1c4e6e032a8c45ff9d85d431838ef6a5.csv",
+          "mediaType": "text/csv",
+          "format": "csv",
+          "description": "-",
+          "title": "Produksi susu sapi di Kabupaten Lima Puluh Kota"
+        }
+      ],
+      "identifier": "d10ef078-a7ad-446f-b053-ec4200d59bfe",
+      "issued": "2023-11-01",
+      "keyword": [
+        "Perikanan",
+        "Peternakan"
+      ],
+      "landingPage": "https://opendata.limapuluhkotakab.go.id/dataset/produksi-susu-sapi-di-kabupaten-lima-puluh-kota",
+      "modified": "2023-11-16",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Peternakan Dan Kesehatan Hewan"
+      },
+      "theme": [
+        "Perikanan Peternakan"
+      ],
+      "title": "Produksi susu sapi di Kabupaten Lima Puluh Kota"
+    }
+  ]
 }
-      
