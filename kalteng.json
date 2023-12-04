@@ -1,0 +1,329 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://api.satudata.kalteng.go.id/dataset/dcat",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Biro Pengadaan Barang dan Jasa Sekretariat Daerah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Nilai Pengadaan dengan Metode Pengadaan Swakelola berdasarkan SKPD 2023 - [Data November 2023] </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/83060d82-b0a5-4ead-a15e-b5b2e88977af/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Nilai Pengadaan dengan Metode Pengadaan Swakelola berdasarkan SKPD 2023 - [Data November 2023] <br />\n--Sumber : Biro Pengadaan Barang dan Jasa Sekretariat Daerah</p>\n",
+                    "title": "Nilai Pengadaan dengan Metode Pengadaan Swakelola berdasarkan SKPD 2023 - [Data November 2023]"
+                }
+            ],
+            "identifier": "83060d82-b0a5-4ead-a15e-b5b2e88977af",
+            "issued": "2023-12-01",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/nilai-pengadaan-dengan-metode-pengadaan-swakelola-berdasarkan-skpd-2023-data-november-2023",
+            "modified": "2023-12-01",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SETDA"
+            },
+            "theme": [
+                "EKONOMI"
+            ],
+            "title": "Nilai Pengadaan dengan Metode Pengadaan Swakelola berdasarkan SKPD 2023 - [Data November 2023]"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Januari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/26911efa-b613-4231-9f9d-868d2e2caab0/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Januari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Januari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "26911efa-b613-4231-9f9d-868d2e2caab0",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-januari-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Januari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juni Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/4b589138-97d6-4998-ae8b-9769e15024a9/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juni Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juni Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "4b589138-97d6-4998-ae8b-9769e15024a9",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-juni-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juni Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan September Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/2b787042-a3a0-4b0f-a1a3-82b8ed7b3f16/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan September Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan September Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "2b787042-a3a0-4b0f-a1a3-82b8ed7b3f16",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-september-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan September Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juli Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/ffe9690d-bb64-4017-9e0f-debdcb47e2dc/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juli Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juli Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "ffe9690d-bb64-4017-9e0f-debdcb47e2dc",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-juli-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Juli Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Agustus Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/a4731125-8fe7-425e-9f82-8b9a4b4b83f4/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Agustus Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Agustus Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "a4731125-8fe7-425e-9f82-8b9a4b4b83f4",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-agustus-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Agustus Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Maret Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/b53438db-639d-427d-8f4d-ecd72b373305/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Maret Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Maret Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "b53438db-639d-427d-8f4d-ecd72b373305",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-maret-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Maret Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Desember Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2022 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/19519f45-c242-40cd-a369-b809df0410ab/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Desember Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2022 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Desember Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2022"
+                }
+            ],
+            "identifier": "19519f45-c242-40cd-a369-b809df0410ab",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-desember-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2022",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Desember Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2022"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Februari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/ee661355-1b24-44c5-be92-e8dab5c682fb/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Personil Agenda Kegiatan Trantinbun Bulan Februari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Februari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "ee661355-1b24-44c5-be92-e8dab5c682fb",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-personil-agenda-kegiatan-trantinbun-bulan-februari-berdasarkan-kategori-kegiatan-satuan-polisi-pamong-praja-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOLPP"
+            },
+            "theme": [
+                "PEMERINTAH_DAN_DESA"
+            ],
+            "title": "Jumlah Personil Agenda Kegiatan Trantinbun Bulan Februari Berdasarkan Kategori Kegiatan Satuan Polisi Pamong Praja Provinsi Kalimantan Tengah Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Provinsi Kalimantan Tengah",
+                "hasEmail": "-"
+            },
+            "description": "<p>Dataset ini berisikan data Jumlah Sertifikat Standar Terbit Berdasarkan Periode Triwulan dan Kabupaten/Kota Provinsi Kalimantan Tengah Tahun 2023 </p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://api.satudatakalteng.go.id/dataset/d76d0913-e358-4845-99b4-8ee18f39e960/csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "<p>Resource ini berisi data Jumlah Sertifikat Standar Terbit Berdasarkan Periode Triwulan dan Kabupaten/Kota Provinsi Kalimantan Tengah Tahun 2023 <br />\n--Sumber : Dinas Penanaman Modal dan Pelayanan Terpadu Satu Pintu Provinsi Kalimantan Tengah</p>\n",
+                    "title": "Jumlah Sertifikat Standar Terbit Berdasarkan Periode Triwulan dan Kabupaten/Kota Provinsi Kalimantan Tengah Tahun 2023"
+                }
+            ],
+            "identifier": "d76d0913-e358-4845-99b4-8ee18f39e960",
+            "issued": "2023-11-28",
+            "keyword": [],
+            "landingPage": "https://satudata.kalteng.go.id/dataset/jumlah-sertifikat-standar-terbit-berdasarkan-periode-triwulan-dan-kabupatenkota-provinsi-kalimantan-tengah-tahun-2023",
+            "modified": "2023-11-28",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "DPMPTSP"
+            },
+            "theme": [
+                "EKONOMI"
+            ],
+            "title": "Jumlah Sertifikat Standar Terbit Berdasarkan Periode Triwulan dan Kabupaten/Kota Provinsi Kalimantan Tengah Tahun 2023"
+        }
+    ]
+}
