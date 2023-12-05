@@ -1,0 +1,1658 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://sada.kemenkumham.go.id/",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Pembinaan Hukum Nasional Kementerian Hukum dan HAM RI",
+                "hasEmail": "mailto:humas@bphn.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/bankum",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Peneriman Bantuan Hukum Berdasarkan Jenis",
+                    "description": "Dataset ini berisi data jumlah penerima bantuan hukum dengan jenis bantuan hukum litigasi dan bantuan hukum nonlitigasi sejak tahun 2016"
+                }
+            ],
+            "identifier": "D88B1D54-B9F2-41B7-BEAC-CA97BF478F27",
+            "issued": "2022-12-07 15:22:38",
+            "landingPage": "https://sada.kemenkumham.go.id/bphn",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2022",
+            "modified": "2022-12-07 15:22:36",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Pembinaan Hukum Nasional"
+            },
+            "title": "Jumlah Penerima Bantuan Hukum Berdasarkan Jenis",
+            "description": "Dataset ini berisi data jumlah penerima bantuan hukum dengan jenis bantuan hukum litigasi dan bantuan hukum nonlitigasi sejak tahun 2016",
+            "keyword": [
+                "bankum",
+                "bphn",
+                "litigasi",
+                "nonlitigasi",
+                "hukum",
+                "bantuan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/paten",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Paten Granted (Domestik)",
+                    "description": "Data jumlah paten domestik yang telah diberikan"
+                }
+            ],
+            "identifier": "CA0A1166-C5AC-4EEE-9A98-6E15C84145FD",
+            "issued": "2022-12-13 10:47:27",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2022",
+            "modified": "2022-12-13 10:47:27",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Paten Granted (Domestik)",
+            "description": "Dataset ini berisi data jumlah paten domestik yang telah diberikan",
+            "keyword": [
+                "paten",
+                "kekayaan",
+                "intelektual",
+                "ditjenki",
+                "jenis",
+                "granted"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Pemasyarakatan",
+                "hasEmail": "mailto:ppid.ditjenpas@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/overstay/sumber",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan yang Melebihi Masa Penahanan berdasarkan Sumber Data",
+                    "description": "Data Jumlah tahanan yang Melebihi Masa Penahanan berdasarkan Sumber Data per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/overstay/waktu",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan yang Melebihi Masa Penahanan berdasarkan Waktu Lama Penahanan",
+                    "description": "Data Jumlah tahanan yang Melebihi Masa Penahanan berdasarkan waktu lama penahanan per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/overstay/umur",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan yang Melebihi Masa Penahanan berdasarkan Umur",
+                    "description": "Data Jumlah tahanan yang Melebihi Masa Penahanan berdasarkan umur per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/overstay/provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan yang Melebihi Masa Penahanan berdasarkan Provinsi",
+                    "description": "Data Jumlah tahanan yang Melebihi Masa Penahanan berdasarkan provinsi per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/overstay/total",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Total Jumlah Tahanan yang Melebihi Masa Penahanan",
+                    "description": "Total Jumlah tahanan yang Melebihi Masa Penahanan per tahun"
+                }
+            ],
+            "identifier": "E0381E4C-3F77-4C9B-93AD-977EEE2465A1",
+            "issued": "2022-12-13 14:24:31",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenpas",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2022",
+            "modified": "2022-12-13 14:24:39",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Pemasyarakatan"
+            },
+            "title": "Jumlah Tahanan yang Melebihi Masa Penahanan pada Akhir Tahun",
+            "description": "Dataset ini berisi data jumlah tahanan yang melebihi masa penahanan (overstay) pada akhir tahun dalam beberapa agregasi data",
+            "keyword": [
+                "tahanan",
+                "lebih",
+                "masa",
+                "tahun",
+                "tahan",
+                "jumlah"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Pemasyarakatan",
+                "hasEmail": "mailto:ppid.ditjenpas@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/sumber",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan berdasarkan Sumber Data",
+                    "description": "Data Jumlah tahanan berdasarkan Sumber Data per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/waktu",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan berdasarkan Waktu Lama Penahanan",
+                    "description": "Data Jumlah tahanan berdasarkan waktu lama penahanan per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/umur",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan berdasarkan Umur",
+                    "description": "Data Jumlah tahanan berdasarkan umur per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Tahanan berdasarkan Provinsi",
+                    "description": "Data Jumlah tahanan berdasarkan provinsi per akhir tahun"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/total",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Total Jumlah Tahanan ",
+                    "description": "Total Jumlah tahanan per tahun"
+                }
+            ],
+            "identifier": "F3F3418F-D01F-4C50-859A-2D9ABD1A0791",
+            "issued": "2022-12-13 16:24:31",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenpas",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2022",
+            "modified": "2022-12-13 16:24:39",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Pemasyarakatan"
+            },
+            "title": "Jumlah Tahanan pada Akhir Tahun",
+            "description": "Dataset ini berisi data jumlah tahanan pada akhir tahun dalam beberapa agregasi data",
+            "keyword": [
+                "tahanan",
+                "tahun",
+                "tahan",
+                "jumlah"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Pemasyarakatan",
+                "hasEmail": "mailto:ppid.ditjenpas@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/proporsi/sumber",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Sumber Data",
+                    "description": "Data Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Sumber Data"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/proporsi/waktu",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Waktu Lama Penahanan",
+                    "description": "Data Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Waktu Lama Penahanan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/proporsi/umur",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Umur",
+                    "description": "Data Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Umur"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/proporsi/provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Provinsi",
+                    "description": "Data Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan berdasarkan Provinsi"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tahanan/proporsi/total",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Total Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan",
+                    "description": "Total Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan"
+                }
+            ],
+            "identifier": "4127C7D7-282B-4E41-BD3C-2843BB579859",
+            "issued": "2022-12-14 14:58:19",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenpas",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2022",
+            "modified": "2022-12-14 14:58:24",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Pemasyarakatan"
+            },
+            "title": "Proporsi Tahanan yang Melebihi Masa Penahanan Terhadap Seluruh Jumlah Tahanan",
+            "description": "Dataset ini berisi data proporsi / persentase tahanan yang melebihi masa penahanan terhadap seluruh jumlah tahanan per akhir tahun dalam beberapa agregasi data",
+            "keyword": [
+                "proporsi",
+                "persentase",
+                "tahanan",
+                "lebih",
+                "masa",
+                "tahan",
+                "jumlah"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Imigrasi",
+                "hasEmail": "mailto:humas@imigrasi.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasan/wni/datang",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Perlintasan Kedatangan Warga Negara Indonesia berdasarkan Tempat Transit",
+                    "description": "Data Statistik/Jumlah Perlintasan Kedatangan Warga Negara Indonesia (WNI) berdasarkan Tempat Transit"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasan/wna/datang",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Perlintasan Kedatangan Warga Negara Asing berdasarkan Tempat Transit",
+                    "description": "Data Statistik/Jumlah Perlintasan Kedatangan Warga Negara Asing (WNA) berdasarkan Tempat Transit"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasan/wna/berangkat",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Perlintasan Keberangkatan Warga Negara Asing berdasarkan Tempat Transit",
+                    "description": "Data Statistik/Jumlah Perlintasan Keberangkatan Warga Negara Asing (WNA) berdasarkan Tempat Transit"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasan/wni/berangkat",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Perlintasan Keberangkatan Warga Negara Indonesia berdasarkan Tempat Transit",
+                    "description": "Data Statistik/Jumlah Perlintasan Keberangkatan Warga Negara Indonesia (WNI) berdasarkan Tempat Transit"
+                }
+            ],
+            "identifier": "EA700F57-7319-4F03-8C63-A6D9838093DB",
+            "issued": "2023-06-17 09:47:00",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenim",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-11-07 09:47:17",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Imigrasi"
+            },
+            "title": "Perlintasan Kedatangan dan Keberangkatan WNI dan WNA",
+            "description": "Dataset ini berisi data perlintasan kedatangan dan keberangkatan warga negara indonesia dan warga negara asing per tahun berdasarkan tempat transit (kedatangan / keberangkatan)",
+            "keyword": [
+                "lintas",
+                "perlintasan",
+                "wni",
+                "wna",
+                "datang",
+                "berangkat",
+                "warga",
+                "asing",
+                "negara",
+                "indonesia"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Badan Pembinaan Hukum Nasional Kementerian Hukum dan HAM RI",
+                "hasEmail": "mailto:humas@bphn.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/dpobh",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah organisasi bantuan hukum",
+                    "description": "Dataset ini berisi data Jumlah organisasi bantuan hukum per periode akreditasi 2 tahunan"
+                }
+            ],
+            "identifier": "E8728B50-CC3A-4751-8931-572B9D9FC410",
+            "issued": "2023-11-15 12:34:44",
+            "landingPage": "https://sada.kemenkumham.go.id/bphn",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-11-15 12:34:55",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Pembinaan Hukum Nasional"
+            },
+            "title": "Jumlah Organisasi Bantuan Hukum",
+            "description": "Dataset ini berisi data Jumlah organisasi bantuan hukum per periode akreditasi 2 tahunan",
+            "keyword": [
+                "bankum",
+                "bphn",
+                "hukum",
+                "bantuan hukum",
+                " organisasi bantuan hukum",
+                " obh"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Peraturan Perundang-undangan",
+                "hasEmail": "mailto:humas.djpp@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/peraturan/harmonisasi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pengharmonisasian Rancangan Peraturan",
+                    "description": "Data peraturan yang telah diharmonisasi per tahun"
+                }
+            ],
+            "identifier": "FD20E156-9201-4729-B1A2-C59833F6BC89",
+            "issued": "2023-11-15 12:34:50",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenpp",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-11-15 12:35:00",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Peraturan Perundang-undangan"
+            },
+            "title": "Pengharmonisasian Peraturan Perundang-undangan",
+            "description": "Dataset ini berisi data Jumlah Rancangan Peraturan yang telah melalui proses harmonisasi",
+            "keyword": [
+                "harmonisasi",
+                " peraturan",
+                " undang-undang",
+                " rancangan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Imigrasi",
+                "hasEmail": "mailto:humas@imigrasi.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasanvoa",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Penerbitan VKSK",
+                    "description": "Jumlah data perlintasan kedatangan WNA dengan visa VKSK"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasanbvk",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Penerbitan BVK",
+                    "description": "Jumlah data perlintasan kedatangan WNA dengan visa BVK"
+                }
+            ],
+            "identifier": "CFAA176F-43E2-4395-8C24-2E72CD1C91B9",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenim",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Imigrasi"
+            },
+            "title": "Jumlah Kunjungan Wisatawan Mancanegara ke Indonesia Menurut Kebangsaan/Negara",
+            "description": "Dataset ini berisi data Jumlah penerbitan VKSK / BSK",
+            "keyword": [
+                "Imigrasi",
+                " Visa",
+                " VKSK",
+                " BSK"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Imigrasi",
+                "hasEmail": "mailto:humas@imigrasi.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/penerbitankunjungan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Penerbitan Visa Kunjungan",
+                    "description": "Jumlah penerbitan visa kunjungan yang diterbitkan oleh Perwakilan RI di Luar Negeri"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/penerbitantinggalterbatas",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Penerbitan Visa Tinggal Terbatas",
+                    "description": "Jumlah penerbitan visa tinggal terbatas yang diterbitkan oleh Perwakilan RI di Luar Negeri"
+                }
+            ],
+            "identifier": "13CBEAD5-109D-450A-89F6-7E820CA2EBC8",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenim",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Imigrasi"
+            },
+            "title": "Jumlah Penerbitan Visa",
+            "description": "Dataset ini berisi data jumlah penerbitan visa kunjungan yang diterbitkan oleh perwakilan RI di luar negeri",
+            "keyword": [
+                "Imigrasi",
+                " Visa Kunjungan",
+                "Visa Tinggal Terbatas"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/pemberianmerkkelas",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pemberian Merek Berdasarkan Kelas (Domestik)",
+                    "description": "Jumlah Pemberian Merek Berdasarkan Kelas (Domestik)"
+                }
+            ],
+            "identifier": "5B9C934A-DCB3-476B-8F99-FF0C956D2BC9",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Pemberian Merek Berdasarkan Kelas (Domestik)",
+            "description": "Dataset ini berisi data Jumlah Pemberian Merek Berdasarkan Kelas (Domestik)",
+            "keyword": [
+                "Merek",
+                "terdaftar",
+                "kelas",
+                "domestik"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/permohonanmerkkelas",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Permohonan Merek Berdasarkan Kelas",
+                    "description": "Jumlah Permohonan Merek Berdasarkan Kelas"
+                }
+            ],
+            "identifier": "8C8A3A5C-586D-48F4-81A2-9873274FB748",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Permohonan Merek Berdasarkan Kelas",
+            "description": "Dataset ini berisi data Jumlah Permohonan Merek Berdasarkan Kelas",
+            "keyword": [
+                "Merek",
+                "permohonan",
+                "kelas"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/pemberianpaten",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pemberian Paten (Domestik)",
+                    "description": "Jumlah Pemberian Paten (Domestik)"
+                }
+            ],
+            "identifier": "CE2F03F5-2228-4008-B9C3-D633FC879150",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Pemberian Paten (Domestik)",
+            "description": "Dataset ini berisi data Jumlah Pemberian Paten (Domestik)",
+            "keyword": [
+                "Paten",
+                "terdaftar",
+                "domestik"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/koperasi-ahu",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Koperasi yang didirikan oleh AHU",
+                    "description": "Jumlah Koperasi yang didirikan oleh AHU dan hasil migrasi Kemenkop"
+                }
+            ],
+            "identifier": "DDC7F565-8B5C-4129-B61A-5A4753991CC9",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Koperasi yang Didirikan oleh AHU",
+            "description": "Dataset ini berisi data Jumlah Koperasi yang didirikan oleh AHU",
+            "keyword": [
+                "koperasi",
+                "pendirian"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perseroan/pendaftaran-sk",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pendaftaran Perseroan (sampai sudah SK)",
+                    "description": "Jumlah Pendaftaran Perseroan (sampai sudah SK)"
+                }
+            ],
+            "identifier": "EB57C475-65AA-4B34-BB7B-E5A7B2A8BF95",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Pendaftaran Perseroan (sampai sudah SK)",
+            "description": "Dataset ini berisi data Jumlah Pendaftaran Perseroan (sampai sudah SK)",
+            "keyword": [
+                "Perseroan",
+                "pendaftaran"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/yayasan/pendaftaran-sk",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pendaftaran Yayasan (sampai sudah SK)",
+                    "description": "Jumlah Pendaftaran Yayasan (sampai sudah SK)"
+                }
+            ],
+            "identifier": "ADBC9229-AB30-48AE-8AFB-3C9F59A1B946",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Pendaftaran Yayasan (sampai sudah SK)",
+            "description": "Dataset ini berisi data Jumlah Pendaftaran Yayasan (sampai sudah SK)",
+            "keyword": [
+                "pendaftaran",
+                "yayasan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/yayasan/provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Yayasan yang sudah terdaftar berdasarkan provinsi",
+                    "description": "Jumlah Yayasan yang sudah terdaftar berdasarkan provinsi"
+                }
+            ],
+            "identifier": "98109298-7406-4962-9661-DF61036E7AAE",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Yayasan yang Sudah Terdaftar Berdasarkan Provinsi",
+            "description": "Dataset ini berisi data Jumlah Yayasan yang sudah terdaftar berdasarkan provinsi",
+            "keyword": [
+                "yayasan",
+                "provinsi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/paten/permohonan-jenis",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah permohonan Paten Berdasarkan Jenis Permohonan (Paten/Paten Sederhana)Jumlah permohonan Paten Berdasarkan Jenis Permohonan (Paten/Paten Sederhana)",
+                    "description": "Jumlah permohonan Paten Berdasarkan Jenis Permohonan (Paten/Paten Sederhana)"
+                }
+            ],
+            "identifier": "B48BA522-8B86-479A-BE1B-D921C99E2B35",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Permohonan Paten Berdasarkan Jenis Permohonan (Paten/Paten Sederhana)",
+            "description": "Dataset ini berisi data Jumlah permohonan Paten Berdasarkan Jenis Permohonan (Paten/Paten Sederhana)",
+            "keyword": [
+                "paten",
+                "sederhana",
+                "permohonan",
+                "jenis"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/paten/domestik",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pemberian Paten (Domestik)",
+                    "description": "Jumlah Pemberian Paten (Domestik)"
+                }
+            ],
+            "identifier": "8F1B94AE-2A17-4443-AAFB-E5510CC4EC91",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Pemberian Paten (Domestik)",
+            "description": "Dataset ini berisi data Jumlah Pemberian Paten (Domestik)",
+            "keyword": [
+                "paten",
+                "domestik",
+                "terdaftar"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/paten/kerjasama-pct",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pemberian Paten (Perjanjian Kerjasama Paten/PCT)",
+                    "description": "Jumlah Pemberian Paten (Perjanjian Kerjasama Paten/PCT)"
+                }
+            ],
+            "identifier": "1767BCE0-ADC9-44DB-96BC-BF34CA780AFE",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Pemberian Paten (Perjanjian Kerjasama Paten/PCT)",
+            "description": "Dataset ini berisi data Jumlah Pemberian Paten (Perjanjian Kerjasama Paten/PCT)",
+            "keyword": [
+                "paten",
+                "jenis paten",
+                "terdaftar",
+                "PTC"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/tataletak/sirkuit-terpadu",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pengajuan Desain Tata Letak Sirkuit Terpadu",
+                    "description": "Jumlah Pengajuan Desain Tata Letak Sirkuit Terpadu"
+                }
+            ],
+            "identifier": "44055650-730F-4FFB-8635-9AB98B8F76E5",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Pengajuan Desain Tata Letak Sirkuit Terpadu",
+            "description": "Dataset ini berisi data Jumlah Pengajuan Desain Tata Letak Sirkuit Terpadu",
+            "keyword": [
+                "DTLST",
+                "sirkuit",
+                "desain",
+                "permohonan",
+                "pengajuan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/peningkatanfidusia",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Peningkatan Pendaftaran Jaminan Fidusia",
+                    "description": "Peningkatan Pendaftaran Jaminan Fidusia"
+                }
+            ],
+            "identifier": "F12BBA4A-DE91-4D21-94C3-D60BB273F648",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Peningkatan Pendaftaran Jaminan Fidusia",
+            "description": "Dataset ini berisi data Peningkatan Pendaftaran Jaminan Fidusia",
+            "keyword": [
+                "fidusia",
+                "peningkatan",
+                "pendaftaran"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_objek",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan jenis objek",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan jenis objek"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_objek-perbulan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan jenis objek per bulan",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan jenis objek per bulan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_objek-perhari",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan jenis objek per hari",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan jenis objek per hari"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_objek-pertahun",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan jenis objek per tahun",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan jenis objek per tahun"
+                }
+            ],
+            "identifier": "0C05E83B-C280-48B0-8A61-B9906B434535",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Transaksi Fidusia Berdasarkan Jenis Objek",
+            "description": "Dataset ini berisi data Jumlah Transaksi Fidusia berdasarkan jenis objek",
+            "keyword": [
+                "fidusia",
+                "jenis",
+                "objek",
+                "transaksi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan provinsi",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan provinsi"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/provinsi-perbulan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan provinsi per bulan",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan provinsi per bulan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/provinsi-perhari",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan provinsi per hari",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan provinsi per hari"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/provinsi-pertahun",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Fidusia berdasarkan provinsi per tahun",
+                    "description": "Jumlah Transaksi Fidusia berdasarkan provinsi per tahun"
+                }
+            ],
+            "identifier": "B0BB631D-CBF4-4727-8BE7-7D630AD2036C",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Transaksi Fidusia Berdasarkan Provinsi",
+            "description": "Dataset ini berisi data Jumlah Transaksi Fidusia berdasarkan provinsi",
+            "keyword": [
+                "fidusia",
+                "transaksi",
+                "provinsi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_transaksi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran)",
+                    "description": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran)"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_transaksi-perhari",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran) per hari",
+                    "description": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran) per hari"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_transaksi-perbulan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran) per bulan",
+                    "description": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran) per bulan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/fidusia/jenis_transaksi-pertahun",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran) per tahun",
+                    "description": "Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran) per tahun"
+                }
+            ],
+            "identifier": "105821B6-AE1A-46F5-A2B8-43B773CE67E4",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Transaski Fidusia Berdasarkan Jenis Transaksi (Pendaftaran)",
+            "description": "Dataset ini berisi data Jumlah Transaski Fidusia berdasarkan jenis transaksi (pendaftaran)",
+            "keyword": [
+                "fidusia",
+                "pendaftaran",
+                "transaksi",
+                "jenis"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/persekutuan_perdata/jenis_transaksi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran)",
+                    "description": "Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran)"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/persekutuan_perdata/jenis_transaksi-perbulan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran) per bulan",
+                    "description": "Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran) per bulan"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/persekutuan_perdata/jenis_transaksi-pertahun",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran) per tahun",
+                    "description": "Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran) per tahun"
+                }
+            ],
+            "identifier": "3C56987A-71C3-4412-8B01-A42B76700B93",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Harian",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Transaksi Persekutuan Perdata Berdasarkan Jenis Transaksi (Pendaftaran)",
+            "description": "Dataset ini berisi data Jumlah Transaksi Persekutuan Perdata berdasarkan jenis transaksi (pendaftaran)",
+            "keyword": [
+                "persekutuan",
+                "perdata",
+                "transaksi",
+                "pendaftaran"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Imigrasi",
+                "hasEmail": "mailto:humas@imigrasi.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/perlintasan/wna/datang",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Perlintasan Kedatangan Warga Negara Asing berdasarkan Tempat Transit",
+                    "description": "Data Statistik/Jumlah Perlintasan Kedatangan Warga Negara Asing (WNA) berdasarkan Tempat Transit"
+                }
+            ],
+            "identifier": "CF0D9873-3249-4102-B906-8BA308067C99",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenim",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Imigrasi"
+            },
+            "title": "Jumlah Kedatangan WNA",
+            "description": "Dataset ini berisi data perlintasan kedatangan warga negara asing per tahun berdasarkan tempat transit (kedatangan) di Indonesia",
+            "keyword": [
+                "lintas",
+                "perlintasan",
+                "wna",
+                "datang",
+                "warga",
+                "asing",
+                "negara"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/ig/permohonan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pengajuan Indikasi Geografis (IG) Berdasarkan Provinsi",
+                    "description": "Jumlah Pengajuan Indikasi Geografis (IG) Berdasarkan Provinsi"
+                }
+            ],
+            "identifier": "8F13B33C-08C6-49B7-BE96-6A91E0AF195B",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Pengajuan Indikasi Geografis (IG) Berdasarkan Provinsi",
+            "description": "Dataset ini berisi data jumlah pengajuan/permohonan indikasi geografis tiap provinsi/daerah",
+            "keyword": [
+                "indikasi",
+                "geografis",
+                "indikasi geografis",
+                "ig",
+                "kekayaan",
+                "intelektual"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/rd/permohonan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Pengajuan Rahasia Dagang (RD)",
+                    "description": "Jumlah Pengajuan Rahasia Dagang (RD) per tahun"
+                }
+            ],
+            "identifier": "CF77B2B2-0428-43C0-8087-128A28478699",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Pengajuan Rahasia Dagang (Domestik)",
+            "description": "Dataset ini berisi data jumlah pengajuan/permohonan rahasia dagang tiap tahun",
+            "keyword": [
+                "rahasia dagang",
+                "rahasia",
+                "dagang",
+                "rd",
+                "kekayaan",
+                "intelektual"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/di/permohonan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Permohonan Desain Industri (DI)",
+                    "description": "Jumlah Permohonan Desain Industri per tahun"
+                }
+            ],
+            "identifier": "9BAA4113-E208-49CD-87E0-0D53E23E5A97",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Permohonan Desain Industri",
+            "description": "Dataset ini berisi data jumlah pengajuan/permohonan desain industri tiap tahun",
+            "keyword": [
+                "desain",
+                "industri",
+                "di",
+                "kekayaan",
+                "intelektual"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/hc/permohonan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Permohonan Hak Cipta (HC)",
+                    "description": "Jumlah Permohonan Hak Cipta per tahun"
+                }
+            ],
+            "identifier": "A5653C64-8DD8-49E4-A575-ED6CB4BE377F",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah Permohonan Hak Cipta",
+            "description": "Dataset ini berisi data jumlah pengajuan/permohonan hak cipta tiap tahun",
+            "keyword": [
+                "hak cipta",
+                "hc",
+                "hak",
+                "cipta",
+                "kekayaan",
+                "intelektual"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Pemasyarakatan",
+                "hasEmail": "mailto:ppid.ditjenpas@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/residivis",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Persentase Pelaku Residivis",
+                    "description": "Persentase Pelaku Residivis per tahun"
+                }
+            ],
+            "identifier": "3BAD8B9C-FCDA-426B-85A3-E6E860B7D474",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenpas",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Pemasyarakatan"
+            },
+            "title": "Persentase Pelaku Residivis",
+            "description": "Dataset ini berisi data persentase pelaku residivis tiap tahun",
+            "keyword": [
+                "residivis",
+                "pelaku",
+                "pas",
+                "pemasyarakatan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Pemasyarakatan",
+                "hasEmail": "mailto:ppid.ditjenpas@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/spptti",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Target Implementasi SPPT TI",
+                    "description": "Jumlah Target Implementasi SPPT TI per tahun"
+                }
+            ],
+            "identifier": "5F731F1F-4B82-4544-B7FA-B6C1C7CB8974",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenpas",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Pemasyarakatan"
+            },
+            "title": "Jumlah Target Implementasi SPPT TI",
+            "description": "Dataset ini berisi jumlah target sppt ti tiap tahun",
+            "keyword": [
+                "sppt",
+                "ti",
+                "spptti",
+                "target",
+                "pas",
+                "pemasyarakatan"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/cv_terdaftar_by_provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah CV Terdaftar ",
+                    "description": "Jumlah CV Terdaftar Berdasarkan Provinsi (Pendaftaran dan Pencatatan Pendaftaran)"
+                }
+            ],
+            "identifier": "C9B50DCF-06AE-45A3-B593-55005C4396C4",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah CV Terdaftar Berdasarkan Provinsi (Pendaftaran dan Pencatatan Pendaftaran)",
+            "description": "Dataset ini berisi jumlah CV yang sudah terdaftar berdasarkan provinsi (pendaftaran dan pencatatan pendaftaran)",
+            "keyword": [
+                "cv",
+                "ahu",
+                "administrasi",
+                "hukum",
+                "umum"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/transaksi_cv_by_jenistrans",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaski CV ",
+                    "description": "Jumlah Transaski CV Berdasarkan Jenis Transaksi"
+                }
+            ],
+            "identifier": "1FA7A850-5B9D-4731-BDAE-80E2D102F530",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Transaski CV Berdasarkan Jenis Transaksi",
+            "description": "Dataset ini berisi jumlah transaksi CV berdasarkan jenis transaksi",
+            "keyword": [
+                "cv",
+                "ahu",
+                "administrasi",
+                "hukum",
+                "umum"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/firma_terdaftar_by_provinsi",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Firma Terdaftar ",
+                    "description": "Jumlah Firma Terdaftar Berdasarkan Provinsi (Pendaftaran dan Pencatatan Pendaftaran)"
+                }
+            ],
+            "identifier": "B35E32D0-0CA6-4D19-A969-F30E45A11E24",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Firma Terdaftar Berdasarkan Provinsi (Pendaftaran dan Pencatatan Pendaftaran)",
+            "description": "Dataset ini berisi jumlah Firma yang sudah terdaftar berdasarkan provinsi (pendaftaran dan pencatatan pendaftaran)",
+            "keyword": [
+                "firma",
+                "ahu",
+                "administrasi",
+                "hukum",
+                "umum"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Administrasi Hukum Umum",
+                "hasEmail": "mailto:humas@ahu.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/transaksi_firma_by_jenistrans",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Transaski Firma ",
+                    "description": "Jumlah Transaski Firma Berdasarkan Jenis Transaksi"
+                }
+            ],
+            "identifier": "BD6A55C9-9C44-44FE-91AD-BC3F2913C71E",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenahu",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Administrasi Hukum Umum"
+            },
+            "title": "Jumlah Transaski Firma Berdasarkan Jenis Transaksi",
+            "description": "Dataset ini berisi jumlah transaksi Firma berdasarkan jenis transaksi",
+            "keyword": [
+                "firma",
+                "ahu",
+                "administrasi",
+                "hukum",
+                "umum"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Direktorat Jenderal Kekayaan Intelektual",
+                "hasEmail": "mailto:halodjki@dgip.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sada.kemenkumham.go.id/datasets/paten/formalitaski",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Permohonan Paten yang Memenuhi Syarat Administrasi Formalitas KI",
+                    "description": "Jumlah Permohonan Paten yang Memenuhi Syarat Administrasi Formalitas KI per tahun"
+                }
+            ],
+            "identifier": "0EFB05E6-DC5E-41ED-AD52-0EA4A56F027A",
+            "issued": "2023-12-04 16:44:56",
+            "landingPage": "https://sada.kemenkumham.go.id/ditjenki",
+            "kategori": "Hukum",
+            "prioritas_tahun": "2023",
+            "modified": "2023-12-04 16:44:56",
+            "accrualPeriodicity": "Triwulan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Jenderal Kekayaan Intelektual"
+            },
+            "title": "Jumlah permohonan Paten yang Memenuhi Syarat Administrasi Formalitas KI",
+            "description": "Dataset ini berisi data jumlah paten yang memenuhi syarat administrasi formalitas Kekayaan Intelektual per tahun",
+            "keyword": [
+                "paten",
+                "ki",
+                "kekayaan intelektual"
+            ]
+        }
+    ]
+}
