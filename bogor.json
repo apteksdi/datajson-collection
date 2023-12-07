@@ -18,7 +18,7 @@
                 "format": "xlsx",
                 "title": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor"
             },
-            "identifier": 20,
+            "identifier": "e0310da3-10e0-49cd-8a87-1caf36a15e21",
             "issued": "2021-09-06 19:42:13",
             "landingPage": "https://data.kotabogor.go.id/getdataset/daftar-nama-organisasi-perangkat-daerah-kota-bogor",
             "accrualPeriodicity": "Tahunan",
@@ -42,7 +42,7 @@
                 "format": "xlsx",
                 "title": "Naskah Hasil Akreditasi Perpustakaan yang ada di Kota Bogor"
             },
-            "identifier": 21,
+            "identifier": "e0310da3-10e0-49cd-8a87-1caf36a15e26",
             "issued": "2021-09-06 19:55:24",
             "landingPage": "https://data.kotabogor.go.id/getdataset/naskah-hasil-akreditasi-perpustakaan-yang-ada-di-kota-bogor",
             "accrualPeriodicity": "Tahunan",
@@ -66,7 +66,7 @@
                 "format": "xlsx",
                 "title": "Indikator Kepegawaian, Pendidikan dan Pelatihan"
             },
-            "identifier": 24,
+            "identifier": "e0310da3-10e0-49cd-8a87-1caf36a15e23",
             "issued": "2021-09-06 20:08:28",
             "landingPage": "https://data.kotabogor.go.id/getdataset/indikator-kepegawaian,-pendidikan-dan-pelatihan",
             "accrualPeriodicity": "Tahunan",
