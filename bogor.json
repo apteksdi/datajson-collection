@@ -7,13 +7,13 @@
     "dataset": [
         {
             "@type": "dcat:dataset",
-            "accessLeval": "public",
+            "accessLevel": "public",
             "contctPoint": {
                 "hasEmail": "bagorg@kotabogor.go.id"
             },
             "distribution": {
                 "@type": "dcat:Distribution",
-                "downloadUrl": "https://data.kotabogor.go.id/storage/dokumen/7a2adb586c869d210b4a74fdb54057af.xlsx",
+                "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/7a2adb586c869d210b4a74fdb54057af.xlsx",
                 "mediatype": "text/xlsx",
                 "format": "xlsx",
                 "title": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor"
@@ -31,13 +31,13 @@
         },
         {
             "@type": "dcat:dataset",
-            "accessLeval": "public",
+            "accessLevel": "public",
             "contctPoint": {
                 "hasEmail": "diarpus@kotabogor.go.id"
             },
             "distribution": {
                 "@type": "dcat:Distribution",
-                "downloadUrl": "https://data.kotabogor.go.id/storage/dokumen/a4f1a3dd6bbdd105d76f40535a44ba8b.xlsx",
+                "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/a4f1a3dd6bbdd105d76f40535a44ba8b.xlsx",
                 "mediatype": "text/xlsx",
                 "format": "xlsx",
                 "title": "Naskah Hasil Akreditasi Perpustakaan yang ada di Kota Bogor"
@@ -55,13 +55,13 @@
         },
         {
             "@type": "dcat:dataset",
-            "accessLeval": "public",
+            "accessLevel": "public",
             "contctPoint": {
                 "hasEmail": "bkpsdm@kotabogor.go.id"
             },
             "distribution": {
                 "@type": "dcat:Distribution",
-                "downloadUrl": "https://data.kotabogor.go.id/storage/dokumen/b0e6aa642b00fa3513fbb26bbda5f640.xlsx",
+                "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/b0e6aa642b00fa3513fbb26bbda5f640.xlsx",
                 "mediatype": "text/xlsx",
                 "format": "xlsx",
                 "title": "Indikator Kepegawaian, Pendidikan dan Pelatihan"
