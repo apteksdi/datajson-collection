@@ -9,15 +9,18 @@
             "@type": "dcat:dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "fn": "Biro Pengadaan Barang dan Jasa Sekretariat Daerah",
                 "hasEmail": "bagorg@kotabogor.go.id"
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat:Distribution",
                 "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/7a2adb586c869d210b4a74fdb54057af.xlsx",
                 "mediatype": "text/xlsx",
                 "format": "xlsx",
                 "title": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor"
-            },
+                }
+            ],
             "identifier": "e0310da3-10e0-49cd-8a87-1caf36a15e21",
             "issued": "2021-09-06 19:42:13",
             "landingPage": "https://data.kotabogor.go.id/getdataset/daftar-nama-organisasi-perangkat-daerah-kota-bogor",
@@ -37,15 +40,18 @@
             "@type": "dcat:dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "fn": "Biro Pengadaan Barang dan Jasa Sekretariat Daerah",
                 "hasEmail": "diarpus@kotabogor.go.id"
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat:Distribution",
                 "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/a4f1a3dd6bbdd105d76f40535a44ba8b.xlsx",
                 "mediatype": "text/xlsx",
                 "format": "xlsx",
                 "title": "Naskah Hasil Akreditasi Perpustakaan yang ada di Kota Bogor"
-            },
+                }
+            ],
             "identifier": "e0310da3-10e0-49cd-8a87-1caf36a15e26",
             "issued": "2021-09-06 19:55:24",
             "landingPage": "https://data.kotabogor.go.id/getdataset/naskah-hasil-akreditasi-perpustakaan-yang-ada-di-kota-bogor",
@@ -63,15 +69,18 @@
             "@type": "dcat:dataset",
             "accessLevel": "public",
             "contactPoint": {
+                "fn": "Biro Pengadaan Barang dan Jasa Sekretariat Daerah",
                 "hasEmail": "bkpsdm@kotabogor.go.id"
             },
-            "distribution": {
+            "distribution": [
+                {
                 "@type": "dcat:Distribution",
                 "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/b0e6aa642b00fa3513fbb26bbda5f640.xlsx",
                 "mediatype": "text/xlsx",
                 "format": "xlsx",
                 "title": "Indikator Kepegawaian, Pendidikan dan Pelatihan"
-            },
+                }
+            ],
             "identifier": "e0310da3-10e0-49cd-8a87-1caf36a15e23",
             "issued": "2021-09-06 20:08:28",
             "landingPage": "https://data.kotabogor.go.id/getdataset/indikator-kepegawaian,-pendidikan-dan-pelatihan",
