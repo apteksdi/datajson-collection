@@ -31,15 +31,8 @@
             },
             "title": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor",
             "description": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor Tahun 2020",
-            "keyword": [
-                "infrastrukur sda",
-                "sabo dam",
-                "sda",
-                "Sumber Daya Air"
-                ],
-            "theme": [
-                "EKONOMI"
-            ]
+            "keyword": [],
+            "theme": []
         },
         {
             "@type": "dcat:dataset",
@@ -67,15 +60,8 @@
             },
             "title": "Naskah Hasil Akreditasi Perpustakaan yang ada di Kota Bogor",
             "description": "Hasil Akreditasi Perpustakaan Yang Ada di Kota Bogor Tahun 2020",
-            "keyword": [
-                "infrastrukur sda",
-                "sabo dam",
-                "sda",
-                "Sumber Daya Air"
-                ],
-            "theme": [
-                "EKONOMI"
-            ]
+            "keyword": [],
+            "theme": []
         },
         {
             "@type": "dcat:dataset",
@@ -103,15 +89,8 @@
             },
             "title": "Indikator Kepegawaian, Pendidikan dan Pelatihan",
             "description": "Indikator Kepegawaian, Pendidikan dan Pelatihan Tahun 2021",
-            "keyword": [
-                "infrastrukur sda",
-                "sabo dam",
-                "sda",
-                "Sumber Daya Air"
-                ],
-            "theme": [
-                "EKONOMI"
-            ]
+            "keyword": [],
+            "theme": []
         }
     ]
 }
