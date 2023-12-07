@@ -16,7 +16,7 @@
                 {
                 "@type": "dcat:Distribution",
                 "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/7a2adb586c869d210b4a74fdb54057af.xlsx",
-                "mediatype": "text/xlsx",
+                "mediaType": "text/xlsx",
                 "format": "xlsx",
                 "title": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor"
                 }
@@ -31,7 +31,12 @@
             },
             "title": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor",
             "description": "Daftar Nama Organisasi Perangkat Daerah Kota Bogor Tahun 2020",
-            "keyword": [],
+            "keyword": [
+                "infrastrukur sda",
+                "sabo dam",
+                "sda",
+                "Sumber Daya Air"
+                ],
             "theme": [
                 "EKONOMI"
             ]
@@ -47,7 +52,7 @@
                 {
                 "@type": "dcat:Distribution",
                 "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/a4f1a3dd6bbdd105d76f40535a44ba8b.xlsx",
-                "mediatype": "text/xlsx",
+                "mediaType": "text/xlsx",
                 "format": "xlsx",
                 "title": "Naskah Hasil Akreditasi Perpustakaan yang ada di Kota Bogor"
                 }
@@ -62,8 +67,15 @@
             },
             "title": "Naskah Hasil Akreditasi Perpustakaan yang ada di Kota Bogor",
             "description": "Hasil Akreditasi Perpustakaan Yang Ada di Kota Bogor Tahun 2020",
-            "keyword": [],
-            "theme": []
+            "keyword": [
+                "infrastrukur sda",
+                "sabo dam",
+                "sda",
+                "Sumber Daya Air"
+                ],
+            "theme": [
+                "EKONOMI"
+            ]
         },
         {
             "@type": "dcat:dataset",
@@ -76,7 +88,7 @@
                 {
                 "@type": "dcat:Distribution",
                 "downloadURL": "https://data.kotabogor.go.id/storage/dokumen/b0e6aa642b00fa3513fbb26bbda5f640.xlsx",
-                "mediatype": "text/xlsx",
+                "mediaType": "text/xlsx",
                 "format": "xlsx",
                 "title": "Indikator Kepegawaian, Pendidikan dan Pelatihan"
                 }
@@ -97,7 +109,9 @@
                 "sda",
                 "Sumber Daya Air"
                 ],
-            "theme": []
+            "theme": [
+                "EKONOMI"
+            ]
         }
     ]
 }
