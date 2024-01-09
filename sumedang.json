@@ -1,0 +1,107 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://opendata.sumedangkab.go.id/",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accesLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi Informatika Persandian dan Statitk Kabupaten Sumedang",
+                "hasEmail": "bidangstatistik.smd@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://opendata.sumedangkab.go.id/upload/product/61cbdbf5bb4e0.xls",
+                    "mediaType": "xls",
+                    "format": "xls",
+                    "title": "Jumlah asset bergerak di desa tomo kec tomo 2021  "
+                }
+            ],
+            "identifier": "61cbdbf5bb4e0",
+            "issued": "29-12-2021 03:54:29",
+            "landingPage": "https://opendata.sumedangkab.go.id/index.php/Dashboard/detailsheet/61cbdbf5bb4e0",
+            "modified": "06-01-2022 04:53:27",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Desa Tomo"
+            },
+            "title": "Jumlah asset bergerak di desa tomo kec tomo 2021  ",
+            "description": "-",
+            "keyword": [
+                "Jumlah asset bergerak di desa tomo kec tomo 2021  ",
+                "SDGS_DESA_CANTIK",
+                "Desa Tomo"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accesLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi Informatika Persandian dan Statitk Kabupaten Sumedang",
+                "hasEmail": "bidangstatistik.smd@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://opendata.sumedangkab.go.id/upload/product/61cbdc147d1b8.xls",
+                    "mediaType": "xls",
+                    "format": "xls",
+                    "title": "Jumlah jenis dinding bangunan di desa tomo kec tomo tahun 2021   "
+                }
+            ],
+            "identifier": "61cbdc147d1b8",
+            "issued": "29-12-2021 03:55:00",
+            "landingPage": "https://opendata.sumedangkab.go.id/index.php/Dashboard/detailsheet/61cbdc147d1b8",
+            "modified": "10-01-2022 06:20:07",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Desa Tomo"
+            },
+            "title": "Jumlah jenis dinding bangunan di desa tomo kec tomo tahun 2021   ",
+            "description": "-",
+            "keyword": [
+                "Jumlah jenis dinding bangunan di desa tomo kec tomo tahun 2021   ",
+                "SDGS_DESA_CANTIK",
+                "Desa Tomo"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accesLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi Informatika Persandian dan Statitk Kabupaten Sumedang",
+                "hasEmail": "bidangstatistik.smd@gmail.com"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://opendata.sumedangkab.go.id/upload/product/61cbdc4096a35.xls",
+                    "mediaType": "xls",
+                    "format": "xls",
+                    "title": "Jumlah jenis pekerjaan di desa tomo kec tomo tahun 2021   "
+                }
+            ],
+            "identifier": "61cbdc4096a35",
+            "issued": "29-12-2021 03:55:44",
+            "landingPage": "https://opendata.sumedangkab.go.id/index.php/Dashboard/detailsheet/61cbdc4096a35",
+            "modified": "30-12-2021 08:15:21",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Desa Tomo"
+            },
+            "title": "Jumlah jenis pekerjaan di desa tomo kec tomo tahun 2021   ",
+            "description": "-",
+            "keyword": [
+                "Jumlah jenis pekerjaan di desa tomo kec tomo tahun 2021   ",
+                "SDGS_DESA_CANTIK",
+                "Desa Tomo"
+            ]
+        }
+    ]
+}
