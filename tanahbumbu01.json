@@ -1,0 +1,75 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.tanahbumbukab.go.id",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": " Dinas Komunikasi Informasi Statistik dan Persandian",
+                "hasEmail": "mailto:diskominfosp@tanahbumbukab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.tanahbumbukab.go.id/indikator/persentase-peningkatan-produktivitas-perkebunan-kopi-kelapa-kakao-karet-lada-kabupaten-tanah-bumbu?download=xls",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Persentase Peningkatan Produktivitas Perkebunan (Kopi, Kelapa, Kakao, Karet, Lada) Kabupaten Tanah Bumbu",
+                    "description": "Persentase peningkatan produktivitas tanaman hortikultura didapatkan dari perhitungan Produktivitas Tanaman Perkebunan  Pv = P/ L\r\nDengan :\r\nPv = Produktivitas (Kw/Hektar )\r\nP = Produksi (kw)\r\nL = Luas Panen (Hektar)\r\nFungsinya adalah Untuk Mengetahui Peningkatan dan penurunan produktivitas tanaman hortikultura. Hortikultura adalah segala hal yang berkaitan dengan buah, sayuran bahan obat nabati, dan florikultura termasuk di dalamnya jamur, lumut, dan tanaman air yang berfungsi sebagai sayuran, bahan obat nabati dan atau bahan estetika (PP nomor 26 tahun 2021 tentang penyelenggaraan bidang pertanian)"
+                }
+            ],
+            "identifier": "cc0c23a6-0ed7-4030-828d-0e49ff74cb42",
+            "issued": "2024-01-29",
+            "landingPage": "https://satudata.tanahbumbukab.go.id/indikator/persentase-peningkatan-produktivitas-perkebunan-kopi-kelapa-kakao-karet-lada-kabupaten-tanah-bumbu",
+            "modified": "2024-01-29",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Ketahanan Pangan dan Pertanian Kabupaten Tanah Bumbu Provinsi-Kalimantan Selatan"
+            },
+            "keyword": [
+                "Pertanian"
+            ],
+            "title": "Persentase Peningkatan Produktivitas Perkebunan (Kopi, Kelapa, Kakao, Karet, Lada) Kabupaten Tanah Bumbu",
+            "description": "Persentase peningkatan produktivitas tanaman hortikultura didapatkan dari perhitungan Produktivitas Tanaman Perkebunan  Pv = P/ L\r\nDengan :\r\nPv = Produktivitas (Kw/Hektar )\r\nP = Produksi (kw)\r\nL = Luas Panen (Hektar)\r\nFungsinya adalah Untuk Mengetahui Peningkatan dan penurunan produktivitas tanaman hortikultura. Hortikultura adalah segala hal yang berkaitan dengan buah, sayuran bahan obat nabati, dan florikultura termasuk di dalamnya jamur, lumut, dan tanaman air yang berfungsi sebagai sayuran, bahan obat nabati dan atau bahan estetika (PP nomor 26 tahun 2021 tentang penyelenggaraan bidang pertanian)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "@type": "vcard:Contact",
+                "fn": " Dinas Komunikasi Informasi Statistik dan Persandian",
+                "hasEmail": "mailto:diskominfosp@tanahbumbukab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.tanahbumbukab.go.id/indikator/jumlah-produksi-telur-kabupaten-tanah-bumbu?download=xls",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah Produksi Telur Kabupaten Tanah Bumbu",
+                    "description": "Produksi Telur Adalah jumlah produksi telur unggas (ayam buras, ayam ras petelur, burung puyuh dan itik) selama setahun yang diteteskan, rusak, diperdagangkan, dikonsumsi dan diberikan ke orang lain (SK Dirjen PKH No. 798 tahun 2012)"
+                }
+            ],
+            "identifier": "c2e36e06-049f-411e-903c-bf9805803434",
+            "issued": "2024-01-29",
+            "landingPage": "https://satudata.tanahbumbukab.go.id/indikator/jumlah-produksi-telur-kabupaten-tanah-bumbu",
+            "modified": "2024-01-29",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Ketahanan Pangan dan Pertanian Kabupaten Tanah Bumbu Provinsi-Kalimantan Selatan"
+            },
+            "keyword": [
+                "Pertanian"
+            ],
+            "title": "Jumlah Produksi Telur Kabupaten Tanah Bumbu",
+            "description": "Produksi Telur Adalah jumlah produksi telur unggas (ayam buras, ayam ras petelur, burung puyuh dan itik) selama setahun yang diteteskan, rusak, diperdagangkan, dikonsumsi dan diberikan ke orang lain (SK Dirjen PKH No. 798 tahun 2012)"
+        }     
+    ]
+}
