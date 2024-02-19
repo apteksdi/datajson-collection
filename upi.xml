@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+    <responseDate>2024-02-19T06:43:50+00:00</responseDate>
+    <ListRecords>
+        <request verb="ListRecords" metadataPrefix="oai_dc">http://be-satudata.perpusnas.go.id/Api/datas/oai?metadataPrefix=oai_dc&amp;verb=ListRecords</request>
+        <record>
+            <header>
+                <identifier>oai:satudata.perpusnas.go.id/82</identifier>
+                <datestamp>2024-02-07T06:38:23+00:00</datestamp>
+            </header>
+            <metadata>
+                <oai_dc:dc 
+        xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+        xmlns:dc="http://purl.org/dc/elements/1.1/" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="en-US">CREATIVITY AND INNOVATION TO COMPETE IN THE CENTURY 21</dc:title>
+	                <dc:creator></dc:creator>
+                    <dc:creator></dc:creator>
+                    <dc:subject xml:lang="en-US">Creativity</dc:subject>
+                    <dc:subject xml:lang="en-US">Century 21</dc:subject>
+                    <dc:description xml:lang="en-US">Competition for a decent life depends on the creativity and ability to innovate. This condition is caused by countries that have superior human resources will be more advanced than in countries with a lot of natural resources but is not reliable. In the future we will face some challenges that require changes in traditional educational paradigm that has been applied by teachers in Indonesia. To that end, students should be accustomed to searching for information themselves, able to identify and formulate problems, able to work effectively in groups and build networks, as well as high creativity mimiliki. In order for creativity and innovation with the optimal form then students must be equipped with the knowledge, attitude and skills are adequate to face the challenges of today and in the future.</dc:description>
+                    <dc:publisher xml:lang="en-US">Elementary Education Study Program School of Postgraduate Studies Universitas Pendidikan Indonesia in collaboration with UPI PRESS</dc:publisher>
+                    <dc:date>2018-11-19</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="en-US">Peer-reviewed Article</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://proceedings.upi.edu/index.php/icee/article/view/11</dc:identifier>
+                    <dc:source xml:lang="en-US">International Conference on Elementary Education; Vol. 1 No. 1 (2018): Proceedings The 1st International Conference on Elementary Education ; 2-8</dc:source>
+                    <dc:source>2808-8263</dc:source>
+                    <dc:source>2829-0976</dc:source>
+                    <dc:language>eng</dc:language>
+                    <dc:relation>http://proceedings.upi.edu/index.php/icee/article/view/11/9</dc:relation>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:satudata.perpusnas.go.id/81</identifier>
+                <datestamp>2024-02-07T06:36:08+00:00</datestamp>
+            </header>
+            <metadata>
+                <oai_dc:dc 
+        xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+        xmlns:dc="http://purl.org/dc/elements/1.1/" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="en-US">PRIMARY SCHOOL TEACHERS SELF REFLECTION TRAINING TO IMPROVE TEACHER PROFESSIONALISM</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:creator></dc:creator>
+                    <dc:subject xml:lang="en-US">self-reflection</dc:subject>
+                    <dc:subject xml:lang="en-US">teacher professionalism</dc:subject>
+                    <dc:subject xml:lang="en-US">elementary school teachers</dc:subject>
+                    <dc:subject xml:lang="en-US">calls</dc:subject>
+                    <dc:subject xml:lang="en-US">interests</dc:subject>
+                    <dc:description xml:lang="en-US">This article discusses self-reflection training for elementary school teachers that is closely related to the call of the soul of elementary school teachers to be more professional in carrying out their duties as teachers. A person's interest in the teaching profession will make him work happily and feel responsible. Interest is not enough to become an elementary school teacher, but the calling of the soul as a teacher is needed. How can you keep an elementary school teacher's interest and vocation? One way is reflection. What is reflection? Reflection is a way of reflecting on the experience gained in order to improve itself in order to live better. With reflection, elementary school teachers will get to know themselves more so that they can communicate with students who are in desperate need of attention from their teacher. When someone becomes an elementary school teacher and in accordance with his soul call, then all thoughts and wills are focused on developing his students. Sometimes someone who works as an elementary school teacher does not have a call and interest as a teacher. This is evident by the transfer of the teacher to other professions because he considers the teacher to be a promising profession. Besides that there is also a teaching profession which is only considered as a stepping stone before getting a job. We can imagine the character of children who are educated by teachers who do not love them. Reflection training held on an ongoing basis will make elementary school teachers get to know themselves so that the calling of their souls and interests is increasingly fostered so as to improve their professionalism as elementary school teachers.</dc:description>
+                    <dc:publisher xml:lang="en-US">Elementary Education Study Program School of Postgraduate Studies Universitas Pendidikan Indonesia in collaboration with UPI PRESS</dc:publisher>
+                    <dc:date>2018-11-19</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="en-US">Peer-reviewed Article</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://proceedings.upi.edu/index.php/icee/article/view/14</dc:identifier>
+                    <dc:source xml:lang="en-US">International Conference on Elementary Education; Vol. 1 No. 1 (2018): Proceedings The 1st International Conference on Elementary Education ; 9-13</dc:source>
+                    <dc:source>2808-8263</dc:source>
+                    <dc:source>2829-0976</dc:source>
+                    <dc:language>eng</dc:language>
+                    <dc:relation>http://proceedings.upi.edu/index.php/icee/article/view/14/10</dc:relation>
+                </oai_dc:dc>
+            </metadata>
+        </record>
+        <record>
+            <header>
+                <identifier>oai:satudata.perpusnas.go.id/80</identifier>
+                <datestamp>2024-02-07T06:34:53+00:00</datestamp>
+            </header>
+            <metadata>
+                <oai_dc:dc 
+        xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+        xmlns:dc="http://purl.org/dc/elements/1.1/" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+        http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title xml:lang="en-US">STUDY OF LITERATURE THE LEVEL OF CRITICAL THINKING ABILITY OF STUDENTS RELATED TO MATHEMATICS MATERIALS</dc:title>
+                    <dc:creator></dc:creator>
+                    <dc:creator></dc:creator>
+                    <dc:subject xml:lang="en-US">leveling</dc:subject>
+                    <dc:subject xml:lang="en-US">critical thinking</dc:subject>
+                    <dc:subject xml:lang="en-US">mathematics</dc:subject>
+                    <dc:description xml:lang="en-US">The purpose of this paper is to discuss the level of students' critical thinking skills in solving problems related to the topic or subject matter of Mathematics. To achieve this goal, the method used is literature study by describing the ability to think critically based on several experts and describe the leveling of critical thinking based on the study of supporting references. In everyday life, one cannot escape thinking. One of the thinking activities needed in life is critical thinking. The development of critical thinking skills can be done through school, which is one of them in the Mathematics learning process. Giving problem solving can help students develop critical thinking skills. But in the development of critical thinking processes, even though students receive the same material and the learning process, it does not rule out the possibility that there are differences in&amp;nbsp; the ability to think critically in each student. Differences in the ability to think critically in students can be revealed by making groups based on certain criteria so that the level of critical thinking skills of students from highest to lowest can be seen.</dc:description>
+                    <dc:publisher xml:lang="en-US">Elementary Education Study Program School of Postgraduate Studies Universitas Pendidikan Indonesia in collaboration with UPI PRESS</dc:publisher>
+                    <dc:date>2018-11-19</dc:date>
+                    <dc:type>info:eu-repo/semantics/article</dc:type>
+                    <dc:type>info:eu-repo/semantics/publishedVersion</dc:type>
+                    <dc:type xml:lang="en-US">Peer-reviewed Article</dc:type>
+                    <dc:format>application/pdf</dc:format>
+                    <dc:identifier>http://proceedings.upi.edu/index.php/icee/article/view/15</dc:identifier>
+                    <dc:source xml:lang="en-US">International Conference on Elementary Education; Vol. 1 No. 1 (2018): Proceedings The 1st International Conference on Elementary Education ; 14-18</dc:source>
+                    <dc:source>2808-8263</dc:source>
+                    <dc:source>2829-0976</dc:source>
+                    <dc:language>eng</dc:language>
+                    <dc:relation>http://proceedings.upi.edu/index.php/icee/article/view/15/11</dc:relation>
+                </oai_dc:dc>
+            </metadata>
+        </record> 
+    </ListRecords>
+</OAI-PMH>
