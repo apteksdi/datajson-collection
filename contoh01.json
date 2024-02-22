@@ -8,7 +8,7 @@
         {
             "title": "Jumlah Nomor Izin Edar Obat Selama 5 Tahun Terakhir",
             "@type": "dcat:Dataset",
-            "accessLevel": "public",
+            "accessRights": "public",
             "contactPoint": {
                 "fn": "Tata Kelola Data dan Informasi",
                 "hasEmail": "satudata@pom.go.id"
@@ -39,9 +39,42 @@
             }
         },
         {
+            "title": "Persentase produk 2 pangan lokal dan impor",
+            "@type": "dcat:Dataset",
+            "accessRights": "non-public",
+            "contactPoint": {
+                "fn": "Tata Kelola Data dan Informasi",
+                "hasEmail": "satudata@pom.go.id"
+            },
+            "description": "Persentase produk pangan lokal dan impor",
+            "distribution": [
+                {
+                "@type": "dcat:Distribution",
+                "accessURL": "https://satudata.pom.go.id/datasets/17-persentase-produk-pangan-lokal-dan-impor",
+                "format": "html",
+                "mediaType": "text/html",
+                "description": "Persentase produk pangan lokal dan impor",
+                "title": "Persentase produk pangan lokal dan impor"
+                }
+            ],
+            "identifier": "26089b63-1ee5-11ee-871f-005256k11308",
+            "issued": "2021-12-22 14:26:13",
+            "keyword": [
+                "Pangan Olahan"
+            ],
+            "landingPage": "https://satudata.pom.go.id/datasets/16-persentase-produk-pangan-lokal-dan-impor?tabs=tabs2",
+            "kategori": "Kesehatan",
+            "prioritas_tahun": "2023",
+            "modified": "2023-06-15 08:52:35",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Informasi Obat dan Makanan"
+            }
+        },
+        {
             "title": "Persentase produk pangan lokal dan impor",
             "@type": "dcat:Dataset",
-            "accessLevel": "public",
+            "accessRights": "restricted",
             "contactPoint": {
                 "fn": "Tata Kelola Data dan Informasi",
                 "hasEmail": "satudata@pom.go.id"
