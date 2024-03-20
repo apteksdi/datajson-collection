@@ -1,0 +1,106 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://rumahdata.riau.go.id/dataset/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi, Informatika dan Statistik Provinsi Riau",
+                "hasEmail": "diskominfotik@riau.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://rumahdata.riau.go.id/download/dataset/csv/satuan-pamong-praja",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Satuan Pamong Praja"
+                }
+            ],
+            "identifier": "7fcfeca4-e95a-4865-8675-86d2f617c5df",
+            "issued": "2024-01-29",
+            "landingPage": "https://rumahdata.riau.go.id/dataset/satuan-pamong-praja",
+            "modified": "2024-03-04",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOL PP"
+            },
+            "title": "Satuan Pamong Praja",
+            "description": "--description--",
+            "keyword": [
+                "ketenteraman",
+                "ketertiban umum",
+                "pelindungan masyarakat"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi, Informatika dan Statistik Provinsi Riau",
+                "hasEmail": "diskominfotik@riau.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://rumahdata.riau.go.id/download/dataset/csv/satuan-pamong-praja-(banpol)",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Satuan Pamong Praja (BanPol)"
+                }
+            ],
+            "identifier": "c42c1d81-28de-4db2-801c-6a7fb8dfa9ed",
+            "issued": "2024-01-29",
+            "landingPage": "https://rumahdata.riau.go.id/dataset/satuan-pamong-praja-(banpol)",
+            "modified": "2024-03-04",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SATPOL PP"
+            },
+            "title": "Satuan Pamong Praja (BanPol)",
+            "description": "--description--",
+            "keyword": [
+                "ketenteraman",
+                "ketertiban umum",
+                "pelindungan masyarakat"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi, Informatika dan Statistik Provinsi Riau",
+                "hasEmail": "diskominfotik@riau.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://rumahdata.riau.go.id/download/dataset/csv/jumlah-anggota-dprd-provinsi-riau-menurut-daerah-pilihan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Jumlah Anggota DPRD Provinsi Riau Menurut Daerah Pilihan"
+                }
+            ],
+            "identifier": "107d82f6-978a-4564-b8ec-44e7e9cf455c",
+            "issued": "2024-01-29",
+            "landingPage": "https://rumahdata.riau.go.id/dataset/jumlah-anggota-dprd-provinsi-riau-menurut-daerah-pilihan",
+            "modified": "2024-02-29",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "SEKRETARIS DEWAN PERWAKILAN RAKYAT DAERAH"
+            },
+            "title": "Jumlah Anggota DPRD Provinsi Riau Menurut Daerah Pilihan",
+            "description": "--description--",
+            "keyword": [
+                "kesekretariatan"
+            ]
+        }
+    ]
+}
