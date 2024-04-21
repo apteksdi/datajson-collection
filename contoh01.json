@@ -8,7 +8,7 @@
         {
             "title": "Jumlah Nomor Izin Edar Obat Selama 5 Tahun Terakhir",
             "@type": "dcat:Dataset",
-            "accessRights": "public",
+            "accessRights": "http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations",
             "contactPoint": {
                 "fn": "Tata Kelola Data dan Informasi",
                 "hasEmail": "satudata@pom.go.id"
@@ -41,7 +41,7 @@
         {
             "title": "Persentase produk 2 pangan lokal dan impor",
             "@type": "dcat:Dataset",
-            "accessRights": "non-public",
+            "accessRights": "http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/INSPIRE_Directive_Article13_1a",
             "contactPoint": {
                 "fn": "Tata Kelola Data dan Informasi",
                 "hasEmail": "satudata@pom.go.id"
@@ -74,7 +74,7 @@
         {
             "title": "Persentase produk pangan lokal dan impor",
             "@type": "dcat:Dataset",
-            "accessRights": "restricted",
+            "accessRights": "http://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations",
             "contactPoint": {
                 "fn": "Tata Kelola Data dan Informasi",
                 "hasEmail": "satudata@pom.go.id"
