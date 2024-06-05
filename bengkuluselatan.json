@@ -1,0 +1,105 @@
+{
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@id": "https://satudata.bengkulutengahkab.go.id/docapi/api/dkantest",
+  "@type": "dcat:Catalog",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi Informatika dan Statistik Kab. Bengkulu Tengah",
+        "hasEmail": "mailto:bentengkominfo@gmail.go.id"
+      },
+      "description": "Dataset terkait topik Jumlah Penduduk berdasarkan Status Perkawinan Perkecamatan di kabupaten bengkulu tengah dihasilkan oleh Dinas Kependudukan dan Pencatatan Sipil bengkulu tengah yang dikeluarkan dalam periode 1 tahun sekali\t\t\r\nPenjelasan mengenai Tabel data indikator di dalam dataset ini:\t\t\r\nPeriode_update\t \t:\tmenyajikan tahun produksi data dengan tipe data numerik\r\nWilayah\t:\tMenyajikan data wilayah kecamatan dihasilkan tipe data teks; yang mana terdiri dari: kecamatan Pondok Kelapa, Talang Empat, Semidang Lagan, karang Tinggi, Taba Penanjung, Merigi Sakti, Merigi Kelindang, Pondok Kubang, Pagar Jati, Pematang Tiga.\r\nBelum Kawin\t:\tMenyajikan data Jumlah Penduduk Belum Kawin di kabupaten Bengkulu Tengah tipe data numerik.\r\nSudah Kawin\t:\tMenyajikan data Jumlah Penduduk Sudah Kawin di kabupaten Bengkulu Tengah tipe data numerik.\r\nCerai Hidup\t:\tMenyajikan data Jumlah Penduduk Cerai Hidup di kabupaten Bengkulu Tengah tipe data numerik.\r\nCerai Mati\t:\tMenyajikan data Jumlah Penduduk Cerai Mati di kabupaten Bengkulu Tengah tipe data numerik.\r\n",
+      "distribution": {
+        "@type": "dcat:Distribution",
+        "downloadURL": "https://satudata.bengkulutengahkab.go.id/dataset/download/dmVyMlAxMTc2dHNwMjAwNjAzMDcyNzE5MEZzQm5BQkNORFBPV0VSVEhF/dmVyMlAxMTc2dHNwNTUxMTE5MDAwODE5MEZzQm5BQkNORFBPV0VSVEhF/xls",
+        "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "format": "xlsx",
+        "title": "Jumlah Penduduk berdasarkan Status Perkawinan Perkecamatan"
+      },
+      "identifier": "5511190008",
+      "issued": "2024-06-03",
+      "keyword": [
+        "Kependudukan",
+        "Bengkulu Tengah",
+        "Dinas Kependudukan dan Pencatatan Sipil"
+      ],
+      "landingPage": "https://satudata.bengkulutengahkab.go.id/dataset/detail/dmVyMlAxMTc2dHNwMjAwNjAzMDcyNzE5MEZzQm5BQkNORFBPV0VSVEhF/dmVyMlAxMTc2dHNwNTUxMTE5MDAwODE5MEZzQm5BQkNORFBPV0VSVEhF",
+      "modified": "2024-06-03",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Kependudukan dan Pencatatan Sipil"
+      },
+      "theme": [
+        "Kependudukan"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi Informatika dan Statistik Kab. Bengkulu Tengah",
+        "hasEmail": "mailto:bentengkominfo@gmail.go.id"
+      },
+      "description": "Dataset terkait topik Keliling danau di kabupaten bengkulu tengah dihasilkan oleh dinas pekerjaan umum dan tata ruang kabupaten bengkulu tengah yang dikeluarkan dalam periode 1 tahun sekali\t\t\t\t\t\t\t\t\r\nPenjelasan mengenai Tabel data indikator di dalam dataset ini:\t\t\t\t\t\t\t\t\r\nPeriode_update\t \t:\tmenyajikan tahun produksi data dengan tipe data numerik\t\t\t\t\t\t\r\nSub Indikator\t:\tMenyajikan data Keliling Danau di kabupaten Bengkulu Tengah dihasilkan tipe data teks.\t\t\t\t\t\t\r\nJumlah\t:\tMenyajikan data Keliling Danau di kabupaten Bengkulu Tengah tipe data numerik.\t\t\t\t\t\t\r\n",
+      "distribution": {
+        "@type": "dcat:Distribution",
+        "downloadURL": "https://satudata.bengkulutengahkab.go.id/dataset/download/dmVyMlAxMTc2dHNwNDkwMzE5MDczOTE5MEZzQm5BQkNORFBPV0VSVEhF/dmVyMlAxMTc2dHNwMTIwMTMwMDAxNzE5MEZzQm5BQkNORFBPV0VSVEhF/xls",
+        "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "format": "xlsx",
+        "title": "Keliling Danau"
+      },
+      "identifier": "1201300017",
+      "issued": "2024-05-27",
+      "keyword": [
+        "Infrastuktur",
+        "Bengkulu Tengah",
+        "Dinas Pekerjaan Umum dan Penataan Ruang"
+      ],
+      "landingPage": "https://satudata.bengkulutengahkab.go.id/dataset/detail/dmVyMlAxMTc2dHNwNDkwMzE5MDczOTE5MEZzQm5BQkNORFBPV0VSVEhF/dmVyMlAxMTc2dHNwMTIwMTMwMDAxNzE5MEZzQm5BQkNORFBPV0VSVEhF",
+      "modified": "2024-05-27",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Pekerjaan Umum dan Penataan Ruang"
+      },
+      "theme": [
+        "Infrastuktur"
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "accessLevel": "public",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi Informatika dan Statistik Kab. Bengkulu Tengah",
+        "hasEmail": "mailto:bentengkominfo@gmail.go.id"
+      },
+      "description": "Tempat Tinggal",
+      "distribution": {
+        "@type": "dcat:Distribution",
+        "downloadURL": "https://satudata.bengkulutengahkab.go.id/dataset/download/dmVyMlAxMTc2dHNwODYwMzE0MDczODE5MEZzQm5BQkNORFBPV0VSVEhF/dmVyMlAxMTc2dHNwNjQxMTE5MDAwNzE5MEZzQm5BQkNORFBPV0VSVEhF/xls",
+        "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "format": "xlsx",
+        "title": "jumlah pemukiman transmigrasi per kecamatan"
+      },
+      "identifier": "6411190007",
+      "issued": "2024-03-14",
+      "keyword": [
+        "Ketenagakerjaan",
+        "Bengkulu Tengah",
+        "Dinas Ketenagakerjaan dan Transmigrasi"
+      ],
+      "landingPage": "https://satudata.bengkulutengahkab.go.id/dataset/detail/dmVyMlAxMTc2dHNwODYwMzE0MDczODE5MEZzQm5BQkNORFBPV0VSVEhF/dmVyMlAxMTc2dHNwNjQxMTE5MDAwNzE5MEZzQm5BQkNORFBPV0VSVEhF",
+      "modified": "2024-03-14",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Ketenagakerjaan dan Transmigrasi"
+      },
+      "theme": [
+        "Ketenagakerjaan"
+      ]
+    }
+  ]
+}
