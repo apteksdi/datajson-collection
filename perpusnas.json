@@ -1,0 +1,247 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://dwh.menpan.go.id/api/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Pujasintara",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/file",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Data Konten Digital"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "a9e3b154-b0c0-4888-bbd6-24ed03fa3a5e",
+            "issued": "2023-09-11 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/data-konten-digital",
+            "modified": "2024-05-13T02:10:57.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Data Konten Digital",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Analisis Perpustakaan dan Pengembangan Budaya Baca",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Tingkat Kegemaran Membaca Masyarakat adalah tingkat perilaku atau kebiasaan masyarakat dalam memperoleh pengetahuan dan informasi dari berbagai bentuk media yang dapat dilakukan secara mandiri oleh pemerintah daerah dalam jangka waktu tertentu.</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/file",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Tingkat Kegemaran Membaca"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "43a1594e-674a-4266-96cf-8e9c5a2f324f",
+            "issued": "2023-09-18 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/tingkat-kegemaran-membaca",
+            "modified": "2024-05-13T02:10:57.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Tingkat Kegemaran Membaca",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Analisis Perpustakaan dan Pengembangan Budaya Baca",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Indeks Pembangunan Literasi Masyarakat adalah pengukuran terhadap usaha yang dilaksanakan oleh pemerintah daerah (tingkat provinsi dan kabupaten/kota) dalam membina dan...</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/file",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks Pembangunan Literasi Masyarakat (IPLM)"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "3ba0cd10-868c-4e54-bb08-d1890c7db333",
+            "issued": "2023-09-18 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/indeks-pembangunan-literasi-masyarakat-iplm",
+            "modified": "2024-05-13T02:10:57.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Indeks Pembangunan Literasi Masyarakat (IPLM)",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Analisis Perpustakaan dan Pengembangan Budaya Baca",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Tingkat Kegemaran Membaca Masyarakat adalah tingkat perilaku atau kebiasaan masyarakat dalam memperoleh pengetahuan dan informasi dari berbagai bentuk media yang dapat dilakukan secara mandiri oleh pemerintah daerah dalam jangka waktu tertentu.</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/fileTGM2023.xlsx",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Tingkat Kegemaran Membaca (TGM)2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "d454c994-d767-4614-b209-a59cf5a87a37",
+            "issued": "2024-01-29 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/tingkat-kegemaran-membaca-tgm2023",
+            "modified": "2024-05-26T06:52:37.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Tingkat Kegemaran Membaca (TGM)2023",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Analisis Perpustakaan dan Pengembangan Budaya Baca",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Indeks Pembangunan Literasi Masyarakat adalah pengukuran terhadap usaha yang dilaksanakan oleh pemerintah daerah (tingkat provinsi dan kabupaten/kota) dalam membina dan mengembangkan perpustakaan sebagai wahana belajar sepanjang hayat untuk mencapai budaya literasi masyarakat.</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/fileIPLM12022.xlsx",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Indeks Pembangunan Literasi Masyarakat (IPLM) 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "c14a57ec-9147-487c-956f-ba66266de0af",
+            "issued": "2023-12-31 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/indeks-pembangunan-literasi-masyarakat-iplm-2023",
+            "modified": "2024-05-13T02:10:57.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Indeks Pembangunan Literasi Masyarakat (IPLM) 2023",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Analisis Perpustakaan dan Pengembangan Budaya Baca",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Tingkat Kegemaran Membaca Masyarakat adalah tingkat perilaku atau kebiasaan masyarakat dalam memperoleh pengetahuan dan informasi dari berbagai bentuk media yang dapat dilakukan secara mandiri oleh pemerintah daerah dalam jangka waktu tertentu.</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/file1706334406_tingkat-kegemaran-membaca-tahun-2020-1.xlsx",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Tingkat Kegemaran Membaca (TGM) 2020"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "5be66a55-c5e0-482f-9d21-127357e1c8b9",
+            "issued": "2020-12-30 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/tingkat-kegemaran-membaca-tgm-2020",
+            "modified": "2024-05-13T02:10:57.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Tingkat Kegemaran Membaca (TGM) 2020",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Kepala Pusat Analisis Perpustakaan dan Pengembangan Budaya Baca",
+                "hasEmail": "mailto:info@perpusnas.go.id"
+            },
+            "description": "<p>Tingkat Kegemaran Membaca Masyarakat adalah tingkat perilaku atau kebiasaan masyarakat dalam memperoleh pengetahuan dan informasi dari berbagai bentuk media yang dapat dilakukan secara mandiri oleh pemerintah daerah dalam jangka waktu tertentu.</p>",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://be-satudata.perpusnas.go.id/uploads/data/fileTGM 2021.xlsx",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "title": "Tingkat Kegemaran Membaca (TGM) 2021"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "format": "html",
+                    "accesURL": "https://satudata.perpusnas.go.id",
+                    "title": "Satudata perpusnas.go.id"
+                }
+            ],
+            "identifier": "e155c9b7-b6d1-417c-8c7d-56555c918a3a",
+            "issued": "2021-12-31 00:00:00",
+            "landingPage": "https://satudata.perpusnas.go.id/dataset/tingkat-kegemaran-membaca-tgm-2021",
+            "modified": "2024-05-13T02:10:57.000000Z",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Perpsutakaan Nasional"
+            },
+            "title": "Tingkat Kegemaran Membaca (TGM) 2021",
+            "keyword": []
+        }
+    ]
+}
