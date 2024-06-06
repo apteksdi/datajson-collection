@@ -1,0 +1,361 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://services.kemendag.go.id/sdi/1.0/dcat",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Layanan Data Pusat Data dan Sistem Informasi",
+                "hasEmail": "layanandata.pdsi@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Data Pengecer Minyak Goreng dari PUJLE",
+                    "description": "Data Pengecer Minyak Goreng dari PUJLE",
+                    "accessURL": "https://sisp.kemendag.go.id/migor-14rb",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/sisp",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "c053487f-5d84-4449-9cd4-2ddd70f7c1e4",
+            "issued": "2022-10-21 12:53:24",
+            "landingPage": "https://sisp.kemendag.go.id/migor-14rb",
+            "modified": "2022-10-25 12:47:23",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Data Pengecer Minyak Goreng dari PUJLE",
+            "description": "Data Pengecer Minyak Goreng dari PUJLE",
+            "keyword": [
+                "pengecer",
+                "minyak goreng",
+                "migor",
+                "PUJLE",
+                "toko"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Layanan Data Pusat Data dan Sistem Informasi",
+                "hasEmail": "layanandata.pdsi@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Januari 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Januari 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/1",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Februari 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Februari 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/2",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Maret 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Maret 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/3",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP April 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP April 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/4",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Mei 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Mei 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/5",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Juni 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Juni 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/6",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Juli 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Juli 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/7",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Agustus 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Agustus 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/8",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP September 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP September 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/9",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP Oktober 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP Oktober 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/10",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Harga Komoditas Bahan Pokok SP2KP November 2022",
+                    "description": "Harga Komoditas Bahan Pokok SP2KP November 2022",
+                    "downloadURL": "http://sp2kp-be-reporting.kemendag.go.id/api/archive-public/harga-harian/2022/11",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "b4d0670d-0ee4-41b3-aa74-dfce1419470b",
+            "issued": "2022-12-15 12:53:24",
+            "landingPage": "https://sp2kp.kemendag.go.id/",
+            "modified": "2022-12-15 13:00:11",
+            "accrualPeriodicity": "Bulanan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Harga Harian Bahan Pokok SP2KP",
+            "description": "Harga Harian Bahan Pokok SP2KP",
+            "keyword": [
+                "harga",
+                "komoditas",
+                "beras",
+                "minyak goreng",
+                "gula",
+                "bahan pokok"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wahyu Budiyanto",
+                "hasEmail": "wahyu@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Pasar Pantauan SP2KP",
+                    "description": "Pasar Pantauan SP2KP",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/pasarPantauan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "9356ce35-112c-44c4-bbf9-de3a329d782d",
+            "issued": "2023-10-16 11:17:15",
+            "landingPage": "https://sp2kp.kemendag.go.id",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Pasar Pantauan SP2KP",
+            "description": "Pasar yang menjadi lokasi pemantauan harga komoditas Sistem Pemantauan Pasar dan Kebutuhan Pokok (SP2KP)",
+            "keyword": [
+                "Pasar",
+                "SP2KP",
+                "Harga",
+                "Komoditi",
+                "Bapok",
+                "Harga Komoditi"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wahyu Dyah Novitasari",
+                "hasEmail": "wahyu.dyah@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Neraca Perdagangan Indonesia",
+                    "description": "Neraca Perdagangan Indonesia",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/neraca",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "f08eba95-328c-48df-af3d-71f759b9d762",
+            "issued": "2023-10-16 15:41:23",
+            "landingPage": "https://satudata.kemendag.go.id/data-informasi/perdagangan-luar-negeri/neraca-perdagangan-dengan-mitra-dagang",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Neraca Perdagangan Indonesia",
+            "description": "selisih antara nilai ekspor dan nilai impor suatu negara dalam suatu periode tertentu. Ketika nilai ekspor lebih besar dari nilai impor disebut sebagai surplus perdagangan. Ketika nilai impor lebih besar dari nilai ekspor, maka disebut defisit perdagangan.",
+            "keyword": [
+                "Neraca Perdagangan",
+                "neraca",
+                "perdagangan",
+                "ekspor impor",
+                "ekspor",
+                "impor"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wahyu Dyah Novitasari",
+                "hasEmail": "wahyu.dyah@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Index Spesialisasi Perdagangan 2012",
+                    "description": "Index Spesialisasi Perdagangan 2012",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2012",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2013",
+                    "description": "Index Spesialisasi Perdagangan 2013",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2013",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2014",
+                    "description": "Index Spesialisasi Perdagangan 2014",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2014",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2015",
+                    "description": "Index Spesialisasi Perdagangan 2015",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2015",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2016",
+                    "description": "Index Spesialisasi Perdagangan 2016",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2016",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2017",
+                    "description": "Index Spesialisasi Perdagangan 2017",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2017",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2018",
+                    "description": "Index Spesialisasi Perdagangan 2018",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2018",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2019",
+                    "description": "Index Spesialisasi Perdagangan 2019",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2019",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2020",
+                    "description": "Index Spesialisasi Perdagangan 2020",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2020",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2021",
+                    "description": "Index Spesialisasi Perdagangan 2021",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2021",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2022",
+                    "description": "Index Spesialisasi Perdagangan 2022",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2022",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                },
+                {
+                    "title": "Index Spesialisasi Perdagangan 2023",
+                    "description": "Index Spesialisasi Perdagangan 2023",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/isp/2023",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "547c4b9a-7af7-4010-8e45-661fc3e6f278",
+            "issued": "2023-10-17 10:50:02",
+            "landingPage": "https://satudata.kemendag.go.id",
+            "modified": null,
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Indeks Spesialisasi Perdagangan",
+            "description": "Indeks Spesialisasi Perdagangan (ISP) digunakan untuk menganalisis\r\nposisi atau tahapan perkembangan suatu produk. ISP ini dapat menggambarkan\r\napakah suatu jenis produk Indonesia cenderung menjadi negara eksportir atau\r\nimportir.\r\nNilai ISP ini mempunyai kisaran antara -1 sampai dengan +1. Jika nilanya positif diatas 0 sampai 1, maka komoditi bersangkutan dikatakan mempunyai daya saing yang kuat atau negara yang bersangkutan cenderung sebagai pengekspor dari komoditi tersebut (penawaran domestik lebih besar daripada permintaan domestik). Sebaliknya, daya saingnya rendah atau cenderung sebagai pengimpor (penawaran domestik lebih kecil dari permintaan domestik), jika nilainya negatif dibawah 0 hingga -1. Kalau indeksnya naik berati daya saingnya  meningkat, dan begitu juga sebaliknya.",
+            "keyword": [
+                "indeks spesialisasi perdagangan (ISP)",
+                "isp",
+                "perdagangan",
+                "komoditi",
+                "hs"
+            ]
+        }
+    ]
+}
