@@ -1,0 +1,70 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://services.kemendag.go.id/sdi/1.0/dcat",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Layanan Data Pusat Data dan Sistem Informasi",
+                "hasEmail": "layanandata.pdsi@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Data Pengecer Minyak Goreng dari PUJLE",
+                    "description": "Data Pengecer Minyak Goreng dari PUJLE",
+                    "accessURL": "https://sisp.kemendag.go.id/migor-14rb",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/sisp",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "c053487f-5d84-4449-9cd4-2ddd70f7c1e4",
+            "issued": "2022-10-21 12:53:24",
+            "landingPage": "https://sisp.kemendag.go.id/migor-14rb",
+            "modified": "2022-10-25 12:47:23",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Data Pengecer Minyak Goreng dari PUJLE",
+            "description": "Data Pengecer Minyak Goreng dari PUJLE",
+            "keyword": []
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wahyu Budiyanto",
+                "hasEmail": "wahyu@kemendag.go.id"
+            },
+            "distribution": [
+                {
+                    "title": "Pasar Pantauan SP2KP",
+                    "description": "Pasar Pantauan SP2KP",
+                    "downloadURL": "https://satudata.kemendag.go.id/sdi/pasarPantauan",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "@type": "dcat:Distribution"
+                }
+            ],
+            "identifier": "9356ce35-112c-44c4-bbf9-de3a329d782d",
+            "issued": "2023-10-16 11:17:15",
+            "landingPage": "https://sp2kp.kemendag.go.id",
+            "modified": "2023-10-16 11:17:15",
+            "accrualPeriodicity": "Tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Sistem Informasi - Kementerian Perdagangan"
+            },
+            "title": "Pasar Pantauan SP2KP",
+            "description": "Pasar yang menjadi lokasi pemantauan harga komoditas Sistem Pemantauan Pasar dan Kebutuhan Pokok (SP2KP)",
+            "keyword": []
+        }
+    ]
+}
