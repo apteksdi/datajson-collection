@@ -1,0 +1,145 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://oss.nunukankab.go.id/sepakat-sdi/data",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sepakat Nunukan",
+                "hasEmail": "mailto:admin@nunukankab.go.id"
+            },
+            "description": "Urusan Pemerintahan Wajib Berkaitan Pelayanan Dasar",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://oss.nunukankab.go.id/sepakat-sdi/data/1.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "Urusan Pemerintahan Wajib Berkaitan Pelayanan Dasar",
+                    "title": "Urusan Pemerintahan Wajib Berkaitan Pelayanan Dasar"
+                }
+            ],
+            "identifier": 1,
+            "issued": "2024-06-23",
+            "keyword": [
+                "Urusan Pemerintahan Wajib Berkaitan Pelayanan Dasar"
+            ],
+            "landingPage": "https://sepakat.nunukankab.go.id",
+            "modified": "2024-06-23",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pemerintah Kabupaten Nunukan"
+            },
+            "theme": [
+                "Urusan Pemerintahan Wajib Berkaitan Pelayanan Dasar"
+            ],
+            "title": "Urusan Pemerintahan Wajib Berkaitan Pelayanan Dasar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sepakat Nunukan",
+                "hasEmail": "mailto:admin@nunukankab.go.id"
+            },
+            "description": "Urusan Pemerintahan Wajib Tidak Berkaitan Pelayanan Dasar",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://oss.nunukankab.go.id/sepakat-sdi/data/2.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "Urusan Pemerintahan Wajib Tidak Berkaitan Pelayanan Dasar",
+                    "title": "Urusan Pemerintahan Wajib Tidak Berkaitan Pelayanan Dasar"
+                }
+            ],
+            "identifier": 2,
+            "issued": "2024-06-23",
+            "keyword": [
+                "Urusan Pemerintahan Wajib Tidak Berkaitan Pelayanan Dasar"
+            ],
+            "landingPage": "https://sepakat.nunukankab.go.id",
+            "modified": "2024-06-23",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pemerintah Kabupaten Nunukan"
+            },
+            "theme": [
+                "Urusan Pemerintahan Wajib Tidak Berkaitan Pelayanan Dasar"
+            ],
+            "title": "Urusan Pemerintahan Wajib Tidak Berkaitan Pelayanan Dasar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sepakat Nunukan",
+                "hasEmail": "mailto:admin@nunukankab.go.id"
+            },
+            "description": "Urusan Pilihan",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://oss.nunukankab.go.id/sepakat-sdi/data/3.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "Urusan Pilihan",
+                    "title": "Urusan Pilihan"
+                }
+            ],
+            "identifier": 3,
+            "issued": "2024-06-23",
+            "keyword": [
+                "Urusan Pilihan"
+            ],
+            "landingPage": "https://sepakat.nunukankab.go.id",
+            "modified": "2024-06-23",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pemerintah Kabupaten Nunukan"
+            },
+            "theme": [
+                "Urusan Pilihan"
+            ],
+            "title": "Urusan Pilihan"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Sepakat Nunukan",
+                "hasEmail": "mailto:admin@nunukankab.go.id"
+            },
+            "description": "Fungsi Penunjang Urusan Pemerintahan",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://oss.nunukankab.go.id/sepakat-sdi/data/4.csv",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "description": "Fungsi Penunjang Urusan Pemerintahan",
+                    "title": "Fungsi Penunjang Urusan Pemerintahan"
+                }
+            ],
+            "identifier": 4,
+            "issued": "2024-06-23",
+            "keyword": [
+                "Fungsi Penunjang Urusan Pemerintahan"
+            ],
+            "landingPage": "https://sepakat.nunukankab.go.id",
+            "modified": "2024-06-23",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pemerintah Kabupaten Nunukan"
+            },
+            "theme": [
+                "Fungsi Penunjang Urusan Pemerintahan"
+            ],
+            "title": "Fungsi Penunjang Urusan Pemerintahan"
+        }
+    ]
+}
