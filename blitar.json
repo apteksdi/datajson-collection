@@ -1,0 +1,809 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://opendata.blitarkota.go.id/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Perumahan Rakyat dan Kawasan Permukiman",
+                "hasEmail": "mailto:dispera@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023",
+                    "description": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721980205_1f3aa0dd95365eaf742a.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "9e1403001c16dfe80be34dab74ae135e",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---luas-kawasan-permukiman-kumuh-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Perumahan dan Permukiman"
+            },
+            "theme": [],
+            "title": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023",
+            "description": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023  Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Perumahan Rakyat dan Kawasan Permukiman",
+                "hasEmail": "mailto:dispera@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023",
+                    "description": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721979742_9a510a51311d94c8eac8.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "9e1403001c16dfe80be34dab74ae135e",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---luas-kawasan-permukiman-kumuh-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Perumahan dan Permukiman"
+            },
+            "theme": [],
+            "title": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023",
+            "description": "Luas Kawasan Permukiman Kumuh Menurut Kecamatan Tahun 2023 Kota Blitar "
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Perumahan dan Kawasan Permukiman ",
+                "hasEmail": "mailto:dispera@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Rumah Yang Berada Pada Kawasan Rawan Bencana Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Rumah Yang Berada Pada Kawasan Rawan Bencana Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721979642_b4893b242798059d2897.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "630762e54ee6578638a1492fc4dd0cd9",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---jumlah-rumah-yang-berada-pada-kawasan-rawan-bencana-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Perumahan dan Permukiman"
+            },
+            "theme": [],
+            "title": "Jumlah Rumah Yang Berada Pada Kawasan Rawan Bencana Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Rumah Yang Berada Pada Kawasan Rawan Bencana Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Perumahan dan Kawasan Permukiman",
+                "hasEmail": "mailto:dispera@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Rumah Tidak Layak Huni (RUTILAHU) Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Rumah Tidak Layak Huni (RUTILAHU) Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721979064_d43cbe06d5e8b7233441.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "fdff4b26b05b9ccd4ab63564be7f8afc",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---jumlah-rumah-tidak-layak-huni--rutilahu--menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Perumahan dan Permukiman"
+            },
+            "theme": [],
+            "title": "Jumlah Rumah Tidak Layak Huni (RUTILAHU) Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Rumah Tidak Layak Huni (RUTILAHU) Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Perumahan Rakyat dan Kawasan Permukiman",
+                "hasEmail": "mailto:dispera@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Penyediaan dan Rehabilitasi Rumah Yang Layak Huni Bagi Korban Bencana Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Penyediaan dan Rehabilitasi Rumah Yang Layak Huni Bagi Korban Bencana Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721978835_46b6e1d482ae55bb36a9.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "df18e862418f7382ac6da50a8c260aa3",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---jumlah-penyediaan-dan-rehabilitasi-rumah-yang-layak-huni-bagi-korban-bencana-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Perumahan dan Permukiman"
+            },
+            "theme": [],
+            "title": "Jumlah Penyediaan dan Rehabilitasi Rumah Yang Layak Huni Bagi Korban Bencana Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Penyediaan dan Rehabilitasi Rumah Yang Layak Huni Bagi Korban Bencana Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Pekerjaan Umum dan Penataan Ruang",
+                "hasEmail": "mailto:dinaspupr@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Rumah Tangga (RT) Yang Terlayani Akses Air Minum Layak Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Rumah Tangga (RT) Yang Terlayani Akses Air Minum Layak Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721968945_5bd5897ebec0968e7ece.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "59d8989759a67615601be325207541c8",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---jumlah-rumah-tangga--rt--yang-terlayani-akses-air-minum-layak-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pekerjaan Umum Dan Penataan Ruang"
+            },
+            "theme": [],
+            "title": "Jumlah Rumah Tangga (RT) Yang Terlayani Akses Air Minum Layak Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Rumah Tangga (RT) Yang Terlayani Akses Air Minum Layak Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Pekerjaan Umum dan Penataan Ruang",
+                "hasEmail": "mailto:dinaspupr@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Rumah Tangga (RT) Yang Memiliki Akses Sanitasi Layak Tahun 2023",
+                    "description": "Jumlah Rumah Tangga (RT) Yang Memiliki Akses Sanitasi Layak Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721968787_b34a683639cf80912a28.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "0d47663a038466bedd3c5199b38de029",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---jumlah-rumah-tangga--rt--yang-memiliki-akses-sanitasi-layak-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pekerjaan Umum Dan Penataan Ruang"
+            },
+            "theme": [],
+            "title": "Jumlah Rumah Tangga (RT) Yang Memiliki Akses Sanitasi Layak Tahun 2023",
+            "description": "Jumlah Rumah Tangga (RT) Yang Memiliki Akses Sanitasi Layak Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Pekerjaan Umum dan Penataan Ruang",
+                "hasEmail": "mailto:dinaspupr@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Jiwa Yang Terlayani Pengolahan Air Limbah Domestik Tahun 2023",
+                    "description": "Jumlah Jiwa Yang Terlayani Pengolahan Air Limbah Domestik Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721968653_81a7138bc459cb037246.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "7a6cab2953ac30d6e8a824572a39cc45",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Perumahan rakyat dan kawasan permukiman"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/perumahan-rakyat-dan-kawasan-permukiman---jumlah-jiwa-yang-terlayani-pengolahan-air-limbah-domestik-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pekerjaan Umum Dan Penataan Ruang"
+            },
+            "theme": [],
+            "title": "Jumlah Jiwa Yang Terlayani Pengolahan Air Limbah Domestik Tahun 2023",
+            "description": "Jumlah Jiwa Yang Terlayani Pengolahan Air Limbah Domestik Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Persalinan di Fasilitas Kesehatan Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Persalinan di Fasilitas Kesehatan Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898993_6916c1f086328620a1b4.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "9bd07b63cf1ae596ab2bed0500779194",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-persalinan-di-fasilitas-kesehatan-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Persalinan di Fasilitas Kesehatan Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Persalinan di Fasilitas Kesehatan Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Tenaga Kesehatan Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Tenaga Kesehatan Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898872_985db24b85a1a91f362b.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "6965beccfef3379260bc4335b763aa8e",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-tenaga-kesehatan-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Tenaga Kesehatan Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Tenaga Kesehatan Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Tempat Tidur Di Rumah Sakit Berdasarkan Kelas Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Tempat Tidur Di Rumah Sakit Berdasarkan Kelas Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898763_221ec6635de306614bb3.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "c7c13c8d83384f5cd536f7e2c566677f",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-tempat-tidur-di-rumah-sakit-berdasarkan-kelas-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Tempat Tidur Di Rumah Sakit Berdasarkan Kelas Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Tempat Tidur Di Rumah Sakit Berdasarkan Kelas Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Status Gizi Balita Berdasarkan Indeks Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Status Gizi Balita Berdasarkan Indeks Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898627_114acdcd462ccd9cf428.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "3fb8212e34caa3a867c38633197c7d07",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-status-gizi-balita-berdasarkan-indeks-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Status Gizi Balita Berdasarkan Indeks Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Status Gizi Balita Berdasarkan Indeks Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Kematian Ibu Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Kematian Ibu Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898523_3a57edd9777dd46bec7e.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "bed3bcd76df9dfa109cc47448f082a14",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-kematian-ibu-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Kematian Ibu Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Kematian Ibu Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Kasus Penyakit Tidak Menular Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Kasus Penyakit Tidak Menular Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898421_9b6fb053a273108a9c80.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "507bebaf2670a34c2bcb82b41f88cce7",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-kasus-penyakit-tidak-menular-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Kasus Penyakit Tidak Menular Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Kasus Penyakit Tidak Menular Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Kasus Penyakit Menular Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Kasus Penyakit Menular Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898305_381c0c6baa01860e0f17.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "a4e93b7301c58f4f838a95e07d521086",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-kasus-penyakit-menular-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Kasus Penyakit Menular Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Kasus Penyakit Menular Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Kesehatan",
+                "hasEmail": "mailto:dinkes@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Kasus Penyakit Diftery, Pertusis, Tetanus, Hepatitis B dan Suspek Campak Yang Dapat Dicegah Dengan Imunisasi Menurut K",
+                    "description": "Jumlah Kasus Penyakit Diftery, Pertusis, Tetanus, Hepatitis B dan Suspek Campak Yang Dapat Dicegah Dengan Imunisasi Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721898203_e5fbba04cee2505883b9.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "6efb574c287ad884324692437ac24eaa",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Kesehatan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/kesehatan---jumlah-kasus-penyakit-diftery--pertusis--tetanus--hepatitis-b-dan-suspek-campak-yang-dapat-dicegah-dengan-imunisasi-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "theme": [],
+            "title": "Jumlah Kasus Penyakit Diftery, Pertusis, Tetanus, Hepatitis B dan Suspek Campak Yang Dapat Dicegah Dengan Imunisasi Menurut K",
+            "description": "Jumlah Kasus Penyakit Diftery, Pertusis, Tetanus, Hepatitis B dan Suspek Campak Yang Dapat Dicegah Dengan Imunisasi Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Pendidikan",
+                "hasEmail": "mailto:dispendik@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Lembaga PAUD, TK, SD, SMP, Pendidikan Kesetaraan Berdasarkan Status Tahun 2023",
+                    "description": "Jumlah Lembaga PAUD, TK, SD, SMP, Pendidikan Kesetaraan Berdasarkan Status Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721959682_1a4d031ea78f5bf18c83.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "21873acb5a7c42abbb96a49291edb926",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Pendidikan"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/pendidikan---jumlah-lembaga-paud--tk--sd--smp--pendidikan-kesetaraan-berdasarkan-status-tahun-2023",
+            "modified": "2024-07-26",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan"
+            },
+            "theme": [],
+            "title": "Jumlah Lembaga PAUD, TK, SD, SMP, Pendidikan Kesetaraan Berdasarkan Status Tahun 2023",
+            "description": "Jumlah Lembaga PAUD, TK, SD, SMP, Pendidikan Kesetaraan Berdasarkan Status Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah SDM Kesejahteraan Sosial Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah SDM Kesejahteraan Sosial Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721887220_d688f591da7242b3300f.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "2a7cfef9f8e4f340c2fb7e5f761a00db",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-sdm-kesejahteraan-sosial-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah SDM Kesejahteraan Sosial Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah SDM Kesejahteraan Sosial Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Tenaga Kesejahteraan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Tenaga Kesejahteraan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721887053_64d928ea7eaa9069e0f4.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "2728f78d18ea4b316b95609009cd5926",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-tenaga-kesejahteraan-sosial-berdasarkan-jenis-kelamin-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah Tenaga Kesejahteraan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Tenaga Kesejahteraan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Relawan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Relawan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721886868_d347ea276b7f3f74612d.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "a35295779fd7d062e045f0ce73278b35",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-relawan-sosial-berdasarkan-jenis-kelamin-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah Relawan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Relawan Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah PMKS Di Luar Panti Sosial Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah PMKS Di Luar Panti Sosial Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721886763_69e31d58df82ba90c6f7.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "76ae9e840294d0fa90e97bd772e1130a",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-pmks-di-luar-panti-sosial-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah PMKS Di Luar Panti Sosial Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah PMKS Di Luar Panti Sosial Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah PMKS Di Luar Panti Sosial Berdasakan Jenis Kelamin Tahun 2023",
+                    "description": "Jumlah PMKS Di Luar Panti Sosial Berdasakan Jenis Kelamin Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721886664_0e9095fda3cac938698a.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "d9b95d065383b2ceee17660048cf6fbe",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-pmks-di-luar-panti-sosial-berdasakan-jenis-kelamin-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah PMKS Di Luar Panti Sosial Berdasakan Jenis Kelamin Tahun 2023",
+            "description": "Jumlah PMKS Di Luar Panti Sosial Berdasakan Jenis Kelamin Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Penyandang Disabilitas Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Penyandang Disabilitas Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721886554_b0edd451affa64ce9542.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "8d6bae80f67331545b4f6a466e63c49d",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-penyandang-disabilitas-terlantar-di-luar-panti-sosial-berdasarkan-jenis-kelamin-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah Penyandang Disabilitas Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Penyandang Disabilitas Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Lanjut Usia Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+                    "description": "Jumlah Lanjut Usia Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721886450_96ec875b254e91428b75.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "d9771b41404ecdd02283efe1d9cd4b23",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-lanjut-usia-terlantar-di-luar-panti-sosial-berdasarkan-jenis-kelamin-menurut-kecamatan-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah Lanjut Usia Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023",
+            "description": "Jumlah Lanjut Usia Terlantar Di Luar Panti Sosial Berdasarkan Jenis Kelamin Menurut Kecamatan Tahun 2023 Kota Blitar"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "publik",
+            "contactPoint": {
+                "fn": "Operator Dinas Sosial",
+                "hasEmail": "mailto:dinsos@blitarkota.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "Jumlah Korban Bencana Sosial Menurut Jenis Bencana Tahun 2023",
+                    "description": "Jumlah Korban Bencana Sosial Menurut Jenis Bencana Tahun 2023 Kota Blitar",
+                    "downloadURL": "https://opendata.blitarkota.go.id/public/uploads/dataset/1721886333_ab7b2a866d7cca525e61.xlsx",
+                    "format": "xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+                }
+            ],
+            "identifier": "276256c73085dd8a80e8ed4ab85f7a98",
+            "issued": "2024-03-29",
+            "keyword": [
+                "Sosial"
+            ],
+            "landingPage": "https://opendata.blitarkota.go.id/dataset/sosial---jumlah-korban-bencana-sosial-menurut-jenis-bencana-tahun-2023",
+            "modified": null,
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Sosial"
+            },
+            "theme": [],
+            "title": "Jumlah Korban Bencana Sosial Menurut Jenis Bencana Tahun 2023",
+            "description": "Jumlah Korban Bencana Sosial Menurut Jenis Bencana Tahun 2023 Kota Blitar"
+        }
+    ]
+}
