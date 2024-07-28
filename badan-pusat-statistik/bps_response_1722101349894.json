@@ -1,0 +1,46 @@
+{
+  "accessRights": "-",
+  "accrualPeriodicity": "-",
+  "id_dds": null,
+  "id_indikator_mms": 54038,
+  "id_sds": null,
+  "jenis": "Statistik",
+  "name": "indeks-balita-diberi-imunisasi-lengkap",
+  "prioritas_tahun": "-",
+  "publisher_type": "pusat",
+  "satuan": "indeks",
+  "theme": "-",
+  "title": "Indeks Balita Diberi Imunisasi Lengkap",
+  "ukuran": "indeks",
+  "resources": [
+    {
+      "accrualPeriodicity": "-",
+      "format": "JSON",
+      "id_msind": "https://sirusa.web.bps.go.id/metadata/indikator/31865",
+      "id_mskeg": "https://sirusa.web.bps.go.id/metadata/kegiatan/36159",
+      "apakah_indikator_komposit": "Tidak",
+      "indikator_prioritas": "-",
+      "interpretasi": "Semakin tinggi angka indeks menunjukkan pemenuhan kebutuhan sumber daya manusia",
+      "variabel_disaggregasi": "kabupaten",
+      "kodereferensi": "-",
+      "kriteria_prioritas": "-",
+      "level_estimasi": "kabupaten",
+      "metode_perhitungan": "X.19.j = nilai indikator ke 19 Kabupaten ke j;\nD.19.j = data/nilai indikator ke 19 Kabupaten ke j;\n0 = nilai minimal indikator ke 19; \n90 = nilai maksimal indikator ke 19;",
+      "name": "indeks-balita-diberi-imunisasi-lengkap",
+      "rumus": "X19j=\\frac{D19j-0}{90-0}\\times100",
+      "mediatype": "application/json",
+      "path": "https://dna.web.bps.go.id/api/metadata/msind/detail/31865"
+    }
+  ],
+  "description": "Indeks anak usia 0-4 tahun yang diberikan imunisasi lengkap",
+  "keywords": [
+    "Indikator Daerah Tertinggal"
+  ],
+  "contributors": [
+    {
+      "title": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+      "role": "author",
+      "email": "data.pusdatin@kemendesa.go.id"
+    }
+  ]
+}

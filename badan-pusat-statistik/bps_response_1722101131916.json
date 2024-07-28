@@ -1,0 +1,48 @@
+{
+  "accessRights": "-",
+  "accrualPeriodicity": "-",
+  "id_dds": null,
+  "id_indikator_mms": 36642,
+  "id_sds": null,
+  "jenis": "Statistik",
+  "name": "jumlah-tenaga-kerja-pariwisata-dan-ekonomi-kreatif",
+  "prioritas_tahun": "-",
+  "publisher_type": "pusat",
+  "satuan": "Orang",
+  "theme": "-",
+  "title": "Jumlah Tenaga Kerja Pariwisata dan Ekonomi Kreatif",
+  "ukuran": "Jumlah",
+  "resources": [
+    {
+      "accrualPeriodicity": "-",
+      "format": "JSON",
+      "id_msind": "https://sirusa.web.bps.go.id/metadata/indikator/7705",
+      "id_mskeg": "https://sirusa.web.bps.go.id/metadata/kegiatan/15555",
+      "apakah_indikator_komposit": "Tidak",
+      "indikator_prioritas": "-",
+      "interpretasi": "Semakin tinggi jumlah tenaga kerja maka sektor pariwisata dan ekonomi kreatif semakin tinggi menyerap tenaga kerja",
+      "variabel_disaggregasi": "Wilayah",
+      "kodereferensi": "-",
+      "kriteria_prioritas": "-",
+      "level_estimasi": "Nasional",
+      "metode_perhitungan": "Perhitungan dilakukan dengan penjumlahan tenaga kerja hasil SAKERNAS BPS yang termasuk dalam Sektor Pariwisata dan Ekonomi Kreatif. Sektor Pariwisata dan Ekonomi Kreatif diindentifikasi dengan melakukan pembedahan KBLI Pariwisata dan Ekonomi Kreatif.",
+      "name": "jumlah-tenaga-kerja-pariwisata-dan-ekonomi-kreatif",
+      "rumus": "-",
+      "mediatype": "application/json",
+      "path": "https://dna.web.bps.go.id/api/metadata/msind/detail/43786"
+    }
+  ],
+  "description": "Banyaknya orang yang bekerja pada sektor Pariwisata dan Ekonomi Kreatif. Kriteria tenaga kerja sesuai dengan konsep Bekerja yaitu kegiatan melakukan pekerjaan dengan maksud memperoleh atau membantu memperoleh penghasilan atau keuntungan, paling sedikit selama satu jam dalam seminggu yang lalu.",
+  "keywords": [
+    "Bekerja",
+    "Pariwisata",
+    "Ekonomi Kreatif"
+  ],
+  "contributors": [
+    {
+      "title": "Kementerian Pariwisata dan Ekonomi Kreatif",
+      "role": "author",
+      "email": "info@kemenparekraf.go.id"
+    }
+  ]
+}

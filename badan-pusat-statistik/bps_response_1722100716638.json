@@ -1,0 +1,47 @@
+{
+  "accessRights": "-",
+  "accrualPeriodicity": "-",
+  "id_dds": null,
+  "id_indikator_mms": 33913,
+  "id_sds": 15219,
+  "jenis": "Statistik",
+  "name": "laju-implisit-produk-domestik-bruto-pdb-maritim",
+  "prioritas_tahun": "-",
+  "publisher_type": "pusat",
+  "satuan": "Persen",
+  "theme": "-",
+  "title": "Laju Implisit Produk Domestik Bruto (PDB) Maritim",
+  "ukuran": "Persentase",
+  "resources": [
+    {
+      "accrualPeriodicity": "-",
+      "format": "JSON",
+      "id_msind": "https://sirusa.web.bps.go.id/metadata/indikator/7804",
+      "id_mskeg": "https://sirusa.web.bps.go.id/metadata/kegiatan/15667",
+      "apakah_indikator_komposit": "Tidak",
+      "indikator_prioritas": "-",
+      "interpretasi": "Semakin tinggi nilai laju implisit, maka semakin cepat kenaikan harga barang dan jasa maritim.",
+      "variabel_disaggregasi": "Wilayah, Klaster Kemaritiman",
+      "kodereferensi": "-",
+      "kriteria_prioritas": "-",
+      "level_estimasi": "Nasional",
+      "metode_perhitungan": "Nilai indeks implisit PDB Maritim tahun t dibagi dengan nilai indeks implisit PDB Maritim tahun t-1 dikali 100",
+      "name": "laju-implisit-produk-domestik-bruto-pdb-maritim",
+      "rumus": "LajuPertumbuhanIndeksImplisitPDBMaritim=\\frac{IndeksImplisitM_t-IndeksImplisitM_{t-1}}{IndeksImplisitM_{t-1}}\\times100\\%",
+      "mediatype": "application/json",
+      "path": "https://dna.web.bps.go.id/api/metadata/msind/detail/7804"
+    }
+  ],
+  "description": "Perkembangan indeks implisit maritim pada periode tertentu terhadap indeks implisit periode sebelumnya.",
+  "keywords": [
+    "Produk Domestik Bruto PDB",
+    "Maritim"
+  ],
+  "contributors": [
+    {
+      "title": "Kementerian Koordinator Bidang Kemaritiman dan Investasi",
+      "role": "author",
+      "email": "walidata@maritim.go.id"
+    }
+  ]
+}

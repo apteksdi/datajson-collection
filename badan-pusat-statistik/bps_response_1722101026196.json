@@ -1,0 +1,47 @@
+{
+  "accessRights": "-",
+  "accrualPeriodicity": "-",
+  "id_dds": null,
+  "id_indikator_mms": 66873,
+  "id_sds": null,
+  "jenis": "Statistik",
+  "name": "jumlah-bantuan-keuangan-partai-politik",
+  "prioritas_tahun": "-",
+  "publisher_type": "pusat",
+  "satuan": "-",
+  "theme": "-",
+  "title": "Jumlah Bantuan Keuangan Partai Politik",
+  "ukuran": "Total",
+  "resources": [
+    {
+      "accrualPeriodicity": "-",
+      "format": "JSON",
+      "id_msind": "https://sirusa.web.bps.go.id/metadata/indikator/43786",
+      "id_mskeg": "https://sirusa.web.bps.go.id/metadata/kegiatan/43658",
+      "apakah_indikator_komposit": "Tidak",
+      "indikator_prioritas": "-",
+      "interpretasi": "Semakin tinggi nilai indikator semakin banyak jumlah desa cerdas",
+      "variabel_disaggregasi": "Wilayah",
+      "kodereferensi": "-",
+      "kriteria_prioritas": "-",
+      "level_estimasi": "Provinsi",
+      "metode_perhitungan": "Penjumlahan seluruh bantuan keuangan dari APBN/APBD untuk partai politik",
+      "name": "jumlah-bantuan-keuangan-partai-politik",
+      "rumus": "-",
+      "mediatype": "application/json",
+      "path": "https://dna.web.bps.go.id/api/metadata/msind/detail/43786"
+    }
+  ],
+  "description": "Bantuan keuangan dari Anggaran Pendapatan dan Belanja Negara/Anggaran Pendapatan dan Belanja Daerah sebagaimana dimaksud pada ayat (1) huruf c diberikan secara proporsional kepada Partai Politik yang mendapatkan kursi di Dewan Perwakilan Rakyat, Dewan Perwakilan Rakyat Daerah provinsi, dan Dewan Perwakilan Rakyat Daerah kabupaten/kota yang penghitungannya berdasarkan jumlah perolehan suara.",
+  "keywords": [
+    "Bantuan Keuangan", 
+    "Partai Politik"
+  ],
+  "contributors": [
+    {
+      "title": "Kementerian Dalam Negeri",
+      "role": "author",
+      "email": "walidata@kemendagri.go.id"
+    }
+  ]
+}

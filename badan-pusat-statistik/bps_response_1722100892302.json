@@ -1,0 +1,46 @@
+{
+  "accessRights": "-",
+  "accrualPeriodicity": "-",
+  "id_dds": null,
+  "id_indikator_mms": 53909,
+  "id_sds": 22279,
+  "jenis": "Statistik",
+  "name": "jumlah-desa-cerdas",
+  "prioritas_tahun": "-",
+  "publisher_type": "pusat",
+  "satuan": "desa",
+  "theme": "-",
+  "title": "Jumlah Desa Cerdas",
+  "ukuran": "Total",
+  "resources": [
+    {
+      "accrualPeriodicity": "-",
+      "format": "JSON",
+      "id_msind": "https://sirusa.web.bps.go.id/metadata/indikator/31829",
+      "id_mskeg": "https://sirusa.web.bps.go.id/metadata/kegiatan/34767",
+      "apakah_indikator_komposit": "Tidak",
+      "indikator_prioritas": "-",
+      "interpretasi": "Semakin tinggi nilai indikator semakin banyak jumlah desa cerdas",
+      "variabel_disaggregasi": "Wilayah",
+      "kodereferensi": "-",
+      "kriteria_prioritas": "-",
+      "level_estimasi": "Kecamatan",
+      "metode_perhitungan": "Penghitungan banyaknya Desa Cerdas",
+      "name": "jumlah-desa-cerdas",
+      "rumus": "-",
+      "mediatype": "application/json",
+      "path": "https://dna.web.bps.go.id/api/metadata/msind/detail/31829"
+    }
+  ],
+  "description": "Banyaknya desa yang melakukan transformasi pemanfaatan teknologi dalam pelayanan pemerintahan dan pelayanan publik menuju kemandirian dan kesejahteraan masyarakat desa serta mendorong tercapainya tujuan pembangunan berkelanjutan atau SDGs.",
+  "keywords": [
+    "Desa Cerdas"
+  ],
+  "contributors": [
+    {
+      "title": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+      "role": "author",
+      "email": "data.pusdatin@kemendesa.go.id"
+    }
+  ]
+}
