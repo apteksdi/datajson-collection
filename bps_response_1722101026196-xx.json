@@ -1,0 +1,47 @@
+{
+  "accessRights": "terbuka",
+  "accrualPeriodicity": "-",
+  "id_dds": "-",
+  "id_indikator_mms": 24047,
+  "id_sds": "-",
+  "jenis": "Statistik",
+  "name": "indeks-desa-membangun-idm",
+  "prioritas_tahun": "-",
+  "publisher_type": "pusat",
+  "satuan": "-",
+  "title": "Indeks Desa Membangun (IDM)",
+  "ukuran": "Indeks",
+  "type": "statistik",
+  "publishing_status": "draft",
+  "resources": [
+    {
+      "accrualPeriodicity": "-",
+      "format": "JSON",
+      "id_msind": "https://sirusa.web.bps.go.id/metadata/indikator/4468",
+      "id_mskeg": "https://sirusa.web.bps.go.id/metadata/kegiatan/13588",
+      "apakah_indikator_komposit": "Ya",
+      "indikator_prioritas": "-",
+      "interpretasi": "Semakin tinggi angka indeks menunjukkan kemandirian desa, sebagai dampak ketepatan intervensi dalam kebijakan dengan korelasi intervensi pembangunan yang tepat dari Pemerintah.\nInterpretasi status desa berdasarkan nilai IDM:\nIDM=0,4907 berarti desa sangat tertinggal;\n0,4907<IDM=0,5989 berarti desa tertinggal;\n0,5989<IDM=0,7072 berarti desa berkembang;\n0,7072<IDM=0,8155 berarti desa maju;\nIDM>0,8155 berarti desa mandiri",
+      "variabel_disaggregasi": "input-manual",
+      "kodereferensi": "-",
+      "kriteria_prioritas": "-",
+      "level_estimasi": "Desa",
+      "metode_perhitungan": "IDM: Indeks Desa Membangun\nIKS: Indeks Ketahanan Sosial\nIKE: Indeks Ketahanan Ekonomi\nIKL: Indeks Ketahanan Lingkungan",
+      "name": "indeks-desa-membangun-idm",
+      "rumus": "DM=IKS+IKE+IKL/3",
+      "mediatype": "application/json",
+      "path": "https://dna.web.bps.go.id/api/metadata/msind/detail/4468"
+    }
+  ],
+  "description": "Indeks Komposit yang dibentuk dari Indeks Ketahanan Sosial, Indeks Ketahanan Ekonomi dan Indeks Ketahanan  Lingkungan.",
+  "keywords": [
+    "Indeks Desa Membangun"
+  ],
+  "contributors": [
+    {
+      "title": "Kementerian Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi",
+      "role": "author",
+      "email": "-"
+    }
+  ]
+}
