@@ -1,0 +1,303 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.badanpangan.go.id/api/v1/dataset/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+      {
+        "@type": "dcat:Dataset",
+        "identifier": "9ad4ea29-bc47-4d5a-ac1b-591546a51a25",
+        "title": "Jumlah Cadangan Pangan Pemerintah - 01",
+        "description": "Volume stok merupakan sejumlah volume Cadangan Pangan Pemerintah pada saat pelaporan (setelah diperhitungkan pengadaan dan penyalurannya)",
+        "publishing_status": "approved",
+        "publisher_type": "pusat",
+        "accessRights": "tertutup",
+        "satuan": "ton",
+        "ukuran": "volume",
+        "metode_perhitungan": "Stok Cadangan Pangan Pemerintah = Volume Pengadaan Cadangan Pangan Pemerintah - Volume Penyaluran Cadangan Pangan Pemerintah", 
+        "contactPoint": {
+          "fn": "Direktorat Distribusi dan Cadangan Pangan",
+          "hasEmail": null
+        },
+        "keyword": [
+          "Cadangan Pangan",
+          "Stok"
+        ],
+        "distribution": [
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah Cadangan Pangan Pemerintah",
+            "description": "Stok akhir cadangan pangan pemerintah merupakan penjumlahan dari stok awal ditambahkan dengan pengadaan komoditas pangan yang digunakan untuk cadangan pangan pemerintah kemudian dikurangi dengan penyaluran cadangan pangan pemerintah",
+            "format": "txt",
+            "downloadURL": "https://portal-satu-data-pangan.test/download/document/dataset/8/1727163002.txt/txt",
+            "mediaType": "application/txt"
+          },
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah Cadangan Pangan Pemerintah",
+            "description": "Stok akhir cadangan pangan pemerintah merupakan penjumlahan dari stok awal ditambahkan dengan pengadaan komoditas pangan yang digunakan untuk cadangan pangan pemerintah kemudian dikurangi dengan penyaluran cadangan pangan pemerintah",
+            "format": "json",
+            "downloadURL": "https://portal-satu-data-pangan.test/download/document/dataset/8/1727163002.json/json",
+            "mediaType": "application/json"
+          },
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah Cadangan Pangan Pemerintah",
+            "description": "Stok akhir cadangan pangan pemerintah merupakan penjumlahan dari stok awal ditambahkan dengan pengadaan komoditas pangan yang digunakan untuk cadangan pangan pemerintah kemudian dikurangi dengan penyaluran cadangan pangan pemerintah",
+            "format": "xlsx",
+            "downloadURL": "https://portal-satu-data-pangan.test/download/document/dataset/8/1727163002.xlsx/xlsx",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          }
+        ],
+        "publisher": {
+          "@type": "org:Organization",
+          "name": "Pusat Data dan informasi Badan Pangan Nasional"
+        },
+        "theme": "Cadangan Pangan",
+        "issued": "2024-09-24 00:00:00",
+        "landingPage": "https://portal-satu-data-pangan.test/datasetpublications/79/jumlah-cadangan-pangan-pemerintah",
+        "modified": "2024-09-24",
+        "prioritas_tahun": "2024",
+        "id_indikator_mms": 34241,
+        "id_mskeg": 14857,
+        "id_sds": null,
+        "interpretasi": "semakin tinggi nilainya maka akan semakin banyak stok cadangan pangan pemerintah",
+        "rumus": "VolStokCP\\P=VolPengadaanC\\P-VolPenyaluranC\\P P",
+        "variabel_disaggregasi": [
+          {
+            "nama": "Wilayah",
+            "sumber": "input-manual"
+          }
+        ],
+        "apakah_indikator_komposit": "Ya",
+        "indikator_pembangun": [
+          {
+            "nama": "Penyaluran Komoditas Pangan",
+            "sumber_publikasi": [
+              "Laporan Manajerial Perum BULOG dan BUMN Pangan"
+            ]
+          },
+          {
+            "nama": "Pengadaan Komoditas Pangan",
+            "sumber_publikasi": [
+              "Laporan Manajerial Perum BULOG dan BUMN Pangan"
+            ]
+          }
+        ],
+        "variabel_pembangun": [],
+        "level_estimasi": "nasional",
+        "apakah_indikator_bisa_diakses_umum": "Tidak",
+        "kodereferensi": "",
+        "id_kegiatan_mms": 29892,
+        "judul_kegiatan": "Kompilasi Pengumpulan Data Cadangan Pangan Pemerintah (CPP)",
+        "tahun": "2023",
+        "jenis_statistik": "STATISTIK_SEKTORAL",
+        "cara_pengumpulan_data": "KOMPILASI_PRODUK_ADMINISTRASI",
+        "sektor_kegiatan": "PERTANIAN_DAN_PERIKANAN",
+        "identitas_rekomendasi": null,
+        "i_instansi_penyelanggara": "Badan Pangan Nasional",
+        "i_alamat": "Jl. Harsono RM No. 3, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550",
+        "i_telepon": "(021) 7807377",
+        "i_email": "pusdatinpangan@badanpangan.go.id",
+        "i_faksimile": "(021) 7807377",
+        "ii_unit_eselon1": "Deputi Ketersediaan dan Stabilisasi Pangan",
+        "ii_unit_eselon2": "Direktorat Distribusi dan Cadangan Pangan",
+        "ii_pj_nama": "Dini Nuraeni, SP, M.Si",
+        "ii_pj_jabatan": "Analis Pasar Hasil Pertanian (APHP) Muda",
+        "ii_pj_alamat": "Gedung E, Lantai 6, Jl. Harsono RM No. 3 Ragunan, Pasar Minggu, Jakarta – Indonesia 12550",
+        "ii_pj_telepon": "-",
+        "ii_pj_email": "direktorat.dcp@gmail.com",
+        "ii_pj_faksimile": "-",
+        "iii_latar_belakang_kegiatan": "Ketersediaan cadangan pangan nasional menjadi aspek yang sangat penting di tengah ancaman krisis pangan dan tingginya inflasi. Untuk mengamankan hal tersebut diperlukan koordinasi yang baik antara pusat dan daerah serta penguatan peran BUMN, BUMD, hingga BUMDes sebagai operator penyerapan hasil panen agar stok pangan nasional dapat tersedia secara merata hingga ke tingkat desa. Sehingga di tingkat pusat, perlu dilakukan pengumpulan data cadangan pangan pemerintah.",
+        "iii_tujuan_kegiatan": "Pengumpulan data Cadangan Pangan Pemerintah (CPP) dilaksanakan sebagai bentuk kegiatan pemantauan dan evaluasi cadangan pangan yang dikelola oleh Pemerintah (penugasan kepada Perum BULOG dan BUMN Pangan) sebagai salah satu indikator ketersediaan cadangan pangan nasional.\n CPP ini merupakan data yang bersifat terbatas, sehingga tidak bisa diakses oleh publik, dan hanya bisa diakses oleh pihak tertentu.",
+        "iv_kegiatan_ini_dilakukan": "BERULANG",
+        "iv_frekuensi_penyelanggara": "TAHUNAN",
+        "iv_tipe_pengumpulan_data": "LONGITUDINAL_PANEL",
+        "iv_cakupan_wilayah_pengumpulan_data": "SELURUH_WILAYAH_INDONESIA",
+        "iv_sebagian_cakupan_wilayah_pengumpulan_data": [],
+        "iv_metode_pengumpulan_data": "Pengumpulan data sekunder",
+        "iv_sarana_pengumpulan_data": "Mail",
+        "iv_unit_pengumpulan_data": "Usaha/perusahaan",
+        "v_jenis_rancangan_sampel": null,
+        "v_metode_pemilihan_sampel_tahap_terakhir": null,
+        "v_metode_yang_digunakan": null,
+        "v_kerangka_sampel_tahap_terakhir": null,
+        "v_fraksi_sampel_keseluruhan": null,
+        "v_nilai_perkiraan_sampling_error_variabel_utama": null,
+        "v_unit_sampel": null,
+        "v_unit_observasi": null,
+        "vi_apakah_melakukan_uji_coba": "Tidak",
+        "vi_metode_pemeriksaan_kualitas_pengumpulan_data": "Lainnya : Tidak ada pemeriksaan atau pengecekan",
+        "vi_apakah_melakukan_penyesuaian_nonrespon": "Tidak",
+        "vi_petugas_pengumpulan_data": null,
+        "vi_persyaratan_pendidikan_terendah_petugas_pengumpulan_data": null,
+        "vi_jumlah_petugas_supervisor": 0,
+        "vi_jumlah_petugas_enumerator": 0,
+        "vi_apakah_melakukan_pelatihan_petugas": "Tidak",
+        "vii_tahapan_pengolahan_data": "Editing, Data Entry, Validasi",
+        "vii_metode_analisis": "DESKRIPTIF",
+        "vii_unit_analisis": "Usaha/perusahaan",
+        "vii_tingkat_penyajian_hasil_analisis": "Nasional",
+        "viii_ketersediaan_produk_tercetak": "Tidak",
+        "viii_ketersediaan_produk_digital": "Tidak",
+        "viii_ketersediaan_produk_mikrodata": "Tidak",
+        "viii_rencana_jadwal_rilis_produk_tercetak": [],
+        "viii_rencana_jadwal_rilis_produk_digital": [],
+        "viii_rencana_jadwal_rilis_produk_mikrodata": [],
+        "produsen_data_province_code": "00",
+        "produsen_data_city_code": "0000",
+        "total_msvar": 2,
+        "total_msind": 3,
+        "last_sync": "2024-09-24 12:33:57",
+        "submission_period": 2023
+      },
+      {
+        "@type": "dcat:Dataset",
+        "identifier": "5faad5d3-4fb9-4418-96be-e11cc03c30cf",
+        "title": "Jumlah Cadangan Pangan Pemerintah - 02",
+        "description": "Volume stok merupakan sejumlah volume Cadangan Pangan Pemerintah pada saat pelaporan (setelah diperhitungkan pengadaan dan penyalurannya)",
+        "publishing_status": "approved",
+        "publisher_type": "pusat",
+        "accessRights": "tertutup",
+        "satuan": "ton",
+        "ukuran": "volume",
+        "metode_perhitungan": "Stok Cadangan Pangan Pemerintah = Volume Pengadaan Cadangan Pangan Pemerintah - Volume Penyaluran Cadangan Pangan Pemerintah", 
+        "contactPoint": {
+          "fn": "Direktorat Distribusi dan Cadangan Pangan",
+          "hasEmail": null
+        },
+        "keyword": [
+          "Cadangan Pangan",
+          "Stok"
+        ],
+        "distribution": [
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah Cadangan Pangan Pemerintah",
+            "description": "Stok akhir cadangan pangan pemerintah merupakan penjumlahan dari stok awal ditambahkan dengan pengadaan komoditas pangan yang digunakan untuk cadangan pangan pemerintah kemudian dikurangi dengan penyaluran cadangan pangan pemerintah",
+            "format": "txt",
+            "downloadURL": "https://portal-satu-data-pangan.test/download/document/dataset/8/1727163002.txt/txt",
+            "mediaType": "application/txt"
+          },
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah Cadangan Pangan Pemerintah",
+            "description": "Stok akhir cadangan pangan pemerintah merupakan penjumlahan dari stok awal ditambahkan dengan pengadaan komoditas pangan yang digunakan untuk cadangan pangan pemerintah kemudian dikurangi dengan penyaluran cadangan pangan pemerintah",
+            "format": "json",
+            "downloadURL": "https://portal-satu-data-pangan.test/download/document/dataset/8/1727163002.json/json",
+            "mediaType": "application/json"
+          },
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah Cadangan Pangan Pemerintah",
+            "description": "Stok akhir cadangan pangan pemerintah merupakan penjumlahan dari stok awal ditambahkan dengan pengadaan komoditas pangan yang digunakan untuk cadangan pangan pemerintah kemudian dikurangi dengan penyaluran cadangan pangan pemerintah",
+            "format": "xlsx",
+            "downloadURL": "https://portal-satu-data-pangan.test/download/document/dataset/8/1727163002.xlsx/xlsx",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          }
+        ],
+        "publisher": {
+          "@type": "org:Organization",
+          "name": "Pusat Data dan informasi Badan Pangan Nasional"
+        },
+        "theme": "Cadangan Pangan",
+        "issued": "2024-09-24 00:00:00",
+        "landingPage": "https://portal-satu-data-pangan.test/datasetpublications/79/jumlah-cadangan-pangan-pemerintah",
+        "modified": "2024-09-24",
+        "prioritas_tahun": "2024",
+        "id_indikator_mms": 34241,
+        "id_mskeg": 14857,
+        "id_sds": null,
+        "interpretasi": "semakin tinggi nilainya maka akan semakin banyak stok cadangan pangan pemerintah",
+        "rumus": "VolStokCP\\P=VolPengadaanC\\P-VolPenyaluranC\\P P",
+        "variabel_disaggregasi": [
+          {
+            "nama": "Wilayah",
+            "sumber": "input-manual"
+          }
+        ],
+        "apakah_indikator_komposit": "Ya",
+        "indikator_pembangun": [
+          {
+            "nama": "Penyaluran Komoditas Pangan",
+            "sumber_publikasi": [
+              "Laporan Manajerial Perum BULOG dan BUMN Pangan"
+            ]
+          },
+          {
+            "nama": "Pengadaan Komoditas Pangan",
+            "sumber_publikasi": [
+              "Laporan Manajerial Perum BULOG dan BUMN Pangan"
+            ]
+          }
+        ],
+        "variabel_pembangun": [],
+        "level_estimasi": "nasional",
+        "apakah_indikator_bisa_diakses_umum": "Tidak",
+        "kodereferensi": "",
+        "id_kegiatan_mms": 29892,
+        "judul_kegiatan": "Kompilasi Pengumpulan Data Cadangan Pangan Pemerintah (CPP)",
+        "tahun": "2023",
+        "jenis_statistik": "STATISTIK_SEKTORAL",
+        "cara_pengumpulan_data": "KOMPILASI_PRODUK_ADMINISTRASI",
+        "sektor_kegiatan": "PERTANIAN_DAN_PERIKANAN",
+        "identitas_rekomendasi": null,
+        "i_instansi_penyelanggara": "Badan Pangan Nasional",
+        "i_alamat": "Jl. Harsono RM No. 3, Ragunan, Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12550",
+        "i_telepon": "(021) 7807377",
+        "i_email": "pusdatinpangan@badanpangan.go.id",
+        "i_faksimile": "(021) 7807377",
+        "ii_unit_eselon1": "Deputi Ketersediaan dan Stabilisasi Pangan",
+        "ii_unit_eselon2": "Direktorat Distribusi dan Cadangan Pangan",
+        "ii_pj_nama": "Dini Nuraeni, SP, M.Si",
+        "ii_pj_jabatan": "Analis Pasar Hasil Pertanian (APHP) Muda",
+        "ii_pj_alamat": "Gedung E, Lantai 6, Jl. Harsono RM No. 3 Ragunan, Pasar Minggu, Jakarta – Indonesia 12550",
+        "ii_pj_telepon": "-",
+        "ii_pj_email": "direktorat.dcp@gmail.com",
+        "ii_pj_faksimile": "-",
+        "iii_latar_belakang_kegiatan": "Ketersediaan cadangan pangan nasional menjadi aspek yang sangat penting di tengah ancaman krisis pangan dan tingginya inflasi. Untuk mengamankan hal tersebut diperlukan koordinasi yang baik antara pusat dan daerah serta penguatan peran BUMN, BUMD, hingga BUMDes sebagai operator penyerapan hasil panen agar stok pangan nasional dapat tersedia secara merata hingga ke tingkat desa. Sehingga di tingkat pusat, perlu dilakukan pengumpulan data cadangan pangan pemerintah.",
+        "iii_tujuan_kegiatan": "Pengumpulan data Cadangan Pangan Pemerintah (CPP) dilaksanakan sebagai bentuk kegiatan pemantauan dan evaluasi cadangan pangan yang dikelola oleh Pemerintah (penugasan kepada Perum BULOG dan BUMN Pangan) sebagai salah satu indikator ketersediaan cadangan pangan nasional.\n CPP ini merupakan data yang bersifat terbatas, sehingga tidak bisa diakses oleh publik, dan hanya bisa diakses oleh pihak tertentu.",
+        "iv_kegiatan_ini_dilakukan": "BERULANG",
+        "iv_frekuensi_penyelanggara": "TAHUNAN",
+        "iv_tipe_pengumpulan_data": "LONGITUDINAL_PANEL",
+        "iv_cakupan_wilayah_pengumpulan_data": "SELURUH_WILAYAH_INDONESIA",
+        "iv_sebagian_cakupan_wilayah_pengumpulan_data": [],
+        "iv_metode_pengumpulan_data": "Pengumpulan data sekunder",
+        "iv_sarana_pengumpulan_data": "Mail",
+        "iv_unit_pengumpulan_data": "Usaha/perusahaan",
+        "v_jenis_rancangan_sampel": null,
+        "v_metode_pemilihan_sampel_tahap_terakhir": null,
+        "v_metode_yang_digunakan": null,
+        "v_kerangka_sampel_tahap_terakhir": null,
+        "v_fraksi_sampel_keseluruhan": null,
+        "v_nilai_perkiraan_sampling_error_variabel_utama": null,
+        "v_unit_sampel": null,
+        "v_unit_observasi": null,
+        "vi_apakah_melakukan_uji_coba": "Tidak",
+        "vi_metode_pemeriksaan_kualitas_pengumpulan_data": "Lainnya : Tidak ada pemeriksaan atau pengecekan",
+        "vi_apakah_melakukan_penyesuaian_nonrespon": "Tidak",
+        "vi_petugas_pengumpulan_data": null,
+        "vi_persyaratan_pendidikan_terendah_petugas_pengumpulan_data": null,
+        "vi_jumlah_petugas_supervisor": 0,
+        "vi_jumlah_petugas_enumerator": 0,
+        "vi_apakah_melakukan_pelatihan_petugas": "Tidak",
+        "vii_tahapan_pengolahan_data": "Editing, Data Entry, Validasi",
+        "vii_metode_analisis": "DESKRIPTIF",
+        "vii_unit_analisis": "Usaha/perusahaan",
+        "vii_tingkat_penyajian_hasil_analisis": "Nasional",
+        "viii_ketersediaan_produk_tercetak": "Tidak",
+        "viii_ketersediaan_produk_digital": "Tidak",
+        "viii_ketersediaan_produk_mikrodata": "Tidak",
+        "viii_rencana_jadwal_rilis_produk_tercetak": [],
+        "viii_rencana_jadwal_rilis_produk_digital": [],
+        "viii_rencana_jadwal_rilis_produk_mikrodata": [],
+        "produsen_data_province_code": "00",
+        "produsen_data_city_code": "0000",
+        "total_msvar": 2,
+        "total_msind": 3,
+        "last_sync": "2024-09-24 12:33:57",
+        "submission_period": 2023
+      }
+    ]
+  }
