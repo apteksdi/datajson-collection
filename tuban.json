@@ -1,0 +1,105 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://sata.tubankab.go.id/open-data",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika, Statistik dan Persandian Kabupaten Tuban",
+                "hasEmail": "mailto:diskominfo@tubankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sata.tubankab.go.id/open-data-download/nilai-indeks-spbe-kabupaten-tuban-tahun-2022-126-opendata-1725423728-lain.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Nilai Indeks SPBE Kabupaten Tuban Tahun 2022"
+                }
+            ],
+            "identifier": "$2y$12$vZ3ZIF3R5K7TPfL0hrb1Ke8m1v4YV8elTL6WkrtTGmTq4w1Pye6EK",
+            "issued": "2024-09-04",
+            "landingPage": "https://sata.tubankab.go.id/open-data/dataset/nilai-indeks-spbe-kabupaten-tuban-tahun-2022-11",
+            "modified": "2024-09-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+            },
+            "title": "Nilai Indeks SPBE Kabupaten Tuban Tahun 2022",
+            "description": "",
+            "keyword": [
+                "Pemerintah",
+                "Desa",
+                "Dataset"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika, Statistik dan Persandian Kabupaten Tuban",
+                "hasEmail": "mailto:diskominfo@tubankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sata.tubankab.go.id/open-data-download/nilai-indeks-spbe-kabupaten-tuban-tahun-2021-126-opendata-1725423884-lain.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Nilai Indeks SPBE Kabupaten Tuban Tahun 2021"
+                }
+            ],
+            "identifier": "$2y$12$IYhEPFhdk3F1itDQ7TVlMumSDWiFDLP8t3WkcyEH3t5j26yeZSiGa",
+            "issued": "2024-09-04",
+            "landingPage": "https://sata.tubankab.go.id/open-data/dataset/nilai-indeks-spbe-kabupaten-tuban-tahun-2021-12",
+            "modified": "2024-09-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+            },
+            "title": "Nilai Indeks SPBE Kabupaten Tuban Tahun 2021",
+            "description": "",
+            "keyword": [
+                "Pemerintah",
+                "Desa",
+                "Dataset"
+            ]
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Dinas Komunikasi dan Informatika, Statistik dan Persandian Kabupaten Tuban",
+                "hasEmail": "mailto:diskominfo@tubankab.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://sata.tubankab.go.id/open-data-download/nilai-indeks-spbe-kabupaten-tuban-tahun-2023-126-opendata-1725423915-lain.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Nilai Indeks SPBE Kabupaten Tuban Tahun 2023"
+                }
+            ],
+            "identifier": "$2y$12$oodJP0Gij7WwP9O5i6gAyOzg3WcOPwBh/alx/RDblUJ6Gk8OC3AAW",
+            "issued": "2024-09-04",
+            "landingPage": "https://sata.tubankab.go.id/open-data/dataset/nilai-indeks-spbe-kabupaten-tuban-tahun-2023-13",
+            "modified": "2024-09-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "DINAS KOMUNIKASI DAN INFORMATIKA, STATISTIK DAN PERSANDIAN"
+            },
+            "title": "Nilai Indeks SPBE Kabupaten Tuban Tahun 2023",
+            "description": "",
+            "keyword": [
+                "Pemerintah",
+                "Desa",
+                "Dataset"
+            ]
+        }
+    ]
+}
