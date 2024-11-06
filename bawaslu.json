@@ -1,0 +1,52 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.bawaslu.go.id/api/dataset/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "datasets": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Lita Gustina",
+                "hasEmail": "mailto:noemailprovided@usa.gov"
+            },
+            "description": "Dataset ini berisi data Skor kerawanan Pemilu berdasarkan penyajian wilayah Provinsi dan Kabupaten/Kota untuk melakukan pemetaan dan deteksi dini terhadap berbagai potensi pelanggaran dan kerawanan untuk kesiapan menghadapi pelaksanaan Pemilu dan Pemilihan secara serentak tahun 2024.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bawaslu.go.id/uploads/datasets/1730886513_1.-ikp_2024_kabkota22.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "description": "",
+                    "title": "Indeks Kerawanan Pemilu berdasarkan Kabupaten/Kota"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.bawaslu.go.id/uploads/datasets/1730886513_2.-ikp_2024_prov22.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "description": "",
+                    "title": "Indeks Kerawanan Pemilu berdasarkan Provinsi"
+                }
+            ],
+            "identifier": "a8c2d1e9-3920-419e-bde0-7be0050f80a7",
+            "issued": "2024-11-06",
+            "keyword": [
+                "Pemilu"
+            ],
+            "landingPage": "https://satudata.bawaslu.go.id/dataset/indeks-kerawanan-pemilihan-serentak-tahun-2024-di-provinsi-dki-jakarta",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusat Data dan Informasi"
+            },
+            "theme": [
+                "Kerawanan Pemilu"
+            ],
+            "title": "Indeks Kerawanan Pemilu (IKP) Pemilu dan Pemilihan Serentak 2024",
+            "prioritas_tahun": "2024"
+        }
+    ]
+}
