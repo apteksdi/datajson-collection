@@ -1,0 +1,221 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://portaldata.kkp.go.id/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "rennisca",
+                "hasEmail": "mailto:rennisca@kkp.go.id"
+            },
+            "description": "Tingkat konsumsi masyarakat Indonesia terhadap komoditas ikan yang dikonversi dalam satuan kg/kapita/tahun.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://portaldata.kkp.go.id/sttk/api/statistik/list/angka_konsumsi_ikan?page=1&limit=1000&tahun[]=2023*",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "description": "Tingkat konsumsi masyarakat Indonesia terhadap komoditas ikan yang dikonversi dalam satuan kg/kapita/tahun per provinsi tahun 2023*",
+                    "title": "Angka Konsumsi Ikan Tahun 2023"
+                }
+            ],
+            "identifier": "50f14d07-9b8f-411b-9813-1c7831d1f11a",
+            "issued": "2023-12-29",
+            "keyword": [
+                "angka konsumsi ikan",
+                "Data Prioritas 2023"
+            ],
+            "landingPage": "https://portaldata.kkp.go.id/portals/data-statistik/aki/tbl-dinamis",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusdatin"
+            },
+            "theme": [
+                "Kelautan dan Perikanan"
+            ],
+            "title": "Angka Konsumsi Ikan"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "rennisca",
+                "hasEmail": "mailto:rennisca@kkp.go.id"
+            },
+            "description": "Luas Penanaman Rehabilitas Mangrove oleh KKP",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://portaldata.kkp.go.id/api/portal_local/rhl_mangrove",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "description": "Luas Penanaman Rehabilitas Mangrove oleh KKP Tahun 2023",
+                    "title": "Capaian Luas Penanaman RHL Mangrove oleh KKP Tahun 2023"
+                }
+            ],
+            "identifier": "5AD1FDEB-013B-4389-8624-3C8FD34A481F",
+            "issued": "2023-07-28",
+            "keyword": [
+                "RHL",
+                "Rehabilitasi Hutan dan Lahan",
+                "Mangrove",
+                "Data Prioritas 2023"
+            ],
+            "landingPage": "https://portaldata.kkp.go.id/portals/data-statistik/rhl-mangrove/tbl-dinamis",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusdatin"
+            },
+            "theme": [
+                "Kelautan dan Perikanan"
+            ],
+            "title": "Capaian Luas Penanaman RHL Mangrove oleh KKP"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "rennisca",
+                "hasEmail": "mailto:rennisca@kkp.go.id"
+            },
+            "description": "Estimasi Potensi, Jumlah Tangkapan yang Diperbolehkan, dan Tingkat Pemanfaatan Sumber Daya Ikan di WPPNRI KKP",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://portaldata.kkp.go.id/sttk/api/statistik/potensi?keterangan=Kepmen+KP+19%2F2022",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "description": "Estimasi Potensi, Jumlah Tangkapan yang Diperbolehkan, dan Tingkat Pemanfaatan Sumber Daya Ikan di WPPNRI KKP",
+                    "title": "Estimasi Potensi Sumber Daya Ikan, Jumlah Tangkapan Ikan yang Diperbolehkan, dan Tingkat Pemanfaatan Sumber Daya Ikan di Wilayah Pengelolaan Perikanan Negara Republik Indonesia"
+                }
+            ],
+            "identifier": "62DF9AEC-C97B-4012-9F78-CF612152342C",
+            "issued": "2022-03-29",
+            "keyword": [
+                "Estimasi Potensi",
+                "Data Prioritas 2023"
+            ],
+            "landingPage": "https://portaldata.kkp.go.id/portals/data-statistik/jtb-potensi-sdi/tbl-dinamis",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusdatin"
+            },
+            "theme": [
+                "Kelautan dan Perikanan"
+            ],
+            "title": "Estimasi Potensi, Jumlah Tangkapan yang Diperbolehkan, dan Tingkat Pemanfaatan Sumber Daya Ikan di WPPNRI KKP"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "rennisca",
+                "hasEmail": "mailto:rennisca@kkp.go.id"
+            },
+            "description": "Banyaknya kapal yang digunakan untuk menangkap ikan, termasuk menampung, menyimpan, mendinginkan, dan/atau mengawetkan ikan, serta memiliki alat penangkapan ikan",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://portaldata.kkp.go.id/sttk/api/statistik/list/perikanan_tangkap_prov?page=1&limit=10&tahun[]=2023&kolom=tahun&sorto=DESC&sortc=tahun",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "description": "Banyaknya kapal yang digunakan untuk menangkap ikan, termasuk menampung, menyimpan, mendinginkan, dan/atau mengawetkan ikan, serta memiliki alat penangkapan ikan",
+                    "title": "Jumlah Kapal Perikanan Tangkap"
+                }
+            ],
+            "identifier": "29C130EE-7D6C-4A1E-9087-17B54C7A80E5",
+            "issued": "2023-02-28",
+            "keyword": [
+                "Kapal Penangkap Ikan",
+                "Data Prioritas 2023"
+            ],
+            "landingPage": "https://portaldata.kkp.go.id/portals/data-statistik/jumlah_kapal/tbl-dinamis",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusdatin"
+            },
+            "theme": [
+                "Kelautan dan Perikanan"
+            ],
+            "title": "Jumlah Kapal Perikanan Tangkap Tahun 2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "rennisca",
+                "hasEmail": "mailto:rennisca@kkp.go.id"
+            },
+            "description": "banyaknya orang atau badan usaha, baik yang berbentuk badan hukum maupun bukan badan hukum yang taat terhadap ketentuan peraturan perundang-undangan yang berlaku di bidang perikanan dan kelautan dibandingkan dengan jumlah pelaku usaha secara keseluruhan.",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://portaldata.kkp.go.id/api/portal_local/pengawas_kusuka_taat",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "description": "banyaknya orang atau badan usaha, baik yang berbentuk badan hukum maupun bukan badan hukum yang taat terhadap ketentuan peraturan perundang-undangan yang berlaku di bidang perikanan dan kelautan dibandingkan dengan jumlah pelaku usaha secara keseluruhan Tahun 2022",
+                    "title": "Jumlah Pelaku Usaha Yang Taat Terhadap Ketentuan Peraturan Perundang-Undangan Yang Berlaku Di Bidang Perikanan Dan Kelautan, Dibandingkan Dengan Jumlah Pelaku Usaha Tahun Berjalan"
+                }
+            ],
+            "identifier": "BFBFC2DB-C83E-4CA3-98EB-7FABB2F513B5",
+            "issued": "2023-01-16",
+            "keyword": [
+                "Pelaku Usaha Patuh",
+                "Data Prioritas 2023"
+            ],
+            "landingPage": "https://portaldata.kkp.go.id/portals/data-statistik/pengawas-kusuka/tbl-dinamis",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusdatin"
+            },
+            "theme": [
+                "Kelautan dan Perikanan"
+            ],
+            "title": "Persentase Kepatuhan Pelaku Usaha Tahun 2022"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "rennisca",
+                "hasEmail": "mailto:rennisca@kkp.go.id"
+            },
+            "description": "Jumlah Capaian Volume Produk Olahan Hasil Perikanan Berdaya Saing Yang Terkini",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://portaldata.kkp.go.id/api/statistik/list_vpo?tahun=2023&limit=1000&page=1&grouping=%22provinsi%22%2C%22jenis_kegiatan_olahan%22%2C%22skala_usaha_ket%22%2C%22tahun%22",
+                    "mediaType": "application/json",
+                    "format": "json",
+                    "description": "Jumlah Capaian Volume Produk Olahan Hasil Perikanan Berdaya Saing Yang Terkini",
+                    "title": "Jumlah Produksi Olahan Ikan"
+                }
+            ],
+            "identifier": "109386D7-5F82-4BCF-BD33-D6B75C9BA23C",
+            "issued": "2024-01-31",
+            "keyword": [
+                "Produk Olahan Ikan",
+                "Data Prioritas 2023"
+            ],
+            "landingPage": "https://portaldata.kkp.go.id/datainsight/produk-olahan",
+            "modified": "",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Pusdatin"
+            },
+            "theme": [
+                "Kelautan dan Perikanan"
+            ],
+            "title": "Volume Produk Olahan Per Provinsi Tahun 2023"
+        }
+    ]
+}
