@@ -274,6 +274,41 @@
             },
             "title": "Anggota Perpustakaan",
             "description": "Anggota Perpustakaan"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/21/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Ijin KKN/ Survei / Penelitian"
+                }
+            ],
+            "identifier": "31190bdb-8360-4ae6-a4fd-b71a45d0a332",
+            "issued": "2023-08-14T03:17:08.000000Z",
+            "keyword": [
+                "Ijin",
+                "KKN",
+                "Survei",
+                "",
+                "Penelitian"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/21",
+            "modified": "2023-08-14T03:17:08.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Badan Kesatuan Bangsa dan Politik"
+            },
+            "title": "Ijin KKN/ Survei / Penelitian",
+            "description": "Ijin KKN/ Survei / Penelitian"
         }
     ]
 }
