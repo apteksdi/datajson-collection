@@ -1,0 +1,279 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://dasatama.magetan.go.id/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/5/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Guru PAUD (Pendidikan Terakhir)"
+                }
+            ],
+            "identifier": "d40b9c72-1aec-4d27-812d-a7f176259c9c",
+            "issued": "2023-06-22T01:54:47.000000Z",
+            "keyword": [
+                "Guru",
+                "PAUD",
+                "Pendidikan",
+                "Terakhir"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/5",
+            "modified": "2024-04-22T01:47:15.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan, Kepemudaan, dan Olah Raga"
+            },
+            "title": "Guru PAUD (Pendidikan Terakhir)",
+            "description": "Guru PAUD (Pendidikan Terakhir)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/6/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Guru SD (Pendidikan Terakhir)"
+                }
+            ],
+            "identifier": "bdef4615-fe95-420f-9938-c1e561246f73",
+            "issued": "2023-06-22T01:56:06.000000Z",
+            "keyword": [
+                "Guru",
+                "SD",
+                "Pendidikan",
+                "Terakhir"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/6",
+            "modified": "2024-04-22T01:49:00.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan, Kepemudaan, dan Olah Raga"
+            },
+            "title": "Guru SD (Pendidikan Terakhir)",
+            "description": "Guru SD (Pendidikan Terakhir)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/7/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Guru SMP (Pendidikan Terakhir)"
+                }
+            ],
+            "identifier": "bce9b226-a5a1-4c35-99e6-3eb17056cb8a",
+            "issued": "2023-06-22T01:57:32.000000Z",
+            "keyword": [
+                "Guru",
+                "SMP",
+                "Pendidikan",
+                "Terakhir"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/7",
+            "modified": "2024-04-22T01:56:49.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan, Kepemudaan, dan Olah Raga"
+            },
+            "title": "Guru SMP (Pendidikan Terakhir)",
+            "description": "Guru SMP (Pendidikan Terakhir)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/8/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Guru Pendidikan Kesetaraan (Pendidikan Terakhir)"
+                }
+            ],
+            "identifier": "e87a2220-ad51-490f-a886-11c923323f3d",
+            "issued": "2023-06-22T01:58:36.000000Z",
+            "keyword": [
+                "Guru",
+                "Pendidikan",
+                "Kesetaraan",
+                "Pendidikan",
+                "Terakhir"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/8",
+            "modified": "2024-04-22T01:55:41.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Pendidikan, Kepemudaan, dan Olah Raga"
+            },
+            "title": "Guru Pendidikan Kesetaraan (Pendidikan Terakhir)",
+            "description": "Guru Pendidikan Kesetaraan (Pendidikan Terakhir)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/9/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah Bayi Lahir BBLR"
+                }
+            ],
+            "identifier": "ea275620-a59f-4410-9cfa-8ead217b8dcf",
+            "issued": "2023-06-22T02:06:20.000000Z",
+            "keyword": [
+                "Jumlah",
+                "Bayi",
+                "Lahir",
+                "BBLR"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/9",
+            "modified": "2023-06-22T02:13:59.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "title": "Jumlah Bayi Lahir BBLR",
+            "description": "Jumlah Bayi Lahir BBLR"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/10/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah Desa/Kelurahan (Stop BABS)"
+                }
+            ],
+            "identifier": "cd0512e7-c45d-41c4-b691-34012b46bc11",
+            "issued": "2023-06-22T02:09:21.000000Z",
+            "keyword": [
+                "Jumlah",
+                "DesaKelurahan",
+                "Stop",
+                "BABS"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/10",
+            "modified": "2023-06-22T02:13:28.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Kesehatan"
+            },
+            "title": "Jumlah Desa/Kelurahan (Stop BABS)",
+            "description": "Jumlah Desa/Kelurahan (Stop BABS)"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/16/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Koleksi Buku Perpustakaan"
+                }
+            ],
+            "identifier": "6b57a5a0-617a-4d72-b6d2-ed5758b442f4",
+            "issued": "2023-08-14T02:54:30.000000Z",
+            "keyword": [
+                "Koleksi",
+                "Buku",
+                "Perpustakaan"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/16",
+            "modified": "2023-10-17T00:51:18.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Arsip dan Perpustakaan"
+            },
+            "title": "Koleksi Buku Perpustakaan",
+            "description": "Koleksi Buku Perpustakaan"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Wali Data Kabupaten Magetan",
+                "hasEmail": "mailto:kominfo@magetan.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://dasatama.magetan.go.id/data/17/template",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Anggota Perpustakaan"
+                }
+            ],
+            "identifier": "84646e0b-b30a-44d8-8c4b-21344ced6341",
+            "issued": "2023-08-14T03:01:38.000000Z",
+            "keyword": [
+                "Anggota",
+                "Perpustakaan"
+            ],
+            "landingPage": "https://dasatama.magetan.go.id/detail/17",
+            "modified": "2023-08-14T03:02:46.000000Z",
+            "accrualPeriodicity": "tahunan",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Dinas Arsip dan Perpustakaan"
+            },
+            "title": "Anggota Perpustakaan",
+            "description": "Anggota Perpustakaan"
+        }
+    ]
+}
