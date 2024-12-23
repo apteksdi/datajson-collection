@@ -1,0 +1,1034 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://satudata.kemenpora.go.id/data.json",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/5/0/jumlah-atlet-elite-olahragawan-andalan-nasional-2023.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah Atlet Elite Olahragawan Andalan Nasional 2023"
+                }
+            ],
+            "identifier": "cfe7513a-b362-4b10-a133-34e30fb69fc0",
+            "issued": "2023-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/2/jumlah-atlet-elite-olahragawan-andalan-nasional-2023",
+            "modified": "2024-11-08",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah Atlet Elite Olahragawan Andalan Nasional 2023",
+            "description": "Jumlah Atlet Elite Olahragawan Andalan Nasional",
+            "keyword": "olahraga,data"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/9/jumlah-kebijakan-turunan-uu-keolahragaan-desain-besar-olahraga-nasional-yang-disusun-dan-dimanfaatkan.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah kebijakan turunan UU Keolahragaan, Desain Besar Olahraga Nasional dan terkait Manajemen Talenta Nasional yang disusun dan dimanfaatkan Tahun 2023"
+                }
+            ],
+            "identifier": "dfc88a49-2a43-4bee-bb3f-23ca46550e70",
+            "issued": "2023-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/21/jumlah-kebijakan-turunan-uu-keolahragaan-desain-besar-olahraga-nasional-dan-terkait-manajemen-talenta-nasional-yang-disusun-dan-dimanfaatkan-tahun-2023",
+            "modified": "2024-11-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Biro Hukum dan Kerja Sama"
+            },
+            "title": "Jumlah kebijakan turunan UU Keolahragaan, Desain Besar Olahraga Nasional dan terkait Manajemen Talenta Nasional yang disusun dan dimanfaatkan Tahun 2023",
+            "description": "Jumlah kebijakan turunan UU Keolahragaan, Desain Besar Olahraga Nasional dan terkait Manajemen Talenta Nasional yang disusun dan dimanfaatkan.",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/7/data-indeks-pembangunan-pemuda-2022.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Pemuda (IPP) Tahun 2022"
+                }
+            ],
+            "identifier": "1f13576d-1dd9-4508-81dd-4fe505c40fc5",
+            "issued": "2023-09-08",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/22/indeks-pembangunan-pemuda-ipp-tahun-2022",
+            "modified": "2024-11-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Kemitraan Pemuda"
+            },
+            "title": "Indeks Pembangunan Pemuda (IPP) Tahun 2022",
+            "description": "Indeks Pembangunan Pemuda adalah sebuah instrumen untuk memberikan gambaran kemajuan pembangunan pemuda di Indonesia. Indeks Pembangunan Pemuda (IPP) merupakan indeks komposit yang memberikan gambaran terhadap tiga lapisan domain pembangunan pemuda. Ketiga hal tersebut terdiri dari pembangunan individu, pembangunan penghidupan dan kesejahteraan, serta partisipasi dalam berbagai bidang kehidupan. Dalam kerangka penyusunan IPP, aspek aspek pembangunan pemuda tersebut dikelompokkan ke dalam 5 domain dengan 15 indikator penyusunnya. Kelima domain tersebut adalah (i) domain pendidikan, (ii) domain kesehatan dan kesejahteraan, (iii) domain lapangan dan kesempatan kerja, (iv) domain partisipasi dan kepemimpinan, serta (v) domain gender dan diskriminasi.",
+            "keyword": "pemuda,indeks,kepemudaan,2022"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/2/1sdi-menurut-provinsi-2023.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/3/2indeks-sdm-menurut-provinsi-2023.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/4/3indeks-ruang-terbuka-olahraga-menurut-provinsi-2023.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/5/4indeks-literasi-fisik-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/6/5indeks-partisipasi-olahraga-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/7/6indeks-kebugaran-jasmani-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/8/7indeks-kesehatan-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/2/9/8indeks-perkembangan-personal-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/3/0/9indeks-performa-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/3/1/10indeks-ekonomi-olahraga-menurut-provinsi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023"
+                }
+            ],
+            "identifier": "afb8c741-081b-4b8f-8d3d-5d17ad18a45e",
+            "issued": "2023-12-20",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/23/indeks-pembangunan-olahraga-ipo-tahun-2023",
+            "modified": "2024-11-07",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahraga Masyarakat"
+            },
+            "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2023",
+            "description": "",
+            "keyword": "indeks,olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/5/2/indeks-pembangunan-pemuda-ipp-tahun-2021.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Pemuda (IPP) Tahun 2021"
+                }
+            ],
+            "identifier": "616b67e5-9898-4783-9178-db029934b668",
+            "issued": "2022-12-04",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/24/indeks-pembangunan-pemuda-ipp-tahun-2021",
+            "modified": "2024-11-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Kemitraan Pemuda"
+            },
+            "title": "Indeks Pembangunan Pemuda (IPP) Tahun 2021",
+            "description": "Indeks Pembangunan Pemuda adalah sebuah instrumen untuk memberikan gambaran kemajuan pembangunan pemuda di Indonesia. Indeks Pembangunan Pemuda (IPP) merupakan indeks komposit yang memberikan gambaran terhadap tiga lapisan domain pembangunan pemuda. Ketiga hal tersebut terdiri dari pembangunan individu, pembangunan penghidupan dan kesejahteraan, serta partisipasi dalam berbagai bidang kehidupan. Dalam kerangka penyusunan IPP, aspek aspek pembangunan pemuda tersebut dikelompokkan ke dalam 5 domain dengan 15 indikator penyusunnya. Kelima domain tersebut adalah (i) domain pendidikan, (ii) domain kesehatan dan kesejahteraan, (iii) domain lapangan dan kesempatan kerja, (iv) domain partisipasi dan kepemimpinan, serta (v) domain gender dan diskriminasi.",
+            "keyword": "kepemudaan,IPP,2021,indeks,pemuda"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/0/7-jumlah-tenaga-pendukung-olimpik_paralimpik-yang-bersertifikat-nasional-_-internasional.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah tenaga keolahragaan Olimpik/Paralimpik yang bersertifikat nasional / internasional Tahun 2023"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/1/7-jumlah-tenaga-keolahragaan-pelatih-dan-wasit-juri-olimpik_paralimpik-yang-bersertifikat-nasional-_-internasional.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah tenaga keolahragaan Olimpik/Paralimpik yang bersertifikat nasional / internasional Tahun 2023"
+                }
+            ],
+            "identifier": "da4249e4-9ae3-4bdb-b4ee-854e1a37d2ff",
+            "issued": "2023-12-30",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/25/jumlah-tenaga-keolahragaan-olimpik-paralimpik-yang-bersertifikat-nasional-internasional-tahun-2023",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Tenaga dan Organisasi Keolahragaan"
+            },
+            "title": "Jumlah tenaga keolahragaan Olimpik/Paralimpik yang bersertifikat nasional / internasional Tahun 2023",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/2/4-atlet-yang-lolos-kualifikasi-olimpik-dan-paralimpik.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": " Atlet yang lolos Kualifikasi Olimpik dan Paralimpik"
+                }
+            ],
+            "identifier": "11b9d15b-72c2-44aa-812e-4cfe36e7e44f",
+            "issued": "2024-09-01",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/26/atlet-yang-lolos-kualifikasi-olimpik-dan-paralimpik",
+            "modified": "2024-11-05",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": " Atlet yang lolos Kualifikasi Olimpik dan Paralimpik",
+            "description": "Atlet yang lolos Kualifikasi Olimpik dan Paralimpik",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/5/jumlah-perolehan-medali-emas-perak-dan-perunggu-pada-olympic-games-serta-paralympic-games-2020.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah perolehan medali emas, perak dan perunggu serta peringkat pada Olympic Games serta  Paralympic Games 2020"
+                },
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/6/peringkat-pada-olympic-games-serta-paralympic-games-2020.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah perolehan medali emas, perak dan perunggu serta peringkat pada Olympic Games serta  Paralympic Games 2020"
+                }
+            ],
+            "identifier": "b9c0b76d-9e93-460a-80c6-7bdb5418a78e",
+            "issued": "2023-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/27/jumlah-perolehan-medali-emas-perak-dan-perunggu-serta-peringkat-pada-olympic-games-serta-paralympic-games-2020",
+            "modified": "2024-11-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah perolehan medali emas, perak dan perunggu serta peringkat pada Olympic Games serta  Paralympic Games 2020",
+            "description": "Jumlah perolehan medali emas, perak dan perunggu serta peringkat pada Olympic Games serta Paralympic Games 2020",
+            "keyword": "olahraga,medali,olimpiade,paralimpiade"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/4/8/jumlah-fasilitasi-penyelenggaraan-kejuaraan-olahraga-prestasi.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Jumlah fasilitasi penyelenggaraan kejuaraan olahraga prestasi tingkat nasional berbasis cabang olahraga Olimpiade dan potensi daerah"
+                }
+            ],
+            "identifier": "078fc0d8-8f3c-4fc9-876d-2177806ccac4",
+            "issued": "2023-12-13",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/28/jumlah-fasilitasi-penyelenggaraan-kejuaraan-olahraga-prestasi-tingkat-nasional-berbasis-cabang-olahraga-olimpiade-dan-potensi-daerah",
+            "modified": "2024-11-08",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah fasilitasi penyelenggaraan kejuaraan olahraga prestasi tingkat nasional berbasis cabang olahraga Olimpiade dan potensi daerah",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "470872af-4f1e-41c6-970d-04013455bc0f",
+            "issued": "2023-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/30/persentase-provinsi-yang-melakukan-penyusunan-rad-kepemudaan",
+            "modified": "2024-11-08",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Kemitraan Pemuda"
+            },
+            "title": "Persentase provinsi yang melakukan penyusunan RAD kepemudaan",
+            "description": "",
+            "keyword": ""
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "e5fa9898-6c8d-49f4-b0be-1c3396461710",
+            "issued": "2023-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/31/persentase-tim-koordinasi-lintas-sektor-layanan-kepemudaan-di-tingkat-pusat-dan-provinsi-yang-terbentuk",
+            "modified": "2024-11-08",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Kemitraan Pemuda"
+            },
+            "title": "Persentase tim koordinasi lintas sektor layanan kepemudaan di tingkat pusat dan provinsi yang terbentuk",
+            "description": "",
+            "keyword": ""
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "dd5940ab-3b03-46df-966e-e55f54634029",
+            "issued": "2023-12-20",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/32/persentase-olahragawan-andalan-nasional-pada-cabang-olahraga-olimpik-yang-merupakan-alumni-pplp-dan-sekolah-khusus-keberbakatan-olahraga-sko",
+            "modified": "2024-11-08",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase olahragawan andalan nasional pada cabang olahraga Olimpik yang merupakan alumni PPLP dan Sekolah Khusus/Keberbakatan Olahraga (SKO)",
+            "description": "",
+            "keyword": "olimpiade,olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "cff1ab42-76b0-46f8-9814-4cd1a87bc0bc",
+            "issued": "2023-12-20",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/33/persentase-olahragawan-olimpik-dan-paralimpik-di-sko-yang-menjadi-olahragawan-andalan-nasional-tahun-2023",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase olahragawan Olimpik dan Paralimpik di SKO yang menjadi olahragawan andalan nasional Tahun 2023",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "28c00bd1-be9e-421e-ac80-89d131e7ff0b",
+            "issued": "2023-12-20",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/34/persentase-olahragawan-olimpik-di-pplp-dan-pplm-yang-menjadi-olahragawan-andalan-nasional-tahun-2023",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase olahragawan Olimpik di PPLP dan PPLM yang menjadi olahragawan andalan nasional Tahun 2023",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "993610cf-430e-4312-9592-23060d871647",
+            "issued": "2024-05-20",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/35/jumlah-olahragawan-andalan-nasional-yang-lolos-kualifikasi-olimpiade-paralimpiade-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah olahragawan andalan nasional yang lolos kualifikasi Olimpiade/Paralimpiade Tahun 2024",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "bf04dc4e-105e-4377-a25e-20095db510aa",
+            "issued": "2023-09-17",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/36/jumlah-prasarana-olahraga-yang-sesuai-standar-tahun-2023",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Standardisasi, Akreditasi, Sertifikasi,Prasarana, dan SaranaOlahraga"
+            },
+            "title": "Jumlah prasarana olahraga yang sesuai standar  Tahun 2023",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/5/4/indeks-pembangunan-olahraga-tahun-2022.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2022"
+                }
+            ],
+            "identifier": "d8637c00-c6a3-4b26-84d7-814db8057767",
+            "issued": "2022-12-22",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/37/indeks-pembangunan-olahraga-ipo-tahun-2022",
+            "modified": "2024-11-11",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahraga Masyarakat"
+            },
+            "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2022",
+            "description": "Indeks Pembangunan Olahraga atau Sport Development Index (SDI) adalah indeks gabungan yang mencerminkan keberhasilan pembangunan olahraga berdasarkan 9 (sembilan) dimensi dasar yaitu: sumber daya manusia (SDM) olahraga, ruang terbuka, literasi fisik, partisipasi, kebugaran, perkembangan personal, kesehatan, ekonomi, dan performa.",
+            "keyword": "indeks,olahraga,IPO,2022"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "downloadURL": "https://satudata.kemenpora.go.id/cdn/uploads/fileprodusendata/5/6/indeks-pembangunan-pemuda-tahun-2023.xlsx",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "xlsx",
+                    "title": "Indeks Pembangunan Pemuda (IPP) Tahun 2023"
+                }
+            ],
+            "identifier": "b20d47b6-ddbd-4430-aa6e-6f12dbcb4c05",
+            "issued": "2024-08-05",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/39/indeks-pembangunan-pemuda-ipp-tahun-2023",
+            "modified": "2024-11-15",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Kemitraan Pemuda"
+            },
+            "title": "Indeks Pembangunan Pemuda (IPP) Tahun 2023",
+            "description": "Indeks Pembangunan Pemuda (IPP) hadir sebagai ukuran yang dapat menggambarkan capaian pembangunan pemuda di Indonesia. IPP terdiri dari 5 domain pembangunan yang di dalamnya memuat 15 indikator pembangunan pemuda. Kelima domain tersebut adalah (1) domain pendidikan, (2) domain kesehatan dan kesejahteraan, (3) domain lapangan dan kesempatan kerja, (4) domain partisipasi dan kepemimpinan, serta (5) domain gender dan diskriminasi. (Dokumen Metadata Indikator RKP 2023 - EP4)",
+            "keyword": "indeks,pemuda,IPP,2023"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "effc17c4-24da-49e6-adbb-21475a5aa981",
+            "issued": "2024-09-02",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/40/jumlah-atlet-elit-nasional-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah atlet elit nasional Tahun 2024",
+            "description": "Jumlah atlet elit nasional",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "ff986bb9-5d06-4954-b70a-3ebba13065a1",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/49/jumlah-kebijakan-turunan-uu-keolahragaan-desain-besar-olahraga-nasional-dan-terkait-manajemen-talenta-nasional-yang-disusun-dan-dimanfaatkan-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Biro Hukum dan Kerja Sama"
+            },
+            "title": "Jumlah kebijakan turunan UU Keolahragaan, Desain Besar Olahraga Nasional dan terkait Manajemen Talenta Nasional yang disusun dan dimanfaatkan Tahun 2024",
+            "description": "Jumlah kebijakan turunan UU Keolahragaan, Desain Besar Olahraga Nasional dan terkait Manajemen Talenta Nasional yang disusun dan dimanfaatkan.",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "48b504f6-73ff-4e21-90a7-bf02999be4a1",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/50/jumlah-pemuda-yang-terfasilitasi-sebagai-kader-kewirausahaan-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Kewirausahaan Pemuda"
+            },
+            "title": "Jumlah pemuda yang terfasilitasi sebagai kader kewirausahaan Tahun 2024",
+            "description": "Jumlah pemuda yang terfasilitasi sebagai kader kewirausahaan",
+            "keyword": "pemuda,kepemudaan"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "c7a8deba-5dc5-4a8d-85a3-fb68f39a38ab",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/51/persentase-penduduk-usia-10-tahun-ke-atas-yang-berolahraga-dalam-seminggu-terakhir-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahraga Masyarakat"
+            },
+            "title": "Persentase penduduk usia 10 tahun ke atas yang berolahraga dalam seminggu terakhir Tahun 2024",
+            "description": "Persentase dari indikator partisipasi aktif merujuk pada angka partisipasi anggota massyarakat berusia 10 sampai 60 tahun yang melakukan aktifitas olahraga minimal 3 kali perminggu",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "9d0a1c99-4331-447b-b9ce-c92bd3dbcf5d",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/52/indeks-pembangunan-olahraga-ipo-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahraga Masyarakat"
+            },
+            "title": "Indeks Pembangunan Olahraga (IPO) Tahun 2024",
+            "description": "indeks gabungan yang mencerminkan keberhasilan pembangunan olahraga berdasarkan 9 dimensi dasar, yaitu sumber daya manusia olahraga, ruang terbuka, literasi fisik, kebugaran, perkembangan personal, kesehatan, ekonomi, performa dan partisipasi.",
+            "keyword": "indeks,olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "6377470f-cf20-42bd-a5f1-438d902b6bba",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/53/peringkat-pada-paralympic-games-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Peringkat pada Paralympic Games Tahun 2024",
+            "description": "",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "23594958-952b-4be8-8686-efa693513269",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/54/peringkat-pada-olympic-games-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Peringkat pada Olympic Games Tahun 2024",
+            "description": "Peringkat pada Olympic Games Tahun 2024",
+            "keyword": "olimpiade,olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "5b1a172b-6143-49ca-96c9-407ef2358252",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/55/jumlah-atlet-elit-nasional-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah atlet elit nasional Tahun 2024",
+            "description": "Jumlah atlet elit nasional Tahun 2024",
+            "keyword": "olahraga,atlet"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "1feabf88-fd52-43a1-87a5-01ab28496499",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/56/jumlah-atlet-elit-junior-nasional-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah atlet elit junior nasional Tahun 2024",
+            "description": "Jumlah atlet elit junior nasional Tahun 2024",
+            "keyword": "olahraga,atlet"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "8511f901-1c77-497e-9b85-a816f214869c",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/57/jumlah-olahragawan-andalan-nasional-yang-lolos-kualifikasi-paralimpiade-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah olahragawan andalan nasional yang lolos kualifikasi Paralimpiade Tahun 2024",
+            "description": "Jumlah olahragawan andalan nasional yang lolos kualifikasi Paralimpiade Tahun 2024",
+            "keyword": "olahraga,atlet"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "965208c6-deb6-47ab-b174-1e816711cb12",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/58/jumlah-olahragawan-andalan-nasional-yang-lolos-kualifikasi-olimpiade-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah olahragawan andalan nasional yang lolos kualifikasi Olimpiade Tahun 2024",
+            "description": "Jumlah olahragawan andalan nasional yang lolos kualifikasi Olimpiade Tahun 2024",
+            "keyword": "olahraga,olimpiade,atlet"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "a9e8ffdc-e8ca-4182-b381-eed4d816a3b9",
+            "issued": "2024-12-04",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/59/persentase-olahragawan-muda-cabang-olahraga-olimpik-pada-olahragawan-andalan-nasional-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Persentase olahragawan muda cabang olahraga Olimpik pada olahragawan andalan nasional Tahun 2024",
+            "description": "Persentase olahragawan muda cabang olahraga Olimpik pada olahragawan andalan nasional Tahun 2024",
+            "keyword": "olahraga,atlet"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "20187450-4364-4e62-b482-a4d078505a1e",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/60/jumlah-perolehan-medali-emas-pada-paralympic-games-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah perolehan medali emas pada Paralympic Games Tahun 2024",
+            "description": "Indikator ini menyatakan jumlah medali emas yang diperoleh dalam ajang kompetisi olahraga internasional untuk atlet penyandang disabilitas",
+            "keyword": "atlet,paralimpiade,medali,olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "6814a706-f862-4fae-9f29-90940265c1f2",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/61/jumlah-perolehan-medali-emas-pada-olympic-games-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Jumlah perolehan medali emas pada Olympic Games Tahun 2024",
+            "description": "Indikator ini menyatakan jumlah medali emas yang diperoleh dalam pertandingan olimpiade",
+            "keyword": "medali,olimpiade,olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "fa6b1d4c-2aec-48e7-8dfd-bb35e59531ae",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/62/persentase-olahragawan-andalan-nasional-pada-cabang-olahraga-olimpik-yang-merupakan-alumni-pplm-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase olahragawan andalan nasional pada cabang olahraga Olimpik yang merupakan alumni PPLM Tahun 2024",
+            "description": "Persentase olahragawan andalan nasional pada cabang olahraga Olimpik yang merupakan alumni PPLM Tahun 2024",
+            "keyword": "atlet,olahraga,PPLM"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "13b0bcbe-cc8b-41f0-8770-0db320caff88",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/63/persentase-olahragawan-andalan-nasional-pada-cabang-olahragawan-paralimpik-yang-merupakan-alumni-sekolah-khusus-olahraga-disabilitas-indonesia-skodi-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase olahragawan andalan nasional pada cabang olahragawan Paralimpik yang merupakan alumni Sekolah Khusus Olahraga Disabilitas Indonesia (SKODI) Tahun 2024",
+            "description": "Persentase olahragawan andalan nasional pada cabang olahragawan Paralimpik yang merupakan alumni Sekolah Khusus Olahraga Disabilitas Indonesia (SKODI) Tahun 2024",
+            "keyword": "olahraga,atlet"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "0b88a0f7-bcc3-4433-9f04-628bd2929739",
+            "issued": "2025-01-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/64/persentase-pplpd-di-tingkat-kabupaten-kota-yang-telah-terstandardisasi-dan-fokus-membina-cabang-olahraga-prioritas-sesuai-desain-besar-olahraga-nasional-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase PPLPD di tingkat kabupaten/kota yang telah terstandardisasi dan fokus membina cabang olahraga prioritas sesuai Desain Besar Olahraga Nasional Tahun 2024",
+            "description": "Persentase PPLPD di tingkat kabupaten/kota yang telah terstandardisasi dan fokus membina cabang olahraga prioritas sesuai Desain Besar Olahraga Nasional Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "5a272899-42ee-49ca-beb3-4cd27ab6584f",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/65/jumlah-talenta-muda-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Jumlah talenta muda Tahun 2024",
+            "description": "Jumlah calon olahragawan yang memiliki potensi berprestasi ditingkat internasional Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "cc15eea9-b48b-49c7-b14b-559803829e2f",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/66/jumlah-sentra-pembinaan-yang-telah-beroperasi-di-daerah-sesuai-desain-besar-olahraga-tahun-2024",
+            "modified": "2024-12-04",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Jumlah sentra pembinaan yang telah beroperasi di daerah sesuai Desain Besar Olahraga Tahun 2024",
+            "description": "Jumlah sentra pembinaan yang telah beroperasi di daerah sesuai Desain Besar Olahraga Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "5b294149-52ea-4a13-ad34-0057d25c0416",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/67/persentase-olahragawan-andalan-nasional-pada-cabang-olahraga-olimpik-yang-merupakan-alumni-pplp-dan-sekolah-khusus-olahraga-sko-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Sentra Pembinaan Olahraga Prestasi"
+            },
+            "title": "Persentase olahragawan andalan nasional pada cabang olahraga Olimpik yang merupakan alumni PPLP dan Sekolah Khusus Olahraga (SKO) Tahun 2024",
+            "description": "Persentase olahragawan andalan nasional pada cabang olahraga Olimpik yang merupakan alumni PPLP dan Sekolah Khusus Olahraga (SKO) Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "8061e643-5f42-4545-a9f1-4b7e620ca04e",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/68/jumlah-prasarana-olahraga-berbasis-cabang-olahraga-olimpiade-dan-paralimpiade-ramah-difabel-yang-dibangun-direhabilitasi-dan-atau-direnovasi-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Standardisasi, Akreditasi, Sertifikasi,Prasarana, dan SaranaOlahraga"
+            },
+            "title": "Jumlah prasarana olahraga berbasis cabang olahraga Olimpiade dan Paralimpiade ramah difabel yang dibangun, direhabilitasi dan/atau direnovasi Tahun 2024",
+            "description": "Jumlah prasarana olahraga berbasis cabang olahraga Olimpiade dan Paralimpiade ramah difabel yang dibangun, direhabilitasi dan/atau direnovasi Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "e2ad4404-e8de-44ab-93a6-8e68b7110ad1",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/69/jumlah-organisasi-keolahragaan-berbasis-olimpik-yang-memenuhi-standar-minimal-keolahragaan-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Tenaga dan Organisasi Keolahragaan"
+            },
+            "title": "Jumlah organisasi keolahragaan berbasis Olimpik yang memenuhi standar minimal keolahragaan Tahun 2024",
+            "description": "Jumlah organisasi keolahragaan berbasis Olimpik yang memenuhi standar minimal keolahragaan Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "fdf33b33-0ee9-42e4-aa63-18abb44a7743",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/70/jumlah-pelatih-olahraga-yang-bersertifikat-internasional-dan-nasional-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Tenaga dan Organisasi Keolahragaan"
+            },
+            "title": "Jumlah pelatih olahraga yang bersertifikat internasional dan nasional Tahun 2024",
+            "description": "Jumlah pelatih olahraga yang bersertifikat internasional dan nasional Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "6479ae48-6e64-44c0-b25a-1f8e67a4e607",
+            "issued": "2024-12-31",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/71/jumlah-tenaga-keolahragaan-olimpik-paralimpik-yang-bersertifikat-nasional-tahun-2024",
+            "modified": "2024-12-09",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Tenaga dan Organisasi Keolahragaan"
+            },
+            "title": "Jumlah tenaga keolahragaan Olimpik/Paralimpik yang bersertifikat nasional Tahun 2024",
+            "description": "Jumlah tenaga keolahragaan Olimpik/Paralimpik yang bersertifikat nasional Tahun 2024",
+            "keyword": "olahraga"
+        },
+        {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+                "fn": "Data dan Informasi Kementerian Pemuda dan Olahraga (Kemenpora)",
+                "hasEmail": "datin@kemenpora.go.id"
+            },
+            "distribution": [],
+            "identifier": "f264a07f-90b3-4b3f-95a2-a5f3a0059f4f",
+            "issued": "2024-12-25",
+            "landingPage": "https://satudata.kemenpora.go.id/dataset/detail/72/tester",
+            "modified": "2024-12-05",
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Asisten Deputi Olahragawan Andalan"
+            },
+            "title": "Tester",
+            "description": "Muncul",
+            "keyword": "basket"
+        }
+    ]
+}
