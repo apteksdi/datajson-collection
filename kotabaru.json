@@ -1,0 +1,108 @@
+{
+    "@id": "https://satudata.kotabarukab.go.id/apisatudata/api/dataset/data.json",
+    "@type": "dcat:Catalog",
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+      {
+        "@type": "dcat:Dataset",
+        "title": "Panjang Jaringan Jalan Berdasarkan Kondisi Kabupaten Kotabaru",
+        "accessLevel": "public",
+        "description": "",
+        "keyword": [
+          "Pembangunan"
+        ],
+        "theme": "Pembangunan",
+        "issued": "2025-01-06 16:13:27",
+        "landingPage": "https://satudata.kotabarukab.go.id/statistik_sektoral",
+        "accrualPeriodicity": "",
+        "contactPoint": {
+          "fn": "Badan Perencanaan Pembangunan Daerah Kabupaten Kotabaru",
+          "hasEmail": "mailto:bappeda@kotabarukab.go.id"
+        },
+        "identifier": "ec493330542db5a40f59c62d0ef6137145638364",
+        "publisher": {
+          "@type": "org:Organization",
+          "name": "DINAS PEKERJAAN UMUM DAN PENATAAN RUANG Kabupaten Kotabaru"
+        },
+        "distribution": [
+          {
+            "@type": "dcat:Distribution",
+            "title": "Panjang Jaringan Jalan Berdasarkan Kondisi Kabupaten Kotabaru",
+            "accessURL": "https://satudata.kotabarukab.go.id/statistik_sektoral/download/3233",
+            "downloadURL": "https://satudata.kotabarukab.go.id/statistik_sektoral/download/3233",
+            "description": "",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "format": "xlsx"
+          }
+        ]
+      },
+      {
+        "@type": "dcat:Dataset",
+        "title": "Jumlah dan Rasio Rumah Sakit, Puskesmas, Poliklinik dan Pustu*",
+        "accessLevel": "public",
+        "description": "",
+        "keyword": [
+          null
+        ],
+        "theme": null,
+        "issued": "2025-01-06 16:07:21",
+        "landingPage": "https://satudata.kotabarukab.go.id/statistik_sektoral",
+        "accrualPeriodicity": "",
+        "contactPoint": {
+          "fn": "Badan Perencanaan Pembangunan Daerah Kabupaten Kotabaru",
+          "hasEmail": "mailto:bappeda@kotabarukab.go.id"
+        },
+        "identifier": "912894ab625424090aced22b880c73d46e0d349c",
+        "publisher": {
+          "@type": "org:Organization",
+          "name": "DINAS KESEHATAN Kabupaten Kotabaru"
+        },
+        "distribution": [
+          {
+            "@type": "dcat:Distribution",
+            "title": "Jumlah dan Rasio Rumah Sakit, Puskesmas, Poliklinik dan Pustu*",
+            "accessURL": "https://satudata.kotabarukab.go.id/statistik_sektoral/download/3698",
+            "downloadURL": "https://satudata.kotabarukab.go.id/statistik_sektoral/download/3698",
+            "description": "",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "format": "xlsx"
+          }
+        ]
+      },
+      {
+        "@type": "dcat:Dataset",
+        "title": "Tekanan Udara Menurut Bulan di Kabupaten Kotabaru (BMKG)*",
+        "accessLevel": "public",
+        "description": "",
+        "keyword": [
+          null
+        ],
+        "theme": null,
+        "issued": "2025-01-06 16:07:04",
+        "landingPage": "https://satudata.kotabarukab.go.id/statistik_sektoral",
+        "accrualPeriodicity": "",
+        "contactPoint": {
+          "fn": "Badan Perencanaan Pembangunan Daerah Kabupaten Kotabaru",
+          "hasEmail": "mailto:bappeda@kotabarukab.go.id"
+        },
+        "identifier": "9890e7539182cd1e6a499e3a07387105bb5536c8",
+        "publisher": {
+          "@type": "org:Organization",
+          "name": "BADAN PERENCANAAN PEMBANGUNAN DAERAH Kabupaten Kotabaru"
+        },
+        "distribution": [
+          {
+            "@type": "dcat:Distribution",
+            "title": "Tekanan Udara Menurut Bulan di Kabupaten Kotabaru (BMKG)*",
+            "accessURL": "https://satudata.kotabarukab.go.id/statistik_sektoral/download/3682",
+            "downloadURL": "https://satudata.kotabarukab.go.id/statistik_sektoral/download/3682",
+            "description": "",
+            "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "format": "xlsx"
+          }
+        ]
+      }
+    ]
+  }
