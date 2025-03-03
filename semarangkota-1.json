@@ -1,0 +1,339 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://data.semarangkota.go.id/public/api/datasemarangkota/integrasidata",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/12280/2017/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "% kasus stunting anak dibawah dua tahun (Baduta)",
+                "description": "% kasus stunting anak dibawah dua tahun (Baduta)"
+              }
+            ],
+            "identifier": "73eaf3ee-f14d-4cbc-ad23-445ade548fb5",
+            "issued": "2021-10-28T02:27:15.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/12280",
+            "modified": "2023-07-25T02:23:45.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Kesehatan",
+              "Urusan Wajib Kesehatan"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "Dinas Kesehatan"
+            },
+            "title": "% kasus stunting anak dibawah dua tahun (Baduta)",
+            "description": "<p>1. Konsep = Prevalensi Baduta Stunting<br />\n2. Definisi = Stunting adalah kondisi gagal tumbuh pada anak akibat kekurangan gizi kronis sehingga anak terlalu pendek dibanding anak seusianya. Stunting ditentukan melalui indikator tinggi badan menurut usia (TB/U) dengan kategori dibawah -2 standar deviasi<br />\n3. Satuan = %<br />\n4. Produsen Data = Dinas Kesehatan</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/12279/2017/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "% kasus stunting anak dibawah lima tahun (Balita)",
+                "description": "% kasus stunting anak dibawah lima tahun (Balita)"
+              }
+            ],
+            "identifier": "dfb31885-ff4b-402a-9ae1-b7297642bbbd",
+            "issued": "2021-10-28T02:27:15.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/12279",
+            "modified": "2023-07-25T02:23:45.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Kesehatan",
+              "Urusan Wajib Kesehatan"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "Dinas Kesehatan"
+            },
+            "title": "% kasus stunting anak dibawah lima tahun (Balita)",
+            "description": "<p>1. Konsep = Prevalensi Balita Stunting<br />\n2. Definisi = Stunting adalah kondisi gagal tumbuh pada anak akibat kekurangan gizi kronis sehingga anak terlalu pendek dibanding anak seusianya. Stunting ditentukan melalui indikator tinggi badan menurut usia (TB/U) dengan kategori dibawah -2 standar deviasi<br />\n3. Satuan = %<br />\n4. Produsen Data = Dinas Kesehatan</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/7231/2010/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "20% Penduduk Berpendapatan Tertinggi",
+                "description": "20% Penduduk Berpendapatan Tertinggi"
+              }
+            ],
+            "identifier": "e8b30d24-4be2-494d-aa28-30a9a8563687",
+            "issued": "-000001-11-29T16:52:48.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/7231",
+            "modified": "2022-03-19T08:55:11.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Indikator Makro",
+              "Indikator Makro"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "BPS Kota Semarang"
+            },
+            "title": "20% Penduduk Berpendapatan Tertinggi",
+            "description": "<p>1. Konsep = <br />\n2. Definisi = <br />\n3. Satuan = Rp<br />\n4. Produsen Data = BPS Kota Semarang</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/7230/2010/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "40% Penduduk Berpendapatan Menengah",
+                "description": "40% Penduduk Berpendapatan Menengah"
+              }
+            ],
+            "identifier": "28f33ad3-34ba-4d6c-af99-a91ecdbc5f4f",
+            "issued": "-000001-11-29T16:52:48.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/7230",
+            "modified": "2022-03-19T08:55:02.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Indikator Makro",
+              "Indikator Makro"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "BPS Kota Semarang"
+            },
+            "title": "40% Penduduk Berpendapatan Menengah",
+            "description": "<p>1. Konsep = <br />\n2. Definisi = <br />\n3. Satuan = Rp<br />\n4. Produsen Data = BPS Kota Semarang</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/7229/2010/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "40% Penduduk Berpendapatan Terendah",
+                "description": "40% Penduduk Berpendapatan Terendah"
+              }
+            ],
+            "identifier": "d722ad09-9406-41d2-baf4-7c7c8a0f9f17",
+            "issued": "-000001-11-29T16:52:48.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/7229",
+            "modified": "2022-03-19T08:54:53.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Indikator Makro",
+              "Indikator Makro"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "BPS Kota Semarang"
+            },
+            "title": "40% Penduduk Berpendapatan Terendah",
+            "description": "<p>1. Konsep = <br />\n2. Definisi = <br />\n3. Satuan = Rp<br />\n4. Produsen Data = BPS Kota Semarang</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "public",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/12051/2017/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "Aksesbilitas / ketersediaan layanan informasi kearsipan",
+                "description": "Aksesbilitas / ketersediaan layanan informasi kearsipan"
+              }
+            ],
+            "identifier": "8afa5b23-30f5-43b9-82db-f0e61968f9b8",
+            "issued": "2021-10-25T01:27:36.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/12051",
+            "modified": "2023-08-01T04:01:43.000000Z",
+            "accrualPeriodicity": "Tahunan",
+            "keyword": [
+              "Kearsipan",
+              "Urusan Wajib Kearsipan"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "Dinas Arsip & Perpustakaan Daerah"
+            },
+            "title": "Aksesbilitas / ketersediaan layanan informasi kearsipan",
+            "description": "<p>1. Konsep = Layanan Informasi<br />\n2. Definisi = perbandingan kemudahan dalam memberikan jumlah permintaan layanan kearsipan dan ketidakberhasilan dalam memenuhi permintaan layanan kearsipan dalam satu system pengelolaan kearsipan<br />\n3. Satuan = %<br />\n4. Produsen Data = Dinas Arsip &amp; Perpustakaan Daerah</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/11322/2015/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "American Food",
+                "description": "American Food"
+              }
+            ],
+            "identifier": "3f17b1de-1261-4474-967a-50f8e55b52df",
+            "issued": "2020-01-16T06:08:45.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/11322",
+            "modified": "2025-03-03T01:37:29.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Pariwisata",
+              "Urusan Pilihan Pariwisata"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "Dinas Kebudayaan dan Pariwisata"
+            },
+            "title": "American Food",
+            "description": "<p>1. Konsep = American Food<br />\n2. Definisi = Junlah restoran dengan American Food di Kota Semarang<br />\n3. Satuan = Unit<br />\n4. Produsen Data = Dinas Kebudayaan dan Pariwisata</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/12758/2018/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "Anak",
+                "description": "Anak"
+              }
+            ],
+            "identifier": "4cf9fd96-4ed9-4c07-ae46-37ff5cfaebbb",
+            "issued": "2023-02-15T03:44:03.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/12758",
+            "modified": "2023-07-27T03:09:41.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Administrasi Kependudukan & Pencatatan Sipil",
+              "Urusan Wajib Administrasi Kependudukan & Pencatatan Sipil"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "Dinas Kependudukan dan Pencatatan Sipil"
+            },
+            "title": "Anak",
+            "description": "<p>1. Konsep = <br />\n2. Definisi = <br />\n3. Satuan = Orang<br />\n4. Produsen Data = Dinas Kependudukan dan Pencatatan Sipil</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/10496/2002/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "Angka Garis Kemiskinan",
+                "description": "Angka Garis Kemiskinan"
+              }
+            ],
+            "identifier": "92445ed9-59cd-4717-aa73-2d66818c4d3d",
+            "issued": "2019-11-23T02:55:13.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/10496",
+            "modified": "2022-03-19T08:16:25.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Indikator Makro",
+              "Indikator Makro"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "BPS Kota Semarang"
+            },
+            "title": "Angka Garis Kemiskinan",
+            "description": "<p>1. Konsep = <br />\n2. Definisi = <br />\n3. Satuan = Kg/Kapita/Bulan<br />\n4. Produsen Data = BPS Kota Semarang</p>"
+          },
+          {
+            "@type": "dcat:Dataset",
+            "accessLevel": "private",
+            "contactPoint": {
+              "fn": "Dinas Komunikasi, Informatika, Statistik dan Persandian Kota Semarang",
+              "hasEmail": "diskominfo@semarangkota.go.id"
+            },
+            "distribution": [
+              {
+                "@type": "dcat:Distribution",
+                "downloadURL": "https://data.semarangkota.go.id/public/datasektoral/excel/10398/2010/2023",
+                "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                "format": "xlsx",
+                "title": "Angka Harapan Lama Sekolah (HLS)",
+                "description": "Angka Harapan Lama Sekolah (HLS)"
+              }
+            ],
+            "identifier": "68e708e9-0b7b-430c-ac29-6181a2f67669",
+            "issued": "2019-10-17T13:35:52.000000Z",
+            "landingPage": "https://data.semarangkota.go.id/public/datasektoral/detail/10398",
+            "modified": "2022-03-19T08:21:02.000000Z",
+            "accrualPeriodicity": null,
+            "keyword": [
+              "Indikator Makro",
+              "Indikator Makro"
+            ],
+            "publisher": {
+              "@type": "org:Organization",
+              "name": "BPS Kota Semarang"
+            },
+            "title": "Angka Harapan Lama Sekolah (HLS)",
+            "description": "<p>1. Konsep = <br />\n2. Definisi = <br />\n3. Satuan = Tahun<br />\n4. Produsen Data = BPS Kota Semarang</p>"
+          }
+        ]
+      }
