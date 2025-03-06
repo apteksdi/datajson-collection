@@ -1,0 +1,66 @@
+[
+    {
+        "id": 4468,
+        "name": "Indeks Desa Membangun (IDM)",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/4468"
+    },
+    {
+        "id": 44688,
+        "name": "Indeks Desa Membangun (IDM) - No Resources",
+        "url": "http://10.42.0.15/data/static/metadata/4468-no-resources.json"
+    },
+    {
+        "id": 4466,
+        "name": "Indeks Ketahanan Lingkungan (IKL)",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/4466"
+    },
+    {
+        "id": 4467,
+        "name": "Indeks Ketahanan Ekonomi (IKE)",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/4467"
+    },
+    {
+        "id": 4465,
+        "name": "Indeks Ketahanan Sosial (IKS)",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/4465"
+    },
+    {
+        "id": 31829,
+        "name": "Jumlah Desa Cerdas",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/31829"
+    },
+    {
+        "id": 31734,
+        "name": "Indeks Ketahanan Lingkungan (IKL)",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/31734"
+    },
+    {
+        "id": 31735,
+        "name": "Indeks Ketahanan Ekonomi (IKE)",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/31735"
+    },
+    {
+        "id": 31705,
+        "name": "Jumlah Calon Transmigran yang Difasilitasi Pelatihan dan Sertifikat",
+        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/31705"
+    },
+    {
+        "id": 666,
+        "name": "CONTOH 01",
+        "url": "http://10.42.0.15/data/static/metadata/4468-keg-02.json"
+    },
+    {
+        "id": 777,
+        "name": "CONTOH 02",
+        "url": "http://10.42.0.15/data/static/metadata/4466-keg-04.json"
+    },
+    {
+        "id": 888,
+        "name": "CONTOH 03",
+        "url": "http://10.42.0.15/data/static/metadata/31829.json"
+    }
+
+
+
+    
+]
