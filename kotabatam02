@@ -1,0 +1,169 @@
+{
+  "@id": "https://satudata.batam.go.id/data/apisplp/apinasional/splp",
+  "@type": "dcat:Catalog",
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+  "dataset": [
+    {
+      "@type": "dcat:Dataset",
+      "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)",
+      "accessLevel": "public",
+      "description": "",
+      "keywords": [],
+      "theme": "Administrasi Kependudukan dan Pencatatan Sipil",
+      "issued": "2022-07-04",
+      "landingPage": "https://satudata.batam.go.id/data/detail/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+      "accrualPeriodicity": "",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+        "hasEmail": "kominfo@batam.go.id"
+      },
+      "identifier": "083cad8e-bf00-4797-8a98-f8e97d21801d",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Komunikasi dan Informatika Kota Batam"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)",
+          "accessURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+          "downloadURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Penduduk di Kota Batam per Kecamatan (2020 - 2021)",
+          "accessURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+          "downloadURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-penduduk-di-kota-batam-per-kecamatan-uzilx8",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha",
+      "accessLevel": "public",
+      "description": "",
+      "keywords": [],
+      "theme": "Koperasi, Usaha Kecil, dan Menengah",
+      "issued": "2022-08-08",
+      "landingPage": "https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+      "accrualPeriodicity": "",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+        "hasEmail": "kominfo@batam.go.id"
+      },
+      "identifier": "064c84df-7300-4998-a0ff-0ba261f62712",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Komunikasi dan Informatika Kota Batam"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha",
+          "accessURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+          "downloadURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Koperasi Primer Kota Batam Menurut Sektor Usaha",
+          "accessURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+          "downloadURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-koperasi-primer-kota-batam-menurut-sektor-usaha-wow4nj",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021",
+      "accessLevel": "public",
+      "description": "",
+      "keywords": [],
+      "theme": "Pemberdayaan Perempuan dan Perlindungan Anak",
+      "issued": "2022-08-08",
+      "landingPage": "https://satudata.batam.go.id/data/detail/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+      "accrualPeriodicity": "",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+        "hasEmail": "kominfo@batam.go.id"
+      },
+      "identifier": "41713fdf-878f-4c28-b870-226a7a87444e",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Komunikasi dan Informatika Kota Batam"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021",
+          "accessURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+          "downloadURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Perempuan dan Anak Korban Kekerasan yang Mendapatkan dan  Membutuhkan Pelayanan Pemulangan dan Reintegrasi Sosial, 2020-2021",
+          "accessURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+          "downloadURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-perempuan-dan-anak-korban-kekerasan-yang-mendapatkan-dan-membutuhkan-pelayanan-pemulangan-dan-reintegrasi-sosial-2020-2021-4kdsic",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        }
+      ]
+    },
+    {
+      "@type": "dcat:Dataset",
+      "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam",
+      "accessLevel": "public",
+      "description": "",
+      "keywords": [],
+      "theme": "Koperasi, Usaha Kecil, dan Menengah",
+      "issued": "2022-08-08",
+      "landingPage": "https://satudata.batam.go.id/data/detail/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+      "accrualPeriodicity": "",
+      "contactPoint": {
+        "fn": "Dinas Komunikasi dan Informatika Kota Batam",
+        "hasEmail": "kominfo@batam.go.id"
+      },
+      "identifier": "375a27f2-fed8-48ec-a3b2-8a6594fa1d2f",
+      "publisher": {
+        "@type": "org:Organization",
+        "name": "Dinas Komunikasi dan Informatika Kota Batam"
+      },
+      "distribution": [
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam",
+          "accessURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+          "downloadURL": "https://satudata.batam.go.id/data/json/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        },
+        {
+          "@type": "dcat:Distribution",
+          "title": "Statistik Jumlah Koperasi Primer Menurut Jenis Simpan Pinjam",
+          "accessURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+          "downloadURL": "https://satudata.batam.go.id/data/excel/statistik-jumlah-koperasi-primer-menurut-jenis-simpan-pinjam-skw54p",
+          "description": "",
+          "mediaType": "text/csv",
+          "format": "csv"
+        }
+      ]
+    }
+  ]
+}
