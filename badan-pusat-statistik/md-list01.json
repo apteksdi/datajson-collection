@@ -27,7 +27,7 @@
     {
         "id": 31829,
         "name": "Jumlah Desa Cerdas",
-        "url": "https://raw.githubusercontent.com/apteksdi/datajson-collection/refs/heads/master/badan-pusat-statistik/bps_response_1722100892302.json"
+        "url": "https://gitlab.data.go.id/root/datajson-collections/-/raw/main/testmd01.json"
     },
     {
         "id": 31734,
@@ -65,3 +65,4 @@
     
 
 ]
+
