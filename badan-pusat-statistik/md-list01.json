@@ -27,7 +27,7 @@
     {
         "id": 31829,
         "name": "Jumlah Desa Cerdas",
-        "url": "http://10.42.0.9:8090/api/skdn/mms/id/ckan-schema/31829"
+        "url": "https://raw.githubusercontent.com/apteksdi/datajson-collection/refs/heads/master/badan-pusat-statistik/bps_response_1722100892302.json"
     },
     {
         "id": 31734,
@@ -63,4 +63,5 @@
 
 
     
+
 ]
