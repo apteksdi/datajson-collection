@@ -1,90 +1,90 @@
 {
     "@context": "https://www.w3.org/ns/dcat-ap/context/dcat-ap.jsonld",
-    "@type": "dcat:Catalog",
-    "dct:title": "Katalog Data Pemerintah Kabupaten Bombana",
-    "dct:description": "Katalog resmi dataset terbuka milik Pemerintah Kabupaten Bombana",
-    "dct:publisher": {
+    "@type": "Catalog",
+    "title": "Katalog Data Pemerintah Kabupaten Bombana",
+    "description": "Katalog resmi dataset terbuka milik Pemerintah Kabupaten Bombana",
+    "publisher": {
         "@type": "org:Organization",
         "foaf:name": "Dinas Kominfo Kabupaten Bombana"
     },
-    "dct:issued": "2025-11-10",
-    "dct:modified": "2025-11-10",
-    "dcat:dataset": [
+    "issued": "2025-11-10",
+    "modified": "2025-11-10",
+    "dataset": [
         {
-            "@type": "dcat:Dataset",
-            "dct:title": "Kebijakan Tata Kelola Keamanan Informasi Pemerintah Daerah yang Ditetapkan-",
-            "dct:description": "Kompilasi produk administrasi adalah cara pengumpulan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.",
-            "dcat:keyword": [
+            "@type": "Dataset",
+            "title": "Kebijakan Tata Kelola Keamanan Informasi Pemerintah Daerah yang Ditetapkan-",
+            "description": "Kompilasi produk administrasi adalah cara pengumpulan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.",
+            "keyword": [
                 "sekolah"
               ],
-            "dcat:theme": "Urusan Bidang Persandian",
-            "dct:issued": "2025-07-31",
-            "dcat:landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=kebijakan-tata-kelola-keamanan-informasi-pemerintah-daerah-yang-ditetapkan",
-            "dct:accrualPeriodicity": "-",
-            "dct:publisher": "DINAS KOMUNIKASI DAN INFORMATIKA",
-            "dct:contactPoint": "Dinas Komunikasi Informatika Dan Statistik",
-            "dct:identifier": "017a6b8e-658b-47fb-b180-0055625a6dbe",
-            "dcat:distribution": [
+            "theme": "Urusan Bidang Persandian",
+            "issued": "2025-07-31",
+            "landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=kebijakan-tata-kelola-keamanan-informasi-pemerintah-daerah-yang-ditetapkan",
+            "accrualPeriodicity": "-",
+            "publisher": "DINAS KOMUNIKASI DAN INFORMATIKA",
+            "contactPoint": "Dinas Komunikasi Informatika Dan Statistik",
+            "identifier": "017a6b8e-658b-47fb-b180-0055625a6dbe",
+            "distribution": [
                 {
-                    "@type": "dcat:Distribution",
-                    "dct:title": "Kebijakan Tata Kelola Keamanan Informasi Pemerintah Daerah yang Ditetapkan-",
-                    "dcat:accessURL": "https://satudata.bombanakab.go.id/page-detail-data?q=kebijakan-tata-kelola-keamanan-informasi-pemerintah-daerah-yang-ditetapkan",
-                    "dcat:downloadURL": "https://satudata.bombanakab.go.id/storage/upload/data/1753942315.pdf",
-                    "dcat:description": "-",
-                    "dct:mediaType": "application/pdf",
-                    "dct:format": "PDF"
+                    "@type": "Distribution",
+                    "title": "Kebijakan Tata Kelola Keamanan Informasi Pemerintah Daerah yang Ditetapkan-",
+                    "accessURL": "https://satudata.bombanakab.go.id/page-detail-data?q=kebijakan-tata-kelola-keamanan-informasi-pemerintah-daerah-yang-ditetapkan",
+                    "downloadURL": "https://satudata.bombanakab.go.id/storage/upload/data/1753942315.pdf",
+                    "description": "-",
+                    "mediaType": "application/pdf",
+                    "format": "PDF"
                 }
             ]
         },
         {
-            "@type": "dcat:Dataset",
-            "dct:title": "Balita Memiliki Buku KIA",
-            "dct:description": "Kompilasi Produk Administrasi adalah proses pengumpulan, pengolahan, penyajian, dan analisis data yang berasal dari catatan administrasi yang ada pada pemerintah dan/atau masyarakat. Proses ini merupakan cara untuk menghasilkan statistik sektoral dari data administratif yang tersedia.",
-            "dcat:keyword": [
+            "@type": "Dataset",
+            "title": "Balita Memiliki Buku KIA",
+            "description": "Kompilasi Produk Administrasi adalah proses pengumpulan, pengolahan, penyajian, dan analisis data yang berasal dari catatan administrasi yang ada pada pemerintah dan/atau masyarakat. Proses ini merupakan cara untuk menghasilkan statistik sektoral dari data administratif yang tersedia.",
+            "keyword": [
                 "sekolah"
               ],
-            "dcat:theme": "Urusan Pemerintahan Bidang Kesehatan",
-            "dct:issued": "2025-09-02",
-            "dcat:landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=balita-memiliki-buku-kia",
-            "dct:accrualPeriodicity": "-",
-            "dct:publisher": "DINAS KESEHATAN",
-            "dct:contactPoint": "Dinas Kesehatan",
-            "dct:identifier": "02eba3aa-0042-4486-b387-b0d82567c992",
-            "dcat:distribution": [
+            "theme": "Urusan Pemerintahan Bidang Kesehatan",
+            "issued": "2025-09-02",
+            "landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=balita-memiliki-buku-kia",
+            "accrualPeriodicity": "-",
+            "publisher": "DINAS KESEHATAN",
+            "contactPoint": "Dinas Kesehatan",
+            "identifier": "02eba3aa-0042-4486-b387-b0d82567c992",
+            "distribution": [
                 {
-                    "@type": "dcat:Distribution",
-                    "dct:title": "Balita Memiliki Buku KIA",
-                    "dcat:accessURL": "https://satudata.bombanakab.go.id/page-detail-data?q=balita-memiliki-buku-kia",
-                    "dcat:downloadURL": "https://satudata.bombanakab.go.id/storage/upload/data/1756784514.xlsx",
-                    "dcat:description": "-",
-                    "dct:mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-                    "dct:format": "XLSX"
+                    "@type": "Distribution",
+                    "title": "Balita Memiliki Buku KIA",
+                    "accessURL": "https://satudata.bombanakab.go.id/page-detail-data?q=balita-memiliki-buku-kia",
+                    "downloadURL": "https://satudata.bombanakab.go.id/storage/upload/data/1756784514.xlsx",
+                    "description": "-",
+                    "mediaType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    "format": "XLSX"
                 }
             ]
         },
         {
-            "@type": "dcat:Dataset",
-            "dct:title": "SK/Ketetapan Pembentukan Tim Koordinasi SPBE Pemda",
-            "dct:description": "Kompilasi produk administrasi adalah cara pengumpulan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.",
-            "dcat:keyword": [
+            "@type": "Dataset",
+            "title": "SK/Ketetapan Pembentukan Tim Koordinasi SPBE Pemda",
+            "description": "Kompilasi produk administrasi adalah cara pengumpulan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.",
+            "keyword": [
                 "sekolah"
               ],
-            "dcat:theme": "Urusan Bidang Komunikasi dan Informatika",
-            "dct:issued": "2025-07-31",
-            "dcat:landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=skketetapan-pembentukan-tim-koordinasi-spbe-pemda",
-            "dct:accrualPeriodicity": "-",
-            "dct:publisher": "DINAS KOMUNIKASI DAN INFORMATIKA",
-            "dct:contactPoint": "Dinas Komunikasi Informatika Dan Statistik",
-            "dct:identifier": "0499711d-5e34-4285-91d1-4d730054053f",
-            "dcat:distribution": [
+            "theme": "Urusan Bidang Komunikasi dan Informatika",
+            "issued": "2025-07-31",
+            "landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=skketetapan-pembentukan-tim-koordinasi-spbe-pemda",
+            "accrualPeriodicity": "-",
+            "publisher": "DINAS KOMUNIKASI DAN INFORMATIKA",
+            "contactPoint": "Dinas Komunikasi Informatika Dan Statistik",
+            "identifier": "0499711d-5e34-4285-91d1-4d730054053f",
+            "distribution": [
                 {
-                    "@type": "dcat:Distribution",
-                    "dct:title": "SK/Ketetapan Pembentukan Tim Koordinasi SPBE Pemda",
-                    "dcat:accessURL": "https://satudata.bombanakab.go.id/page-detail-data?q=skketetapan-pembentukan-tim-koordinasi-spbe-pemda",
-                    "dcat:downloadURL": "https://satudata.bombanakab.go.id/storage/upload/data/1753938658.pdf",
-                    "dcat:description": "-",
-                    "dct:mediaType": "application/pdf",
-                    "dct:format": "PDF"
+                    "@type": "Distribution",
+                    "title": "SK/Ketetapan Pembentukan Tim Koordinasi SPBE Pemda",
+                    "accessURL": "https://satudata.bombanakab.go.id/page-detail-data?q=skketetapan-pembentukan-tim-koordinasi-spbe-pemda",
+                    "downloadURL": "https://satudata.bombanakab.go.id/storage/upload/data/1753938658.pdf",
+                    "description": "-",
+                    "mediaType": "application/pdf",
+                    "format": "PDF"
                 }
             ]
         }
