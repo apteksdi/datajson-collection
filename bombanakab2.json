@@ -14,7 +14,9 @@
             "@type": "dcat:Dataset",
             "dct:title": "Kebijakan Tata Kelola Keamanan Informasi Pemerintah Daerah yang Ditetapkan-",
             "dct:description": "Kompilasi produk administrasi adalah cara pengumpulan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.",
-            "dcat:keyword": null,
+            "dcat:keyword": [
+                "sekolah"
+              ],
             "dcat:theme": "Urusan Bidang Persandian",
             "dct:issued": "2025-07-31",
             "dcat:landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=kebijakan-tata-kelola-keamanan-informasi-pemerintah-daerah-yang-ditetapkan",
@@ -38,7 +40,9 @@
             "@type": "dcat:Dataset",
             "dct:title": "Balita Memiliki Buku KIA",
             "dct:description": "Kompilasi Produk Administrasi adalah proses pengumpulan, pengolahan, penyajian, dan analisis data yang berasal dari catatan administrasi yang ada pada pemerintah dan/atau masyarakat. Proses ini merupakan cara untuk menghasilkan statistik sektoral dari data administratif yang tersedia.",
-            "dcat:keyword": null,
+            "dcat:keyword": [
+                "sekolah"
+              ],
             "dcat:theme": "Urusan Pemerintahan Bidang Kesehatan",
             "dct:issued": "2025-09-02",
             "dcat:landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=balita-memiliki-buku-kia",
@@ -62,7 +66,9 @@
             "@type": "dcat:Dataset",
             "dct:title": "SK/Ketetapan Pembentukan Tim Koordinasi SPBE Pemda",
             "dct:description": "Kompilasi produk administrasi adalah cara pengumpulan, pengolahan, penyajian, dan analisis data yang didasarkan pada catatan administrasi yang ada pada pemerintah dan atau masyarakat.",
-            "dcat:keyword": null,
+            "dcat:keyword": [
+                "sekolah"
+              ],
             "dcat:theme": "Urusan Bidang Komunikasi dan Informatika",
             "dct:issued": "2025-07-31",
             "dcat:landingPage": "https://satudata.bombanakab.go.id/page-detail-data?q=skketetapan-pembentukan-tim-koordinasi-spbe-pemda",
