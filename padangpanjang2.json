@@ -5,9 +5,9 @@
         "foaf": "http://xmlns.com/foaf/0.1/"
     },
     "@type": "Catalog",
-    "dct:title": "Katalog Satu Data Kota Padang Panjang",
-    "dct:description": "Katalog ini dihasilkan secara otomatis dari database portal satu data Padang Panjang.",
-    "dct:publisher": {
+    "title": "Katalog Satu Data Kota Padang Panjang",
+    "description": "Katalog ini dihasilkan secara otomatis dari database portal satu data Padang Panjang.",
+    "publisher": {
         "@type": "foaf:Organization",
         "foaf:name": "Dinas Komunikasi dan Informatika Kota Padang Panjang",
         "foaf:homepage": "https://satudata.padangpanjang.go.id"
@@ -17,90 +17,90 @@
             "@type": "Dataset",
             "@id": "https://satudata.padangpanjang.go.id/dataset/jumlah-produk-olahan-susu-yang-masuk-ke-pasar-ormal",
             "identifier": "077a6b60-2ae4-420b-a204-a55f47b8afde",
-            "dct:title": "Jumlah Produk Olahan Susu yang Masuk ke Pasar ormal",
-            "dct:description": "Banyaknya jenis produk olahan susu yang sudah dipasarkan di pasar formal dimana pasar formal tersebut dapat didefinisikan sebagai tempat jual beli barang dan jasa yang dioperasionalkan secara formal",
-            "dct:issued": "2025-03-21",
-            "dct:modified": "2025-05-27",
-            "dct:temporal": {
-                "@type": "dct:PeriodOfTime",
-                "dcat:startDate": null,
-                "dcat:endDate": null
+            "title": "Jumlah Produk Olahan Susu yang Masuk ke Pasar ormal",
+            "description": "Banyaknya jenis produk olahan susu yang sudah dipasarkan di pasar formal dimana pasar formal tersebut dapat didefinisikan sebagai tempat jual beli barang dan jasa yang dioperasionalkan secara formal",
+            "issued": "2025-03-21",
+            "modified": "2025-05-27",
+            "temporal": {
+                "@type": "PeriodOfTime",
+                "startDate": "-",
+                "endDate": "-"
             },
-            "dct:spatial": {
-                "@type": "dct:Location",
-                "dct:name": "Kota Padang Panjang"
+            "spatial": {
+                "@type": "Location",
+                "name": "Kota Padang Panjang"
             },
-            "dcat:keyword": [
+            "keyword": [
                 "2017"
             ],
-            "dcat:theme": [
+            "theme": [
                 "https://data.go.id/theme/sektoral"
             ],
-            "dct:accrualPeriodicity": "R/P1Y",
-            "dcat:distribution": [
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2024",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2024",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-03-21",
-                    "dct:modified": "2025-03-21"
+                    "title": "Data Tahun 2024",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2024",
+                    "mediaType": "application/json",
+                    "issued": "2025-03-21",
+                    "modified": "2025-03-21"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2023",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2023",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-03-24",
-                    "dct:modified": "2025-03-24"
+                    "title": "Data Tahun 2023",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2023",
+                    "mediaType": "application/json",
+                    "issued": "2025-03-24",
+                    "modified": "2025-03-24"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2017",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2017",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-15",
-                    "dct:modified": "2025-05-27"
+                    "title": "Data Tahun 2017",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2017",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-15",
+                    "modified": "2025-05-27"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2018",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2018",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-27",
-                    "dct:modified": "2025-05-27"
+                    "title": "Data Tahun 2018",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2018",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-27",
+                    "modified": "2025-05-27"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2019",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2019",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-27",
-                    "dct:modified": "2025-05-27"
+                    "title": "Data Tahun 2019",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2019",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-27",
+                    "modified": "2025-05-27"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2020",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2020",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-27",
-                    "dct:modified": "2025-05-27"
+                    "title": "Data Tahun 2020",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2020",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-27",
+                    "modified": "2025-05-27"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2021",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2021",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-27",
-                    "dct:modified": "2025-05-27"
+                    "title": "Data Tahun 2021",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2021",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-27",
+                    "modified": "2025-05-27"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2022",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2022",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-27",
-                    "dct:modified": "2025-05-27"
+                    "title": "Data Tahun 2022",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/1/tahun/2022",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-27",
+                    "modified": "2025-05-27"
                 }
             ]
         },
@@ -108,90 +108,90 @@
             "@type": "Dataset",
             "@id": "https://satudata.padangpanjang.go.id/dataset/jumlah-perlengkapan-pendidikan-nonformal-kesetaraan-yang-diadakan-pengadaan-rak-dan-buku-pustaka-tbm-",
             "identifier": "59760766-ec84-4faa-9f57-8f508188f124",
-            "dct:title": "Jumlah Perlengkapan Pendidikan Nonformal/Kesetaraan yang diadakan (Pengadaan rak dan buku pustaka (TBM)",
-            "dct:description": "-",
-            "dct:issued": "2025-05-20",
-            "dct:modified": "2025-05-20",
-            "dct:temporal": {
-                "@type": "dct:PeriodOfTime",
-                "dcat:startDate": null,
-                "dcat:endDate": null
+            "title": "Jumlah Perlengkapan Pendidikan Nonformal/Kesetaraan yang diadakan (Pengadaan rak dan buku pustaka (TBM)",
+            "description": "-",
+            "issued": "2025-05-20",
+            "modified": "2025-05-20",
+            "temporal": {
+                "@type": "PeriodOfTime",
+                "startDate": "-",
+                "endDate": "-"
             },
-            "dct:spatial": {
-                "@type": "dct:Location",
-                "dct:name": "Kota Padang Panjang"
+            "spatial": {
+                "@type": "Location",
+                "name": "Kota Padang Panjang"
             },
-            "dcat:keyword": [
+            "keyword": [
                 "2017"
             ],
-            "dcat:theme": [
+            "theme": [
                 "https://data.go.id/theme/sektoral"
             ],
-            "dct:accrualPeriodicity": "R/P1Y",
-            "dcat:distribution": [
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2024",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2024",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2024",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2024",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2023",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2023",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2023",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2023",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2022",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2022",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2022",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2022",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2017",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2017",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2017",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2017",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2018",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2018",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2018",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2018",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2019",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2019",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2019",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2019",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2020",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2020",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2020",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2020",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2021",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2021",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-20",
-                    "dct:modified": "2025-05-20"
+                    "title": "Data Tahun 2021",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/2/tahun/2021",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-20",
+                    "modified": "2025-05-20"
                 }
             ]
         },
@@ -199,42 +199,42 @@
             "@type": "Dataset",
             "@id": "https://satudata.padangpanjang.go.id/dataset/persentase-pencari-kerja-yang-dilatih",
             "identifier": "0604063c-fb28-4c69-aac8-cdebb0a93061",
-            "dct:title": "Persentase pencari kerja yang dilatih",
-            "dct:description": "Perbandingan jumlah pencari kerja yang dilatih dengan total angkatan kerja dalam 1 (satu) tahun dari sumber dana APBD, Provinsi maupun APBN yang dinyatakan dalam persentase.",
-            "dct:issued": "2025-05-15",
-            "dct:modified": "2025-06-18",
-            "dct:temporal": {
-                "@type": "dct:PeriodOfTime",
-                "dcat:startDate": null,
-                "dcat:endDate": null
+            "title": "Persentase pencari kerja yang dilatih",
+            "description": "Perbandingan jumlah pencari kerja yang dilatih dengan total angkatan kerja dalam 1 (satu) tahun dari sumber dana APBD, Provinsi maupun APBN yang dinyatakan dalam persentase.",
+            "issued": "2025-05-15",
+            "modified": "2025-06-18",
+            "temporal": {
+                "@type": "PeriodOfTime",
+                "startDate": "-",
+                "endDate": "-"
             },
-            "dct:spatial": {
-                "@type": "dct:Location",
-                "dct:name": "Kota Padang Panjang"
+            "spatial": {
+                "@type": "Location",
+                "name": "Kota Padang Panjang"
             },
-            "dcat:keyword": [
+            "keyword": [
                 "2017"
             ],
-            "dcat:theme": [
+            "theme": [
                 "https://data.go.id/theme/sektoral"
             ],
-            "dct:accrualPeriodicity": "R/P1Y",
-            "dcat:distribution": [
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2022",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/3/tahun/2022",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-15",
-                    "dct:modified": "2025-05-15"
+                    "title": "Data Tahun 2022",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/3/tahun/2022",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-15",
+                    "modified": "2025-05-15"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2024",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/3/tahun/2024",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-06-18",
-                    "dct:modified": "2025-06-18"
+                    "title": "Data Tahun 2024",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/3/tahun/2024",
+                    "mediaType": "application/json",
+                    "issued": "2025-06-18",
+                    "modified": "2025-06-18"
                 }
             ]
         },
@@ -242,67 +242,67 @@
             "@type": "Dataset",
             "@id": "https://satudata.padangpanjang.go.id/dataset/cakupan-deteksi-dini-faktor-resiko-ptm",
             "identifier": "824eef8d-c4ed-43a4-878a-a38a01e81340",
-            "dct:title": "Cakupan deteksi dini faktor resiko PTM",
-            "dct:description": "Peraturan Presiden (Perpres) Nomor 39 Tahun 2019 tentang Satu Data Indonesia (SDI)",
-            "dct:issued": "2025-05-15",
-            "dct:modified": "2025-07-21",
-            "dct:temporal": {
-                "@type": "dct:PeriodOfTime",
-                "dcat:startDate": "2024-12-23",
-                "dcat:endDate": "2025-12-31"
+            "title": "Cakupan deteksi dini faktor resiko PTM",
+            "description": "Peraturan Presiden (Perpres) Nomor 39 Tahun 2019 tentang Satu Data Indonesia (SDI)",
+            "issued": "2025-05-15",
+            "modified": "2025-07-21",
+            "temporal": {
+                "@type": "PeriodOfTime",
+                "startDate": "2024-12-23",
+                "endDate": "2025-12-31"
             },
-            "dct:spatial": {
-                "@type": "dct:Location",
-                "dct:name": "Kota Padang Panjang"
+            "spatial": {
+                "@type": "Location",
+                "name": "Kota Padang Panjang"
             },
-            "dcat:keyword": [
+            "keyword": [
                 "Data Prioritas",
                 "2017"
             ],
-            "dcat:theme": [
+            "theme": [
                 "https://data.go.id/theme/sektoral"
             ],
-            "dct:accrualPeriodicity": "R/P1Y",
-            "dcat:distribution": [
+            "accrualPeriodicity": "R/P1Y",
+            "distribution": [
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2017",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2017",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-05-15",
-                    "dct:modified": "2025-05-15"
+                    "title": "Data Tahun 2017",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2017",
+                    "mediaType": "application/json",
+                    "issued": "2025-05-15",
+                    "modified": "2025-05-15"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2019",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2019",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-07-18",
-                    "dct:modified": "2025-07-18"
+                    "title": "Data Tahun 2019",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2019",
+                    "mediaType": "application/json",
+                    "issued": "2025-07-18",
+                    "modified": "2025-07-18"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2020",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2020",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-07-18",
-                    "dct:modified": "2025-07-18"
+                    "title": "Data Tahun 2020",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2020",
+                    "mediaType": "application/json",
+                    "issued": "2025-07-18",
+                    "modified": "2025-07-18"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2021",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2021",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-07-21",
-                    "dct:modified": "2025-07-21"
+                    "title": "Data Tahun 2021",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2021",
+                    "mediaType": "application/json",
+                    "issued": "2025-07-21",
+                    "modified": "2025-07-21"
                 },
                 {
                     "@type": "Distribution",
-                    "dct:title": "Data Tahun 2022",
-                    "dcat:accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2022",
-                    "dcat:mediaType": "application/json",
-                    "dct:issued": "2025-07-21",
-                    "dct:modified": "2025-07-21"
+                    "title": "Data Tahun 2022",
+                    "accessURL": "https://satudata.padangpanjang.go.id/api/dataset/4/tahun/2022",
+                    "mediaType": "application/json",
+                    "issued": "2025-07-21",
+                    "modified": "2025-07-21"
                 }
             ]
         }
