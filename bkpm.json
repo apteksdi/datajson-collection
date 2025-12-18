@@ -1,0 +1,45 @@
+{
+    "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+    "@id": "https://data.bkpm.go.id",
+    "@type": "dcat:Catalog",
+    "conformsTo": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
+    "dataset": [
+        {
+            "@type": "dcat:Dataset",
+            "identifier": "01bc3db9-62a5-4f18-8e31-bc4852c666e7",
+            "title": "Data Realisasi Investasi Triwulan III Tahun 2025",
+            "description": "",
+            "keyword": [
+                "investasi",
+                "realisasi",
+                "penanaman modal"
+            ],
+            "publisher": {
+                "@type": "org:Organization",
+                "name": "Direktorat Data dan Informasi"
+            },
+            "contactPoint": {
+                "fn": "Datin",
+                "hasEmail": "zidny@bkpm.go.id"
+            },
+            "issued": "2025-10-17",
+            "modified": "2025-12-18",
+            "accessLevel": "public",
+            "distribution": [
+                {
+                    "@type": "dcat:Distribution",
+                    "title": "data-realisasi-investasi-triwulan-iii-tahun-2025-hXdFHZK",
+                    "downloadURL": "https://data.bkpm.go.id/dataset/generate-download-zip/01bc3db9-62a5-4f18-8e31-bc4852c666e7/file",
+                    "mediaType": "text/csv",
+                    "format": "csv",
+                    "accessURL": "https://data.bkpm.go.id/dataset-detail/data-realisasi-investasi-triwulan-iii-tahun-2025-hXdFHZK"
+                }
+            ],
+            "landingPage": "https://data.bkpm.go.id/dataset-detail/data-realisasi-investasi-triwulan-iii-tahun-2025-hXdFHZK",
+            "accrualPeriodicity": "Tahunan",
+            "theme": "Data Prioritas",
+            "license": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ]
+}
